@@ -1,0 +1,1349 @@
+Projectiles: {
+	AlloyArrowProj.DisplayName: 休眠合金箭
+	AngelProj.DisplayName: 圣光箭
+	BlizzardArrowProj.DisplayName: 暴风雪箭
+	BoomerangProj.DisplayName: 回旋弓弹
+	BowDamage.DisplayName: 弓箭伤害判定弹
+	BownanarangProj.DisplayName: 弓式回旋镖
+	ColdProj.DisplayName: 寒冰箭
+	CrimsonArrowProj.DisplayName: 猩红箭
+	Crit_Effect_1.DisplayName: 暴击特效
+	CrystalArrowProj.DisplayName: 水晶箭
+	DarkProj.DisplayName: 暗影箭
+	DarkProj2.DisplayName: 暗影箭
+	DemonArrowProj.DisplayName: 恶魔箭
+	DemonProjLight.DisplayName: 恶魔光箭
+	DiamondProj.DisplayName: 钻石箭
+	ElectricProj.DisplayName: 雷电箭
+	ElementalProj.DisplayName: 元素箭
+	ElementalProj2.DisplayName: 元素箭
+	EmeraldProj.DisplayName: 翡翠箭
+	ExplodeSplash.DisplayName: 爆炸溅射
+	ExplosiveArrowProj.DisplayName: 爆炸箭
+	EyeballProj.DisplayName: 眼球弹
+	FishProj.DisplayName: 鱼形箭
+	FlamarangProj.DisplayName: 烈焰回旋弹
+	FlintShrapnel.DisplayName: 燧石碎片
+	GelArrowProj.DisplayName: 凝胶箭
+	GemProj.DisplayName: 宝石箭
+	GraniteArrowProj.DisplayName: 花岗岩箭
+	Grenade1Proj.DisplayName: 箭式手雷
+	GrenadeFireProj.DisplayName: 烈焰手雷
+	GrenadeSkyProj.DisplayName: 天降手雷
+	GrenadeIceProj.DisplayName: 寒冰手雷
+	GrenadePoisonProj.DisplayName: 剧毒手雷
+	HallowProj.DisplayName: 神圣箭
+	HallowStrike.DisplayName: 神圣冲击
+	HitEffect_1.DisplayName: 命中特效
+	MagicProj.DisplayName: 魔法箭
+	MarbleArrowProj.DisplayName: 大理石箭
+	MechanicalEye.DisplayName: 机械眼球
+	MeteorProj.DisplayName: 陨石箭
+	MeteorProjBig.DisplayName: 陨石箭
+	NebulaArrowProj.DisplayName: 星云箭
+	PearlArrowProj.DisplayName: 珍珠箭
+	PoisonArrowProj.DisplayName: 剧毒箭
+	PurpleArrowProj.DisplayName: 暗紫箭
+	RainbowProj.DisplayName: 彩虹箭
+	RubyProj.DisplayName: 红宝石箭
+	SandArrowProj.DisplayName: 沙石箭
+	SandStoneArrowProj.DisplayName: 砂岩箭
+	SandstormArrowProj.DisplayName: 沙暴箭
+	SandstormProjLong.DisplayName: 大型沙暴
+	SandstormProj.DisplayName: 沙暴弹
+	SapphireProj.DisplayName: 蓝宝石箭
+	ShellProj.DisplayName: 贝壳箭
+	ShellProj2.DisplayName: 贝壳箭
+	SkyArrowProj.DisplayName: 天降箭
+	SnowArrowProj.DisplayName: 冰雪箭
+	SolarArrowProj.DisplayName: 烈日箭
+	SpiderMini.DisplayName: 小型蜘蛛
+	SpiderProj.DisplayName: 蜘蛛箭
+	StardustArrowProj.DisplayName: 星尘箭
+	SteelArrowProj.DisplayName: 钢箭弹
+	StoneArrowProj.DisplayName: 石箭
+	SurgeProj.DisplayName: 脉冲箭
+	TopazProj.DisplayName: 黄玉箭
+	TruePurpleProj.DisplayName: 纯粹暗紫箭
+	TrueRedProj.DisplayName: 纯粹赤红箭
+	VortexArrowProj.DisplayName: 涡流箭
+	AmethystTrail.DisplayName: 紫水晶轨迹弹
+	EbonwoodProj.DisplayName: 暗影木箭
+	ExplosionLarge.DisplayName: 大型爆炸
+	FlameProj.DisplayName: 烈焰箭
+	FrostProj.DisplayName: 寒霜箭
+	ShadewoodProj.DisplayName: 阴木箭
+	WoodenCrossbowProj.DisplayName: 木弩弹
+	Yondu.DisplayName: 勇度飞箭
+}
+
+Prefixes: {
+	AncientPrefix.DisplayName: 远古
+	SleekPrefix.DisplayName: 顺滑
+	SnappedPrefix.DisplayName: 断裂
+	StrainedPrefix.DisplayName: 紧绷
+	SwiftPrefix.DisplayName: 迅捷
+}
+
+NPCs: {
+	ZombieArcher.DisplayName: 僵尸弓箭手
+
+	Archer: {
+		DisplayName: 弓箭手
+
+		TownNPCMood: {
+			Content: 一切安好，只可惜这些路人总把鹿吓跑，我好想吃鹿肉。
+			NoHome: 荒野我也能适应，只是真想洗个澡。
+			FarFromHome: 我怀念埃默里的老家，那里有我最好的朋友。
+			LoveSpace: 清晨露水的味道实在太棒了！
+			DislikeCrowded: 你是很穷吗？不能给我宽敞点的房间？
+			HateCrowded: 这么多人乱跑我怎么练箭？刚才差点射中那个帅哥！
+			LikeNPC_Princess: 还行吧，但我的弓箭才是挚爱。
+			Princess_LovesNPC: "{NPCName}这人藏着神秘感，让人忍不住心动！"
+			LikeBiome: 没有比{BiomeName}更适合漫游的地方了！
+			LikeNPC: 我挺喜欢{NPCName}的。
+		}
+
+		Dialogue1: 拿剑的家伙还是离远点吧。
+		Dialogue2: 无数旅人跋山涉水只为找箭术大师，而我，只惦记你兜里的金币。
+		Dialogue3: 要是不小心一箭射到自己脸上，可别来找我。
+		Dialogue4: 想猎杀吸血鬼或是玩角色扮演，我的十字弓再合适不过。
+		Dialogue5: 同为弓手！我这儿有各式箭矢，要不要看看？
+		Census.SpawnCondition: 背包内持有弓与箭矢时刷新
+	}
+
+	FishBowHint.DisplayName: 在海洋钓鱼获取
+	FrostBowHint.DisplayName: 开启寒冰箭袋获得
+	StrangeItemsHint.DisplayName: 开启高阶箭袋获得
+}
+
+Bestiary: {
+	Archer: 来自远方的箭术大师。
+	ZombieArcher: 森林向来危机四伏，就算是老练猎人，也会被僵尸偷袭咬伤。
+}
+
+Items: {
+	SteelBar: {
+		DisplayName: 钢锭
+		Tooltip: ""
+	}
+
+	Leather: {
+		DisplayName: 皮革
+		Tooltip: ""
+	}
+
+	ArrowPotion: {
+		DisplayName: 初级射手药剂
+		Tooltip: 远程伤害提升10%
+	}
+
+	VortexArrow: {
+		DisplayName: 涡流箭
+		Tooltip: 自动追踪敌人
+	}
+
+	SilkString: {
+		DisplayName: 丝线
+		Tooltip: 用于制作各类弓
+	}
+
+	StoneArrow: {
+		DisplayName: 石箭
+		Tooltip: 伤害不俗
+	}
+
+	SteelArrow: {
+		DisplayName: 钢箭
+		Tooltip: 击退力极高
+	}
+
+	StardustArrow: {
+		DisplayName: 星尘箭
+		Tooltip: 命中留下星尘定时炸弹
+	}
+
+	SolarArrow: {
+		DisplayName: 烈日箭
+		Tooltip: 命中爆发烈日烈焰
+	}
+
+	SnowArrow: {
+		DisplayName: 雪球箭
+		Tooltip: 命中散落大量雪球
+	}
+
+	SkyArrow: {
+		DisplayName: 天降箭
+		Tooltip: 命中后从空中倾泻木箭
+	}
+
+	SandstormArrow: {
+		DisplayName: 沙暴箭
+		Tooltip: 命中生成沙暴区域
+	}
+
+	SandArrow: {
+		DisplayName: 沙石箭
+		Tooltip:
+			'''
+			飞行速度快
+			命中施加混乱
+			'''
+	}
+
+	ReinforcedString: {
+		DisplayName: 强化丝线
+		Tooltip: 打造强力弓的素材
+	}
+
+	PoisonArrow: {
+		DisplayName: 花毒箭
+		Tooltip: 命中施加中毒
+	}
+
+	PearlArrow: {
+		DisplayName: 珍珠石箭
+		Tooltip: ""
+	}
+
+	NebulaArrow: {
+		DisplayName: 星云箭
+		Tooltip: 命中生成提升属性星云
+	}
+
+	MysticString: {
+		DisplayName: 秘法丝线
+		Tooltip: 打造高阶魔法弓
+	}
+
+	MysticShard: {
+		DisplayName: 秘法碎片
+		Tooltip: 蕴含光明能量
+	}
+
+	MarbleArrow: {
+		DisplayName: 大理石箭
+		Tooltip:
+			'''
+			可穿透多名敌人
+			不受重力影响
+			'''
+	}
+
+	GrenadePoison: {
+		DisplayName: 剧毒箭手雷
+		Tooltip: 爆炸生成花毒箭
+	}
+
+	GrenadeIce: {
+		DisplayName: 寒冰箭手雷
+		Tooltip: 爆炸生成灼冰箭
+	}
+
+	GrenadeSky: {
+		DisplayName: 天降箭手雷
+		Tooltip:
+			'''
+			爆炸生成天降箭
+			命中从空中落下箭矢
+			'''
+	}
+
+	GrenadeFire: {
+		DisplayName: 烈焰箭手雷
+		Tooltip: 爆炸生成烈焰箭
+	}
+
+	Grenade1: {
+		DisplayName: 基础箭手雷
+		Tooltip: 爆炸生成木箭
+	}
+
+	GraniteArrow: {
+		DisplayName: 花岗岩箭
+		Tooltip: ""
+	}
+
+	GelArrow: {
+		DisplayName: 凝胶箭
+		Tooltip: 可在墙壁反弹
+	}
+
+	ExplosiveArrow: {
+		DisplayName: 爆炸箭
+		Tooltip: 命中直接引爆
+	}
+
+	DwarfAlloy: {
+		DisplayName: 陨星合金
+		Tooltip: 逝去星辰的残余物质
+	}
+
+	DemonicString: {
+		DisplayName: 恶魔丝线
+		Tooltip: 制作强力恶魔弓
+	}
+
+	DemonicShard: {
+		DisplayName: 恶魔碎片
+		Tooltip: 蕴含暗影能量
+	}
+
+	DemonArrow: {
+		DisplayName: 恶魔箭
+		Tooltip: 侵蚀敌人生命力
+	}
+
+	DaoShard: {
+		DisplayName: 道之碎片
+		Tooltip: 平衡性完美的素材
+	}
+
+	CrystalArrow: {
+		DisplayName: 水晶箭
+		Tooltip: 命中炸裂水晶碎片
+	}
+
+	CrimsonArrow: {
+		DisplayName: 猩红箭
+		Tooltip: 命中汲取生命
+	}
+
+	BrokenBow: {
+		DisplayName: 破损英雄弓
+		Tooltip: ""
+	}
+
+	BlizzardArrow: {
+		DisplayName: 暴风雪箭
+		Tooltip: 命中召唤小型暴风雪
+	}
+
+	AlloyArrow: {
+		DisplayName: 休眠合金箭
+		Tooltip: 命中生成穿透爆炸
+	}
+
+	WoodenCrossbow: {
+		DisplayName: 木十字弩
+		Tooltip: 右键蓄力发射箭矢
+	}
+
+	WaterWrath: {
+		DisplayName: 海神之怒
+		Tooltip: 释放水系大范围冲击
+	}
+
+	Twinshot: {
+		DisplayName: 双发弓
+		Tooltip:
+			'''
+			每两箭射出诅咒烈焰
+			每五箭释放激光
+			'''
+	}
+
+	TripleShot: {
+		DisplayName: 三连弓
+		Tooltip: 扇形射出三支箭矢
+	}
+
+	TopazBow: {
+		DisplayName: 黄玉弓
+		Tooltip: 发射黄玉箭矢
+	}
+
+	TitaniumBow: {
+		DisplayName: 钛合金弓
+		Tooltip: ""
+	}
+
+	BlendedBow: {
+		DisplayName: 融合弓
+		Tooltip: ""
+	}
+
+	TechnoBow: {
+		DisplayName: 科技弓
+		Tooltip:
+			'''
+			射速极快
+			弹道略微偏移
+			'''
+	}
+
+	Swiftshot: {
+		DisplayName: 速射弓
+		Tooltip: ""
+	}
+
+	SturdyCrossbow: {
+		DisplayName: 坚固十字弩
+		Tooltip: 右键蓄力发射箭矢
+	}
+
+	StrangeBow: {
+		DisplayName: 奇异之弓
+		Tooltip:
+			'''
+			伤害数值随机
+			威力随击败Boss提升
+			'''
+	}
+
+	SteelSword: {
+		DisplayName: 钢剑
+		Tooltip: ""
+	}
+
+	SteelPickaxe: {
+		DisplayName: 钢镐
+		Tooltip: ""
+	}
+
+	SteelHammer: {
+		DisplayName: 钢锤
+		Tooltip: ""
+	}
+
+	SteelBow: {
+		DisplayName: 钢弓
+		Tooltip: 自动将木箭转为钢箭
+	}
+
+	SteelAxe: {
+		DisplayName: 钢斧
+		Tooltip: ""
+	}
+
+	SpiderBow: {
+		DisplayName: 蜘蛛弓
+		Tooltip: 射出小型织网蜘蛛
+	}
+
+	SpectralShot: {
+		DisplayName: 幽影弹
+		Tooltip: 释放幽影攻击
+	}
+
+	ShellShot: {
+		DisplayName: 贝壳弹
+		Tooltip: 伤害厚重
+	}
+
+	SapphireBow: {
+		DisplayName: 蓝宝石弓
+		Tooltip: 发射蓝宝石箭矢
+	}
+
+	SandstormBow: {
+		DisplayName: 沙暴弓
+		Tooltip: 木箭转为可穿墙沙暴箭
+	}
+
+	SandBow: {
+		DisplayName: 沙石弓
+		Tooltip: 木箭转为沙石箭
+	}
+
+	RubyBow: {
+		DisplayName: 红宝石弓
+		Tooltip: 发射红宝石箭矢
+	}
+
+	RepeaterBow: {
+		DisplayName: 连发弓
+		Tooltip: 快速两发箭矢
+	}
+
+	ReinforcedBow: {
+		DisplayName: 强化弓
+		Tooltip: 射速慢，伤害高
+	}
+
+	Rapidfire: {
+		DisplayName: 极速弓
+		Tooltip: 射击快，威力单薄
+	}
+
+	RapidBow: {
+		DisplayName: 快弓
+		Tooltip: ""
+	}
+
+	RainBow: {
+		DisplayName: 彩虹弓
+		Tooltip:
+			'''
+			射出长效彩虹光束
+			“谁想出这玩意儿？”
+			'''
+	}
+
+	PurpleBowTrue: {
+		DisplayName: 纯粹毁灭魔弓
+		Tooltip:
+			'''
+			一次射出两箭
+			快箭可穿透并施加腐蚀
+			'''
+	}
+
+	PurpleBow: {
+		DisplayName: 毁灭魔弓
+		Tooltip: 射出恶魔箭矢
+	}
+
+	PoisonShot: {
+		DisplayName: 毒棘箭
+		Tooltip: 木箭转为花毒箭
+	}
+
+	PalladiumBow: {
+		DisplayName: 钯金弓
+		Tooltip: ""
+	}
+
+	OricalcumBow: {
+		DisplayName: 山铜弓
+		Tooltip: ""
+	}
+
+	MythrilBow: {
+		DisplayName: 秘银弓
+		Tooltip: ""
+	}
+
+	MoltenCrossbow: {
+		DisplayName: 熔火十字弩
+		Tooltip:
+			'''
+			木箭会被引燃
+			右键蓄力发射箭矢
+			'''
+	}
+
+	MeteorBow: {
+		DisplayName: 陨星爆发弓
+		Tooltip: 向敌人释放陨星冲击
+	}
+
+	MetalBow: {
+		DisplayName: 金属爆发弓
+		Tooltip:
+			'''
+			发射钢箭
+			大地力量融合造物
+			'''
+	}
+
+	MachineBow: {
+		DisplayName: 机械弓
+		Tooltip: 弹道略微偏移
+	}
+
+	LunarWrath: {
+		DisplayName: 月怒弓
+		Tooltip: 从天召唤星弹
+	}
+
+	LunarBow: {
+		DisplayName: 月弓
+		Tooltip: 光标处落下星辰
+	}
+
+	LavaBow: {
+		DisplayName: 熔火弓
+		Tooltip: 木箭转为烈焰箭
+	}
+
+	KingBow: {
+		DisplayName: 王者之弓
+		Tooltip: “王者专属兵器！”
+	}
+
+	IchorBow: {
+		DisplayName: 脓毒弓
+		Tooltip: 发射脓毒箭矢
+	}
+
+	HyperBow: {
+		DisplayName: 超速弓
+		Tooltip: 射速极快
+	}
+
+	HunterCrossbow: {
+		DisplayName: 猎手十字弩
+		Tooltip: 右键蓄力发射箭矢
+	}
+
+	HunterBow: {
+		DisplayName: 猎手弓
+		Tooltip: ""
+	}
+
+	HallowedCrossbow: {
+		DisplayName: 神圣十字弩
+		Tooltip: 右键扇形射出神圣箭矢
+	}
+
+	HallowBow: {
+		DisplayName: 圣视弓
+		Tooltip: 释放光暗混合弹幕，附带中心神圣箭
+	}
+
+	GemSpark: {
+		DisplayName: 宝石散射弓
+		Tooltip: 扇形多彩箭矢
+	}
+
+	GaleBow: {
+		DisplayName: 天罚连射弓
+		Tooltip: 神明之力握于手中
+	}
+
+	FrostBow: {
+		DisplayName: 寒霜弓
+		Tooltip: 木箭转为灼冰箭
+	}
+
+	FreezeflameBow: {
+		DisplayName: 冰火双弓
+		Tooltip: 木箭同时变为冰箭与火箭
+	}
+
+	FleshRepeater: {
+		DisplayName: 血肉连发弓
+		Tooltip: 快速三箭齐发
+	}
+
+	FlamarangBow: {
+		DisplayName: 烈焰回旋弓
+		Tooltip: 向四周喷射烈焰弹
+	}
+
+	FishBow: {
+		DisplayName: 鳟鱼喷射弓
+		Tooltip: 木箭变为带敌意鱼箭
+	}
+
+	Eyeshot: {
+		DisplayName: 眼球射击弓
+		Tooltip: 高速穿透眼球弹
+	}
+
+	EmeraldBow: {
+		DisplayName: 翡翠弓
+		Tooltip: 发射翡翠箭矢
+	}
+
+	ElementalBow: {
+		DisplayName: 元素狂怒弓
+		Tooltip: 拥有全部元素弓效果
+	}
+
+	Eclipse: {
+		DisplayName: 地平线弓
+		Tooltip: 命中灼烧区域并召唤陨星
+	}
+
+	DungeonBow: {
+		DisplayName: 水漾喷射弓
+		Tooltip: 微弱水系箭矢
+	}
+
+	DualShot: {
+		DisplayName: 双连发弓
+		Tooltip: 两组双箭齐发
+	}
+
+	DiamondBow: {
+		DisplayName: 钻石弓
+		Tooltip: 发射钻石箭矢
+	}
+
+	CursedBow: {
+		DisplayName: 诅咒弓
+		Tooltip: 射出诅咒箭矢
+	}
+
+	CrystalStrike: {
+		DisplayName: 水晶冲击弓
+		Tooltip: 射出水晶脉冲与中距水晶尖刺，附带两支普通箭
+	}
+
+	CrystalCrossbow: {
+		DisplayName: 水晶十字弩
+		Tooltip: 右键蓄力水晶箭
+	}
+
+	CrimsonBowTrue: {
+		DisplayName: 纯粹猩红死神弓
+		Tooltip: 扇形猩红箭矢，中间箭可穿透吸血
+	}
+
+	CrimsonBow: {
+		DisplayName: 猩红死神弓
+		Tooltip: 射出吸血猩红箭
+	}
+
+	ColdBow: {
+		DisplayName: 绝对零度弓
+		Tooltip: 扇形冰冻箭矢
+	}
+
+	CobaltBow: {
+		DisplayName: 钴弓
+		Tooltip: ""
+	}
+
+	CloudBow: {
+		DisplayName: 雷霆弓
+		Tooltip: 概率释放雷电光球
+	}
+
+	ClockworkBow: {
+		DisplayName: 发条弓
+		Tooltip: 快速三箭
+	}
+
+	CactusBow: {
+		DisplayName: 仙人掌弓
+		Tooltip: ""
+	}
+
+	Bownanarang: {
+		DisplayName: 弓式回旋镖
+		Tooltip: 最多五层叠加
+	}
+
+	BoomerangBow: {
+		DisplayName: 回旋弓
+		Tooltip:
+			'''
+			箭矢四散喷射
+			“一件受诅咒造物”
+			'''
+	}
+
+	Armageddon: {
+		DisplayName: 末日弓
+		Tooltip: 释放陨星冲击，天降陨石
+	}
+
+	ArcherCrossbow: {
+		DisplayName: 猎手十字弩
+		Tooltip: 右键倾泻蓄力箭矢
+	}
+
+	ApolloBow: {
+		DisplayName: 阿波罗连射弓
+		Tooltip: 倾泻熔岩火焰弹
+	}
+
+	AmethystBow: {
+		DisplayName: 紫水晶弓
+		Tooltip: 发射紫水晶箭矢
+	}
+
+	AmberBow: {
+		DisplayName: 琥珀弓
+		Tooltip: 发射琥珀箭矢
+	}
+
+	Amalgamation: {
+		DisplayName: 融合之弓
+		Tooltip: 每三箭射出强力扇形箭矢
+	}
+
+	AdamantiteBow: {
+		DisplayName: 精金弓
+		Tooltip: ""
+	}
+
+	Hide: {
+		DisplayName: 兽皮
+		Tooltip: 制作射手防具素材
+	}
+
+	SteelHide: {
+		DisplayName: 硬化兽皮
+		Tooltip: 制作强力防具
+	}
+
+	ReinforcedHide: {
+		DisplayName: 强化兽皮
+		Tooltip: 制作优质防具
+	}
+
+	StarterBag: {
+		DisplayName: 射手初始包
+		Tooltip:
+			'''
+			外面很危险，带上这个！
+			右键开启
+			'''
+	}
+
+	JungleBag: {
+		DisplayName: 毒系箭袋
+		Tooltip:
+			'''
+			可能开出弓与箭矢
+			右键开启
+			'''
+	}
+
+	IceBag: {
+		DisplayName: 寒冰箭袋
+		Tooltip:
+			'''
+			可能开出弓与箭矢
+			右键开启
+			'''
+	}
+
+	ArrowBag5: {
+		DisplayName: 五级高阶箭袋
+		Tooltip:
+			'''
+			可能开出弓与箭矢
+			右键开启
+			'''
+	}
+
+	ArrowBag4: {
+		DisplayName: 四级箭袋
+		Tooltip:
+			'''
+			可能开出弓与箭矢
+			右键开启
+			'''
+	}
+
+	ArrowBag3: {
+		DisplayName: 三级箭袋
+		Tooltip:
+			'''
+			可能开出弓与箭矢
+			右键开启
+			'''
+	}
+
+	ArrowBag2: {
+		DisplayName: 二级箭袋
+		Tooltip:
+			'''
+			可能开出弓与箭矢
+			右键开启
+			'''
+	}
+
+	ArrowBag: {
+		DisplayName: 一级基础箭袋
+		Tooltip:
+			'''
+			可能开出弓与箭矢
+			右键开启
+			'''
+	}
+
+	SteelPants: {
+		DisplayName: 钢护腿
+		Tooltip: ""
+	}
+
+	SteelHelmetRanged: {
+		DisplayName: 钢射手头盔
+		Tooltip: ""
+		SetBonus:
+			'''
+			{0}%远程伤害
+			金属爆发弓射速提升{1}%
+			'''
+	}
+
+	SteelHelmet: {
+		DisplayName: 钢盔
+		Tooltip: ""
+		SetBonus: "{0}点防御"
+	}
+
+	SteelChest: {
+		DisplayName: 钢胸甲
+		Tooltip: ""
+	}
+
+	RobinTunic: {
+		DisplayName: 罗宾上衣
+		Tooltip:
+			'''
+			远程伤害+3%
+			远程暴击率+5%
+			'''
+	}
+
+	RobinPants: {
+		DisplayName: 罗宾长裤
+		Tooltip: 移动速度+12%
+	}
+
+	RobinHelmet: {
+		DisplayName: 罗宾兜帽
+		Tooltip: 远程伤害+5%
+		SetBonus:
+			'''
+			“我并非窃贼，只是亡命之徒！”
+			10%几率节省箭矢
+			永久夜视buff
+			'''
+	}
+
+	PixelPants: {
+		DisplayName: 像素长裤
+		Tooltip: ""
+	}
+
+	PixelHat: {
+		DisplayName: 像素帽
+		Tooltip: ""
+	}
+
+	PixelChest: {
+		DisplayName: 像素胸甲
+		Tooltip: ""
+	}
+
+	ArcherPants: {
+		DisplayName: 射手长裤
+		Tooltip: 移动速度+12%
+	}
+
+	ArcherHelmet: {
+		DisplayName: 射手头盔
+		Tooltip:
+			'''
+			远程伤害+5%
+			远程暴击率+5%
+			'''
+		SetBonus:
+			'''
+			远程伤害{0}%
+			远程暴击{1}%
+			20%几率节省箭矢
+			受伤无敌小幅延长
+			'''
+	}
+
+	ArcherCloak: {
+		DisplayName: 射手斗篷
+		Tooltip:
+			'''
+			远程伤害+5%
+			远程暴击率+5%
+			'''
+	}
+
+	ApolloLegs: {
+		DisplayName: 阿波罗护腿
+		Tooltip:
+			'''
+			远程伤害+5%
+			移动速度+15%
+			'''
+	}
+
+	ApolloHelmet: {
+		DisplayName: 阿波罗头盔
+		Tooltip:
+			'''
+			远程伤害+15%
+			远程暴击率+7%
+			'''
+		SetBonus:
+			'''
+			远程伤害{0}%
+			远程暴击{1}%
+			20%几率节省箭矢
+			'''
+	}
+
+	ApolloChest: {
+		DisplayName: 阿波罗胸甲
+		Tooltip: 远程伤害+20%
+	}
+
+	StrangeQuiver: {
+		DisplayName: 奇异箭袋
+		Tooltip:
+			'''
+			“不知道会变出什么？”
+			木箭随机转换箭矢，困难模式解锁更多种类
+			20%几率节省箭矢
+			'''
+	}
+
+	Target: {
+		DisplayName: 射击靶饰
+		Tooltip:
+			'''
+			箭矢速度+10%
+			提升精准度
+			'''
+	}
+
+	SteelTarget: {
+		DisplayName: 钢制靶饰
+		Tooltip:
+			'''
+			远程暴击+7%
+			穿透箭矢多穿一个敌人
+			拥有普通靶饰全部效果
+			'''
+	}
+
+	SherwoodBracer: {
+		DisplayName: 舍伍德护腕
+		Tooltip:
+			'''
+			“蒙面人遗留之物”
+			远程伤害+15%
+			拥有射手徽章效果
+			击杀箭矢掉落提升
+			'''
+	}
+
+	RogueBoots: {
+		DisplayName: 游侠长靴
+		Tooltip: 奔跑速度大幅提升
+	}
+
+	RogueEmblem: {
+		DisplayName: 学徒纹章
+		Tooltip:
+			'''
+			可飞行
+			奔跑速度极快
+			移速+40%
+			移速上限+25%
+			'''
+	}
+
+	MasterTreads: {
+		DisplayName: 大师足具
+		Tooltip:
+			'''
+			可飞行
+			极速奔跑
+			移速+50%，移速上限+35%
+			免疫岩浆、灼烧，可走水与蜂蜜
+			有几率闪避攻击
+			'''
+	}
+
+	ReinforcedShield: {
+		DisplayName: 强化战盾
+		Tooltip: 移动速度-7%
+	}
+
+	Quiver: {
+		DisplayName: 木箭袋
+		Tooltip: 10%几率节省箭矢
+	}
+
+	SturdyQuiver: {
+		DisplayName: 坚固箭袋
+		Tooltip:
+			'''
+			远程伤害+8%
+			10%几率节省箭矢
+			'''
+	}
+
+	HunterQuiver: {
+		DisplayName: 猎手箭袋
+		Tooltip:
+			'''
+			远程伤害+8%，远程暴击+8%
+			10%几率节省箭矢
+			'''
+	}
+
+	MysticQuiver: {
+		DisplayName: 秘法箭袋
+		Tooltip:
+			'''
+			“弓手魔法蕴藏肩头”
+			远程伤害+10%，暴击+10%
+			20%省箭，命中生成追踪魔法箭
+			'''
+	}
+
+	MechQuiver: {
+		DisplayName: 机械箭袋
+		Tooltip:
+			'''
+			远程伤害+20%，暴击+10%
+			20%省箭，箭矢速度大幅提升
+			拥有秘法箭袋全部效果
+			'''
+	}
+
+	FireQuiver: {
+		DisplayName: 烈焰箭袋
+		Tooltip:
+			'''
+			10%几率省箭
+			木箭自动转为烈焰箭
+			'''
+	}
+
+	IceQuiver: {
+		DisplayName: 寒冰箭袋
+		Tooltip:
+			'''
+			10%几率省箭
+			木箭自动转为寒冰箭
+			'''
+	}
+
+	FreezeflameQuiver: {
+		DisplayName: 冰火箭袋
+		Tooltip:
+			'''
+			远程伤害、暴击各+5%
+			10%省箭，木箭同时变冰、火箭
+			'''
+	}
+
+	HunterShield: {
+		DisplayName: 猎手盾
+		Tooltip: 移动速度+7%
+	}
+
+	HomingSensor: {
+		DisplayName: 追踪感应饰
+		Tooltip:
+			'''
+			“咻咻！”
+			箭矢自动追踪敌人
+			'''
+	}
+
+	Flint: {
+		DisplayName: 燧石
+		Tooltip: 命中碎裂为碎片
+	}
+
+	StoneAir: {
+		DisplayName: 疾风箭石
+		Tooltip:
+			'''
+			古代四大弓石之一
+			受伤释放电箭，移速+25%，机动性大幅提升
+			'''
+	}
+
+	StoneEarth: {
+		DisplayName: 大地箭石
+		Tooltip:
+			'''
+			古代四大弓石之一
+			受伤释放石箭，移速-10%
+			'''
+	}
+
+	StoneFire: {
+		DisplayName: 烈焰箭石
+		Tooltip:
+			'''
+			古代四大弓石之一
+			受伤释放火焰箭
+			'''
+	}
+
+	StoneWater: {
+		DisplayName: 流水箭石
+		Tooltip:
+			'''
+			古代四大弓石之一
+			受伤释放水系箭矢
+			'''
+	}
+
+	StoneElemental: {
+		DisplayName: 元素箭石
+		Tooltip:
+			'''
+			集齐四大弓石全部效果
+			免疫击退与岩浆灼烧
+			'''
+	}
+
+	BasicShield: {
+		DisplayName: 简易战盾
+		Tooltip: 移动速度-5%
+	}
+
+	ArrowCarver: {
+		DisplayName: 制箭工具
+		Tooltip:
+			'''
+			远程伤害+2%
+			远程暴击+5%
+			'''
+	}
+
+	ArcherMark: {
+		DisplayName: 射手徽记
+		Tooltip:
+			'''
+			顶级弓手加成
+			远程伤害+18%，暴击+12%
+			20%省箭，箭矢体型增大
+			拥有舍伍德护腕效果
+			'''
+	}
+
+	ArcherEmblem: {
+		DisplayName: 射手徽章
+		Tooltip:
+			'''
+			远程伤害、暴击各+7%
+			穿透箭多穿1个敌人
+			拥有钢制靶饰、燧石全部效果
+			'''
+	}
+
+	ArcherBand: {
+		DisplayName: 游侠指环
+		Tooltip: 移动速度大幅提升
+	}
+}
+
+DropConditions: {
+	ArrowBag1: 击败克苏鲁之眼前掉落
+	ArrowBag2: 击败克苏鲁之眼后，未击败世界吞噬者/大脑时掉落
+	ArrowBag3: 击败世界吞噬者/大脑后，未击败骷髅王掉落
+	ArrowBag4: 击败骷髅王后，未击败任意机械Boss掉落
+	ArrowBag5: 击败任意机械Boss后掉落
+	JungleBag: 丛林生物掉落
+	IceBag: 雪地生物掉落
+	StoneWater: 海洋生物掉落
+	MagicSoulGlobal: 模组射手精魂通用掉落判定
+}
+
+Buffs: {
+	PainBuff: {
+		DisplayName: 伤痛
+		Description: 每秒流失10点生命
+	}
+
+	HorseMountBuff: {
+		DisplayName: 马匹坐骑
+		Description: 骑马状态
+	}
+
+	ColdBuff: {
+		DisplayName: 严寒
+		Description: 每秒流失15点生命
+	}
+
+	ArrowBuff: {
+		DisplayName: 射手增幅
+		Description: 远程伤害提升10%
+	}
+
+	ApolloMinionBuff: {
+		DisplayName: 阿波罗随从
+		Description: 阿波罗召唤物
+	}
+}
+
+Configs: {
+	LocalConfig: {
+		DisplayName: 本地设置
+		Headers.Adjustments: 射手大修本地配置
+
+		configEnableStartingBag: {
+			Label: 启用初始射手包
+			Tooltip: 新建角色是否赠送射手初始包
+		}
+
+		configEnableArrowHitNPCEffect: {
+			Label: 开启箭矢命中怪物特效
+			Tooltip: 箭矢击中怪物是否显示画面特效
+		}
+
+		configEnableQuiversBackShowBow: {
+			Label: 箭饰品背部显示弓外观
+			Tooltip: 穿戴箭袋时，是否同时显示箭袋+弓模型
+		}
+	}
+
+	ServerConfig: {
+		DisplayName: 服务器设置
+		Headers.Adjustments: 射手大修服务器配置
+
+		configShrapnelTriggerOnCombinations: {
+			Label: 燧石碎片在组合饰品生效
+			Tooltip: 携带多件包含燧石效果配饰时，碎片特效是否触发
+		}
+
+		configRangedWeaponsAutoReuse: {
+			Label: 远程武器自动连发
+			Tooltip: 全部弓、弩自动持续射击（其他模组远程武器同样生效）
+		}
+
+		configEnableTargetFumbleMechanic: {
+			Label: 无靶饰箭矢偏移机制
+			Tooltip: 未装备射击靶饰时，箭矢散布、减速是否开启
+		}
+
+		configEnablePrefixes: {
+			Label: 启用专属词缀
+			Tooltip: 是否开启本模组弓箭专属附魔词缀
+		}
+
+		configEnable5PercentArrowRandomness: {
+			Label: 箭矢伤害体型5%浮动
+			Tooltip: 每支箭伤害、大小小幅随机变化
+		}
+
+		configEnableVanillaAccessoryRecipes: {
+			Label: 原版配饰新增合成配方
+			Tooltip: 是否添加原版饰品合成表
+		}
+
+		configEnableVanillaOreExchangeRecipes: {
+			Label: 同阶矿锭互换配方
+			Tooltip: 同等级金属锭互相转化合成开关
+		}
+
+		configEnableArrowGore: {
+			Label: 箭矢破碎粒子效果
+			Tooltip: 箭矢撞墙生成碎箭特效
+		}
+
+		configEnableArrowDropsOnCollsion: {
+			Label: 撞墙箭矢掉落道具
+			Tooltip: 箭矢撞墙消失时是否掉落对应箭矢物品
+		}
+
+		configEnableHomingOnlyOnTargetsInFront: {
+			Label: 追踪箭仅锁定前方目标
+			Tooltip: 追踪箭只锁定弹道前方怪物，减少绕圈追踪
+		}
+
+		configBagsDropChance: {
+			Label: 箭袋掉落概率[%]
+			Tooltip: 箭袋掉落过多可降低数值
+		}
+
+		configStonesDropChance: {
+			Label: 元素箭石掉落概率[%]
+			Tooltip: 箭石掉落太多可下调
+		}
+	}
+}

@@ -1,0 +1,11767 @@
+Buffs: {
+	AutomaticWhipCrackerMk2Buff: {
+		Description: 你不该拥有这个增益
+		DisplayName: 自动鞭击器Mk2标记增益
+	}
+
+	AutomaticWhipCrackerBuff: {
+		Description: 你不该拥有这个增益
+		DisplayName: 自动鞭击器标记增益
+	}
+
+	AxeOfTheAbyssBuff: {
+		DisplayName: 深渊之力
+		Description: 赋予你不死效果
+	}
+
+	BattleGuyBuff: {
+		DisplayName: 斗士之力
+		Description: 斗士之力现已握于你手中……
+	}
+
+	CandyCaneBuff: {
+		DisplayName: 糖果冲刺
+		Description: 提升生命值与魔力恢复速度
+	}
+
+	ChainedWhipBuff: {
+		DisplayName: 锁链鞭标记增益
+		Description: 你不该拥有这个增益
+	}
+
+	ChickenBuff: {
+		DisplayName: 怯弱状态
+		Description: 移动速度提升，攻击伤害降低
+	}
+
+	CoiledSerpentBuff: {
+		DisplayName: 盘绕巨蛇标记增益
+		Description: 你不该拥有这个增益
+	}
+
+	CoiledSerpentBuff2: {
+		DisplayName: 蛇之祝福
+		Description: 提升鞭子攻速、召唤伤害与移动速度
+	}
+
+	CosmicWhipBuff: {
+		DisplayName: 宇宙之鞭标记增益
+		Description: 你不该拥有这个增益
+	}
+
+	CosmicWhipBuff2: {
+		DisplayName: 宇宙威能
+		Description: 提升召唤师攻防属性
+	}
+
+	CrimtaneWhipBuff: {
+		DisplayName: 猩红鞭标记增益
+		Description: 你不该拥有这个增益
+	}
+
+	DemoniteWhipBuff: {
+		DisplayName: 魔矿鞭标记增益
+		Description: 你不该拥有这个增益
+	}
+
+	DoomCaneBuff: {
+		DisplayName: 厄运冲刺
+		Description: 提升生命值与魔力恢复速度
+	}
+
+	EarthquakeBuff: {
+		DisplayName: 狂怒震地
+		Description: 大幅提升近战属性
+	}
+
+	ElectricEelBuff: {
+		DisplayName: 电鳗标记增益
+		Description: 你不该拥有这个增益
+	}
+
+	IcedBuff: {
+		DisplayName: 冰封状态
+		Description: 无法使用任何物品
+	}
+
+	LavaEelBuff: {
+		DisplayName: 熔岩鳗标记增益
+		Description: 你不该拥有这个增益
+	}
+
+	LovePowerBuff: {
+		DisplayName: 爱之力量
+		Description: 提升生命恢复与远程攻击速度
+	}
+
+	MeditatedBuff: {
+		DisplayName: 冥想状态
+		Description: 魔力无限，小幅提升魔法伤害
+	}
+
+	MeteorBuff: {
+		DisplayName: 陨星狂怒
+		Description: 小幅提升近战属性
+	}
+
+	NightsCackleBuff: {
+		DisplayName: 暗夜嗤笑标记增益
+		Description: 你不该拥有这个增益
+	}
+
+	OriginalSnapBuff: {
+		DisplayName: 原始鞭响
+		Description: 提升鞭子攻速、鞭子击退力与召唤伤害
+	}
+
+	OriginWhipBuff: {
+		DisplayName: 起源之鞭标记增益
+		Description: 你不该拥有这个增益
+	}
+
+	PainBuff: {
+		DisplayName: 剧痛状态
+		Description: 进攻属性提升，但防御力与恢复能力大幅下降
+	}
+
+	PowerBuff: {
+		DisplayName: 超凡之力
+		Description: 全属性翻倍，魔力无限
+	}
+
+	QuipBuff: {
+		DisplayName: 俏皮鞭标记增益
+		Description: 你不该拥有这个增益
+	}
+
+	ReloadBuff: {
+		DisplayName: 装填完毕
+		Description: 远程伤害与攻击速度提升10%
+	}
+
+	SilverBuff: {
+		DisplayName: 迅捷银芒
+		Description: 大幅提升近战输出能力
+	}
+
+	SpookyBuff: {
+		DisplayName: 幽影附身
+		Description: 全属性大幅提升
+	}
+
+	StrikerBuff: {
+		DisplayName: 鞭手威能
+		Description: 鞭子攻速、伤害、范围提升10%
+	}
+
+	TrueDurendalBuff: {
+		DisplayName: 真杜兰达尔标记增益
+		Description: 你不该拥有这个增益
+	}
+
+	TrueDurendalBuff2: {
+		DisplayName: 真杜兰达尔祝福
+		Description: 提升鞭子攻速与召唤伤害
+	}
+
+	TrueNightsCackleBuff: {
+		DisplayName: 真·暗夜嗤笑标记增益
+		Description: 你不该拥有这个增益
+	}
+
+	HailStormCooldown: {
+		Description: 冰雹风暴处于冷却中
+		DisplayName: 冰雹风暴冷却
+	}
+
+	RustedDaggerCooldown: {
+		Description: 锈蚀之刃处于冷却中
+		DisplayName: 锈蚀之刃冷却
+	}
+
+	PaleRapierCooldown: {
+		DisplayName: 苍白细剑冷却
+		Description: 苍白细剑处于冷却中
+	}
+
+	PixelBladeCooldown: {
+		DisplayName: 像素之刃冷却
+		Description: 像素匕首处于冷却中
+	}
+
+	Cooldown6: {
+		Description: 像素天顶处于冷却中
+		DisplayName: 冷却
+	}
+
+	NukeCallerCooldown: {
+		Description: 核弹发射器处于冷却中
+		DisplayName: 核弹发射器冷却
+	}
+
+	NuclearFalloutCooldown: {
+		DisplayName: 核爆余波冷却
+		Description: 核爆余波处于冷却中
+	}
+
+	Cooldown9: {
+		Description: 幽影风暴处于冷却中
+		DisplayName: 冷却
+	}
+
+	Cooldown10: {
+		DisplayName: 冷却
+		Description: 弱化射击处于冷却中
+	}
+
+	Feared: {
+		Description: 满心惶恐
+		DisplayName: 恐惧状态
+	}
+
+	BrokenBones: {
+		DisplayName: 骨裂状态
+		Description: 你不该拥有这个增益
+	}
+
+	Blinded: {
+		Description: 你不该拥有这个增益
+		DisplayName: 致盲状态
+	}
+
+	BrokenBones2: {
+		Description: 你不该拥有这个增益
+		DisplayName: 骨裂状态2
+	}
+
+	Cooldown11: {
+		Description: 轮转左轮处于冷却中
+		DisplayName: 冷却
+	}
+
+	Pause: {
+		Description: 你不该拥有这个增益
+		DisplayName: 停滞状态
+	}
+
+	FastForward: {
+		Description: 你不该拥有这个增益
+		DisplayName: 时间快进
+	}
+
+	Dead: {
+		DisplayName: 死亡状态
+		Description: 你不该拥有这个增益
+	}
+
+	Stealthy: {
+		DisplayName: 潜行状态
+		Description: 野蛮近战伤害提升200%，近战暴击率提升12%，但移动速度大幅降低
+	}
+
+	PrehistoricPower: {
+		DisplayName: 原始威能
+		Description: 野蛮近战伤害提升50%，暴击率提升190%
+	}
+
+	Energized: {
+		DisplayName: 充能增益
+		Description: 野蛮近战伤害提升100%，野蛮近战暴击率提升8%，移动速度翻倍
+	}
+
+	CrazyKitty: {
+		DisplayName: 狂怒灵猫
+		Description: 野蛮近战伤害提升100%，野蛮近战暴击率提升12%，移动速度翻倍，野蛮近战速度提升50%
+	}
+
+	NaturesPower: {
+		DisplayName: 自然之力
+		Description: 野蛮近战伤害提升100%，野蛮近战暴击率提升100%，防御力增加12
+	}
+
+	HealthDecrease: {
+		DisplayName: 生命衰减
+		Description: 你不该拥有这个增益
+	}
+
+	StormShield: {
+		DisplayName: 风暴护盾
+		Description: 防御力增加12，生命恢复提升6，获得击退免疫
+	}
+
+	ShadowStrike: {
+		DisplayName: 暗影突袭
+		Description: 野蛮近战伤害提升100%，野蛮近战暴击率提升30%，野蛮近战速度提升15%，防御力增加10
+	}
+
+	TerraPower: {
+		DisplayName: 大地威能
+		Description: 野蛮近战伤害提升65%，野蛮近战暴击率提升30%，野蛮近战速度提升20%，防御力增加12
+	}
+
+	DarkenedPower: {
+		DisplayName: 暗黑之力
+		Description: 野蛮近战伤害提升100%，野蛮近战暴击率提升100%，提升近战速度，防御力增加16，移动速度翻倍
+	}
+
+	Shadowblood: {
+		DisplayName: 暗影之血
+		Description: 生命值上限增加50，但生命恢复降低2
+	}
+
+	FrostedFrights: {
+		DisplayName: 凛寒惊惧
+		Description: 你不该拥有这个增益
+	}
+
+	FrozenStrength: {
+		DisplayName: 凛寒巨力
+		Description: 野蛮近战伤害提升500%，野蛮近战暴击率提升20%，但失去全部防御力
+	}
+
+	SuspiciousDollCooldown: {
+		DisplayName: 诡谲玩偶冷却
+		Description: 诡谲玩偶处于冷却中
+	}
+
+	Cooldown13: {
+		DisplayName: 灵魂玩偶冷却
+		Description: 灵魂玩偶处于冷却中
+	}
+
+	GuardianDefense: {
+		DisplayName: 守护者壁垒
+		Description: 野蛮近战伤害提升50%，防御力翻倍，但失去所有生命恢复效果
+	}
+
+	Stunned: {
+		DisplayName: 眩晕状态
+		Description: 你不该拥有这个增益
+	}
+
+	PrismaticPower: {
+		DisplayName: 棱彩威能
+		Description: 野蛮近战伤害提升100%，生命恢复提升5，防御力减半
+	}
+
+	SuperBuff: {
+		DisplayName: 超强增幅
+		Description: 野蛮近战伤害提升100%，暴击率提升25%，移动速度翻倍
+	}
+
+	SpikedDollCooldown: {
+		DisplayName: 尖刺玩偶冷却
+		Description: 尖刺玩偶处于冷却中
+	}
+
+	PowerSpin: {
+		DisplayName: 旋击威能
+		Description: 远程伤害提升50%，提升暴击率，攻击速度提升25%
+	}
+
+	BoneSpin: {
+		DisplayName: 骨旋冲击
+		Description: 根据自身位置提升远程属性
+	}
+
+	QuickDraw: {
+		DisplayName: 迅捷拔击
+		Description: 野蛮近战伤害提升50%，近战速度提升100%
+	}
+
+	Enchanted: {
+		DisplayName: 附魔增幅
+		Description: 野蛮近战伤害提升100%，暴击率提升10%，攻击速度提升25%
+	}
+
+	Refreshed: {
+		DisplayName: 焕新状态
+		Description: 野蛮近战伤害提升200%，暴击率提升10%，攻击速度提升25%
+	}
+
+	NaturesPower2: {
+		DisplayName: 自然之力
+		Description: 所有伤害提升50%，野蛮近战暴击率提升50%，防御力增加15
+	}
+
+	QuickDraw2: {
+		DisplayName: 迅捷拔击
+		Description: 近战与远程攻击速度提升35%
+	}
+
+	Angry: {
+		DisplayName: 暴怒状态
+		Description: 提升攻击速度与伤害
+	}
+
+	TranquilizerCooldown: {
+		DisplayName: 镇静弹冷却
+		Description: 镇静弹处于冷却中
+	}
+
+	Tranquilized: {
+		DisplayName: 镇静效果
+		Description: 你不该拥有这个增益
+	}
+
+	DisabledMana: {
+		DisplayName: 魔力封禁
+		Description: 你不该拥有这个增益
+	}
+
+	SuperSpin: {
+		DisplayName: 超级旋击
+		Description: 你不该拥有这个增益
+	}
+
+	NuclearPower: {
+		DisplayName: 核子威能
+		Description: 提升远程伤害
+	}
+
+	BookWorm: {
+		DisplayName: 书虫增益
+		Description: 提升防御力、生命恢复与魔力恢复
+	}
+
+	DiamondSwordCooldown: {
+		DisplayName: 钻石剑冷却
+		Description: 钻石剑处于冷却中
+	}
+
+	PeaceKeeperCooldown: {
+		DisplayName: 维和者冷却
+		Description: 维和者处于冷却中
+	}
+
+	FieryDoomCooldown: {
+		DisplayName: 烈焰灾厄冷却
+		Description: 烈焰灾厄处于冷却中
+	}
+
+	RocketPower: {
+		DisplayName: 火箭推进
+		Description: 大幅提升移动速度
+	}
+
+	TotemOfLifeCooldown: {
+		DisplayName: 生命图腾冷却
+		Description: 生命图腾处于冷却中
+	}
+
+	UpgradedPower: {
+		DisplayName: 进阶威能
+		Description: 提升远程攻击速度
+	}
+
+	NegativePower: {
+		DisplayName: 负能侵蚀
+		Description: 近战伤害降低300%，暴击率降低10%，攻击速度降低25%
+	}
+
+	HardenedHoney: {
+		DisplayName: 硬化蜜甲
+		Description: 提升生命恢复与防御力
+	}
+
+	ChlorophyteTranquilizerCooldown: {
+		DisplayName: 叶绿镇静弹冷却
+		Description: 叶绿镇静弹处于冷却中
+	}
+
+	FlamingWoodKunaiCooldown: {
+		DisplayName: 焰木苦无冷却
+		Description: 焰木苦无处于冷却中
+	}
+
+	OrnamentsofDoomCooldown: {
+		DisplayName: 厄运饰物冷却
+		Description: 厄运饰物处于冷却中
+	}
+
+	ShamanTabletCooldown: {
+		DisplayName: 萨满石板冷却
+		Description: 萨满石板处于冷却中
+	}
+
+	Purified: {
+		DisplayName: 净化状态
+		Description: 你不该拥有这个增益
+	}
+
+	ShamanStaffBuff: {
+		DisplayName: 萨满法杖增益
+		Description: 你不该拥有这个增益
+	}
+
+	BigClubCooldown: {
+		DisplayName: 巨棍冷却
+		Description: 巨棍处于冷却中
+	}
+
+	Unconscious: {
+		DisplayName: 失去意识
+		Description: 你不该拥有这个增益
+	}
+
+	Splintered: {
+		DisplayName: 碎裂状态
+		Description: 你不该拥有这个增益
+	}
+
+	StarStrength: {
+		DisplayName: 星辰之力
+		Description: 提升生命恢复、防御力，移动速度翻倍
+	}
+
+	CogMachineCooldown: {
+		DisplayName: 齿轮装置冷却
+		Description: 齿轮装置处于冷却中
+	}
+
+	GearGloveBuff: {
+		DisplayName: 齿轮手套增益
+		Description: 你不该拥有这个增益
+	}
+
+	Gutted: {
+		DisplayName: 重创状态
+		Description: 你不该拥有这个增益
+	}
+
+	ColorSplash: {
+		DisplayName: 色彩飞溅
+		Description: 你不该拥有这个增益
+	}
+
+	MarbleSpikefishCooldown: {
+		DisplayName: 大理石尖刺鱼冷却
+		Description: 大理石尖刺鱼处于冷却中
+	}
+
+	Marbleskin: {
+		DisplayName: 大理石肤甲
+		Description: 防御力增加5，获得击退免疫
+	}
+
+	SeaweepBuff: {
+		DisplayName: 海潮鞭增益
+		Description: 你不该拥有这个增益
+	}
+
+	TridentPower: {
+		DisplayName: 三叉戟威能
+		Description: 水下伤害提升15%
+	}
+
+	AcidicStrength: {
+		DisplayName: 强酸巨力
+		Description: 野蛮近战伤害与击退力提升50%
+	}
+
+	Fishified: {
+		DisplayName: 鱼化状态
+		Description: 远程伤害提升，获得水下机动能力，水下远程攻速提升
+	}
+
+	BreakfastPower: {
+		DisplayName: 早餐之力
+		Description: 培根与煎蛋的力量流淌于你的体内
+	}
+
+	Clouded: {
+		DisplayName: 云雾缠身
+		Description: 你不该拥有这个增益
+	}
+
+	WinterfishBuff: {
+		DisplayName: 冬鱼增益
+		Description: 你不该拥有这个增益
+	}
+
+	WeaknessDetected: {
+		DisplayName: 弱点锁定
+		Description: 造成伤害提升100%
+	}
+
+	PrimeSawCooldown: {
+		DisplayName: 机械锯刃冷却
+		Description: 机械锯刃处于冷却中
+	}
+
+	InfernoSacrifice: {
+		DisplayName: 炼狱献祭
+		Description: 野蛮近战伤害提升75%，近战速度提升30%，暴击率提升15%
+	}
+
+	GoldenAchievementCooldown: {
+		DisplayName: 黄金功绩冷却
+		Description: 黄金功绩处于冷却中
+	}
+
+	ShroomSpin: {
+		DisplayName: 菌旋冲击
+		Description: 远程伤害提升33%，暴击率提升17%，攻击速度提升12%
+	}
+
+	ShadowPain: {
+		DisplayName: 暗影痛楚
+		Description: 你不该拥有这个增益
+	}
+
+	LifeCrystalLauncherCooldown: {
+		DisplayName: 生命水晶发射器冷却
+		Description: 生命水晶发射器处于冷却中
+	}
+
+	SkyStrength: {
+		DisplayName: 天穹之力
+		Description: 提升生命恢复、防御力与移动速度
+	}
+
+	BulletCannonCooldown: {
+		DisplayName: 弹药炮冷却
+		Description: 弹药炮处于冷却中
+	}
+
+	Heavy: {
+		DisplayName: 负重状态
+		Description: 垂直移动受到限制
+	}
+
+	ReloadBuff2: {
+		Description: 远程攻击速度提升
+		DisplayName: 装填完毕
+	}
+
+	BloodThirsty: {
+		DisplayName: 嗜血状态
+		Description: 大幅提升生命恢复，根据当前生命值提高野蛮近战伤害
+	}
+
+	SuperGutted: {
+		DisplayName: 重度重创
+		Description: 你不该拥有这个增益
+	}
+
+	GranitePower: {
+		DisplayName: 花岗岩威能
+		Description: 野蛮近战伤害提升25%，防御力增加10
+	}
+
+	MarblePower: {
+		DisplayName: 大理石威能
+		Description: 野蛮近战速度提升25%，生命恢复提升3
+	}
+
+	MushroomPower: {
+		DisplayName: 蘑菇威能
+		Description: 野蛮近战速度提升50%，生命恢复提升5
+	}
+
+	ShroomitePower: {
+		DisplayName: 蘑菇矿威能
+		Description: 野蛮近战伤害提升50%，防御力增加16
+	}
+
+	Crystalized: {
+		DisplayName: 晶化状态
+		Description: 野蛮近战速度提升50%，移动速度提升50%，野蛮近战暴击率提升8%
+	}
+
+	BlockyPower: {
+		DisplayName: 方块之力
+		Description: 方块与烟花的力量流淌于你的体内
+	}
+
+	WindyPower: {
+		DisplayName: 疾风之力
+		Description: 狂风的力量流淌于你的体内
+	}
+
+	FlyPower: {
+		DisplayName: 蝇群之力
+		Description: 飞虫的力量流淌于你的体内
+	}
+
+	PumpkinPower: {
+		DisplayName: 南瓜威能
+		Description: 幽影之力在你体内滋生
+	}
+
+	StickyDollCooldown: {
+		Description: 黏胶玩偶处于冷却中
+		DisplayName: 黏胶玩偶冷却
+	}
+
+	CursedKeyBuff: {
+		DisplayName: 诅咒钥匙增益
+		Description: 你不该拥有这个增益
+	}
+
+	LoveCooldown: {
+		DisplayName: 爱之力冷却
+		Description: 爱之力量增益处于冷却中
+	}
+
+	SpiritDollCooldown: {
+		Description: 灵魂玩偶处于冷却中
+		DisplayName: 灵魂玩偶冷却
+	}
+
+	StardustDollCooldown: {
+		Description: 星尘玩偶处于冷却中
+		DisplayName: 星尘玩偶冷却
+	}
+
+	ForbiddenPower: {
+		Description: 野蛮近战速度提升33%，生命恢复提升4
+		DisplayName: 禁忌威能
+	}
+
+	FrostPower: {
+		DisplayName: 寒霜威能
+		Description: 野蛮近战伤害提升33%，防御力增加12
+	}
+
+	HealthDecrease2: {
+		DisplayName: 生命衰减2
+		Description: 你不该拥有这个增益
+	}
+
+	HealthIncrease: {
+		DisplayName: 生命增幅
+		Description: 你不该拥有这个增益
+	}
+
+	HealthIncrease2: {
+		DisplayName: 生命增幅2
+		Description: 你不该拥有这个增益
+	}
+
+	OtherworldlyScarCooldown: {
+		DisplayName: 异界伤痕冷却
+		Description: 异界伤痕处于冷却中
+	}
+
+	SpiderScepterCooldown: {
+		DisplayName: 蜘蛛权杖冷却
+		Description: 蜘蛛权杖处于冷却中
+	}
+
+	Dusty: {
+		DisplayName: 沙尘缠身
+		Description: 你不该拥有这个增益
+	}
+
+	Dusty2: {
+		DisplayName: 沙尘缠身2
+		Description: 你不该拥有这个增益
+	}
+
+	ShadowflameWeakness: {
+		DisplayName: 暗影烈焰虚弱
+		Description: 你不该拥有这个增益
+	}
+
+	FleshWeakness: {
+		DisplayName: 血肉虚弱
+		Description: 你不该拥有这个增益
+	}
+
+	CreepyEyedolBuff: {
+		DisplayName: 诡谲神像增益
+		Description: 你不该拥有这个增益
+	}
+
+	BoneJacketCooldown: {
+		DisplayName: 骨甲冷却
+		Description: 骨甲处于冷却中
+	}
+
+	HellSerpentScepterCooldown: {
+		DisplayName: 地狱蛇杖冷却
+		Description: 地狱蛇杖处于冷却中
+	}
+
+	IceCubeScepterCooldown: {
+		DisplayName: 冰立方权杖冷却
+		Description: 冰立方权杖处于冷却中
+	}
+
+	BloodfangCooldown: {
+		DisplayName: 血牙冷却
+		Description: 血牙处于冷却中
+	}
+
+	DustDevilBuff: {
+		DisplayName: 沙尘恶魔增益
+		Description: 你不该拥有这个增益
+	}
+
+	SandyStrength: {
+		DisplayName: 沙尘巨力
+		Description: 鞭子攻速、范围与伤害得到提升
+	}
+
+	SnowyDollCooldown: {
+		DisplayName: 雪人玩偶冷却
+		Description: 雪人玩偶处于冷却中
+	}
+
+	NaturesCurse: {
+		DisplayName: 自然诅咒
+		Description: 你不该拥有这个增益
+	}
+
+	DruidPower: {
+		DisplayName: 德鲁伊之力
+		Description: 德鲁伊的祝福庇护着你
+	}
+
+	AerialBlessing: {
+		DisplayName: 凌空祝福
+		Description: 提升远程攻击速度
+	}
+
+	LootLusted: {
+		DisplayName: 寻宝狂热
+		Description: 你不该拥有这个增益
+	}
+
+	SunPowerStaffCooldown: {
+		DisplayName: 太阳之力法杖冷却
+		Description: 太阳之力法杖处于冷却中
+	}
+
+	VenomizedSpiderScepterCooldown: {
+		DisplayName: 毒化蜘蛛权杖冷却
+		Description: 毒化蜘蛛权杖处于冷却中
+	}
+
+	Greed: {
+		DisplayName: 贪婪状态
+		Description: 你不该拥有这个增益
+	}
+
+	HealthDecrease3: {
+		DisplayName: 生命衰减3
+		Description: 你不该拥有这个增益
+	}
+
+	ManaCrystalLauncherCooldown: {
+		DisplayName: 魔力水晶发射器冷却
+		Description: 魔力水晶发射器处于冷却中
+	}
+
+	SoulWeakness: {
+		DisplayName: 灵魂虚弱
+		Description: 你不该拥有这个增益
+	}
+
+	SoulWeakness2: {
+		DisplayName: 灵魂虚弱2
+		Description: 你不该拥有这个增益
+	}
+
+	PumpkinsCurse: {
+		Description: 你不该拥有这个增益
+		DisplayName: 南瓜诅咒
+	}
+
+	SiegeBowCooldown: {
+		DisplayName: 攻城弓冷却
+		Description: 攻城弓处于冷却中
+	}
+
+	Targeted: {
+		DisplayName: 标记效果
+		Description: 你不该拥有这个增益
+	}
+
+	OnyxReload: {
+		DisplayName: 缟玛瑙装填
+		Description: 提升远程攻击速度
+	}
+
+	Dusty3: {
+		DisplayName: 沙尘缠身3
+		Description: 你不该拥有这个增益
+	}
+
+	ManaStress: {
+		DisplayName: 魔力激荡
+		Description: 附魔魔法伤害翻倍
+	}
+
+	CrowShooterCooldown: {
+		DisplayName: 鸦群发射器冷却
+		Description: 鸦群发射器处于冷却中
+	}
+
+	MastersBlessing: {
+		DisplayName: 大师祝福
+		Description: 提升远程攻击速度
+	}
+
+	EnhancedColorSplash: {
+		DisplayName: 强化色彩飞溅
+		Description: 你不该拥有这个增益
+	}
+
+	Aura: {
+		Description: 光环
+		DisplayName: 光环
+	}
+
+	Aura2: {
+		DisplayName: 光环
+		Description: 光环
+	}
+
+	Aura3: {
+		DisplayName: 光环
+		Description: 光环
+	}
+
+	Aura4: {
+		DisplayName: 光环
+		Description: 光环
+	}
+
+	Aura5: {
+		DisplayName: 光环
+		Description: 光环
+	}
+
+	Aura6: {
+		DisplayName: 光环
+		Description: 光环
+	}
+
+	Aura7: {
+		DisplayName: 光环
+		Description: 光环
+	}
+
+	Aura8: {
+		DisplayName: 光环
+		Description: 光环
+	}
+
+	Aura9: {
+		DisplayName: 光环
+		Description: 光环
+	}
+
+	Aura10: {
+		DisplayName: 光环
+		Description: 光环
+	}
+
+	SharkPower: {
+		DisplayName: 鲨鱼威能
+		Description: 鲨鱼的力量在你体内涌动
+	}
+
+	DeathMark: {
+		DisplayName: 死亡印记
+		Description: 你不该拥有这个增益
+	}
+
+	InstantDetonationCooldown: {
+		DisplayName: 瞬发爆弹冷却
+		Description: 瞬发爆弹处于冷却中
+	}
+
+	WeakSplintered: {
+		DisplayName: 弱碎裂效果
+		Description: 你不该拥有这个增益
+	}
+
+	Growth: {
+		DisplayName: 生长状态
+		Description: 你不该拥有这个增益
+	}
+
+	Weathered: {
+		DisplayName: 风霜侵蚀
+		Description: 你不该拥有这个增益
+	}
+
+	ClothWhipBuff: {
+		DisplayName: 布鞭增益
+		Description: 你不该拥有这个增益
+	}
+
+	HealthIncrease3: {
+		DisplayName: 生命增幅3
+		Description: 你不该拥有这个增益
+	}
+
+	Tased: {
+		DisplayName: 电击麻痹
+		Description: 你不该拥有这个增益
+	}
+
+	ManaGather: {
+		DisplayName: 魔力汇聚
+		Description: 正在汇聚魔力
+	}
+
+	Doomed: {
+		DisplayName: 厄运缠身
+		Description: 你不该拥有这个增益
+	}
+
+	Drunk: {
+		DisplayName: 醉酒状态
+		Description: 持续恢复生命，但伤害降低33%
+	}
+
+	StrengthenedBones: {
+		DisplayName: 坚骨强化
+		Description: 骨骼坚不可摧，防御力翻倍
+	}
+
+	BloodDollCooldown: {
+		DisplayName: 鲜血玩偶冷却
+		Description: 鲜血玩偶处于冷却中
+	}
+
+	HolyCrossBuff: {
+		DisplayName: 圣十字增益
+		Description: 你不该拥有这个增益
+	}
+
+	HolyCurse: {
+		DisplayName: 神圣诅咒
+		Description: 你不该拥有这个增益
+	}
+
+	CursedWithPower: {
+		DisplayName: 力量诅咒
+		Description: 你不再受到束缚限制
+	}
+
+	CursedWithPowerCooldown: {
+		DisplayName: 力量诅咒冷却
+		Description: 力量诅咒处于冷却中
+	}
+
+	Charmed: {
+		DisplayName: 魅惑增幅
+		Description: 造成伤害提升
+	}
+
+	SpiritStaffCooldown: {
+		DisplayName: 灵魂法杖冷却
+		Description: 灵魂法杖处于冷却中
+	}
+
+	HealthDecrease4: {
+		DisplayName: 生命衰减4
+		Description: 你不该拥有这个增益
+	}
+
+	WitchsPower: {
+		DisplayName: 女巫之力
+		Description: 小幅提升灵魂恢复速度与灵魂上限
+	}
+
+	Ghosted: {
+		DisplayName: 幽影附身
+		Description: 小幅提升灵魂恢复速度与灵魂上限
+	}
+
+	GhostGrabberBuff: {
+		DisplayName: 幽魂攫取增益
+		Description: 你不该拥有这个增益
+	}
+
+	GhostWeakness: {
+		DisplayName: 幽魂虚弱
+		Description: 你不该拥有这个增益
+	}
+
+	Spirited: {
+		DisplayName: 活力增益
+		Description: 提升灵魂恢复速度与灵魂上限
+	}
+
+	JusticeReload: {
+		DisplayName: 正义装填
+		Description: 提升远程攻击速度
+	}
+
+	SidearmCooldown: {
+		DisplayName: 副武器冷却
+		Description: 副武器处于冷却中
+	}
+
+	ResourceGather: {
+		DisplayName: 资源汲取
+		Description: 正在汲取资源
+	}
+
+	LuckyFlip: {
+		DisplayName: 幸运掷币
+		Description: 幸运值翻倍，提升生命恢复，攻击速度提升33%
+	}
+
+	CoinFlipCooldown: {
+		DisplayName: 掷币冷却
+		Description: 掷币处于冷却中
+	}
+
+	HealthDecrease5: {
+		DisplayName: 生命衰减
+		Description: 你不该拥有这个增益
+	}
+
+	PartyTime: {
+		DisplayName: 派对时光
+		Description: 提升生命值、跳跃速度，获得击退免疫
+	}
+
+	Birthday: {
+		DisplayName: 生日祝福
+		Description: 小幅提升生命值、跳跃速度，获得击退免疫
+	}
+
+	Jolly: {
+		Description: Mods.BetterClasses.Buffs.Jolly.Description
+		DisplayName: 欢悦状态
+	}
+}
+
+Items: {
+	AdamantiteArrowLauncher: {
+		DisplayName: 精金箭矢发射器
+		Tooltip:
+			'''
+			50%几率不消耗弹药
+			从空中与身前射出各式随机箭矢
+			感谢 AdamChromee 的支持！
+			[c/ff000a:箭矢]
+			[c/00b332:「记住，别去钓鱼」]
+			[c/00fff7:贡献者物品]
+			'''
+	}
+
+	AerialStorm: {
+		DisplayName: 天穹风暴
+		Tooltip:
+			'''
+			66%几率不消耗弹药
+			每次射击射出一组高伤害箭矢，远程攻击速度提升3.5%
+			远程攻速增益上限持续14秒
+			'''
+	}
+
+	AncientScroll: {
+		DisplayName: 古老卷轴
+		Tooltip:
+			'''
+			蛊惑召唤物伤害与击退提升25%
+			将玩家转变为亡灵僵尸
+			僵尸形态移动速度降低且无法飞行
+			但僵尸形态拥有更高生命值、生命恢复、伤害，所有亡灵生物对你友好
+			'''
+	}
+
+	Apex: {
+		DisplayName: 巅峰之矛
+		Tooltip: 以长矛之力穿刺你的敌人
+	}
+
+	Apocalypse: {
+		DisplayName: 天启
+		Tooltip:
+			'''
+			左键挥击大量链球，同时投掷组合悠悠球，向敌人射出大量弹幕
+			右键以众矛汇聚突刺，投掷大量标枪攻击敌人
+			召唤多种陨石，每种陨石会为你和敌人附加不同增益与减益
+			提升玩家伤害、生命值与防御力
+			相信我，这武器「十分平衡」
+			'''
+	}
+
+	ApprenticeEmblem: {
+		DisplayName: 学徒徽章
+		Tooltip: 魔法伤害提升8%
+	}
+
+	ArcaniumCuffs: {
+		DisplayName: 奥能护腕
+		Tooltip:
+			'''
+			扩大魔力星拾取范围
+			魔法伤害提升15%
+			魔法暴击几率提升12%
+			'''
+	}
+
+	StrategyEmblem: {
+		DisplayName: 谋略徽章
+		Tooltip:
+			'''
+			战术远程伤害提升30%
+			普通远程伤害降低15%
+			'''
+	}
+
+	AutomaticWhipCracker: {
+		DisplayName: 自动鞭击器
+		Tooltip:
+			'''
+			3点召唤标记伤害
+			使用物品时，周期性朝光标挥出额外鞭子
+			鞭子射程随武器移速缩放
+			'''
+	}
+
+	AutomaticWhipCrackerMk2: {
+		DisplayName: 自动鞭击器Mk2
+		Tooltip:
+			'''
+			5点召唤标记伤害
+			使用物品时，周期性朝光标挥出额外鞭子
+			鞭子射程随武器移速缩放
+			'''
+	}
+
+	AvengerCuffs: {
+		DisplayName: 复仇者护腕
+		Tooltip:
+			'''
+			扩大魔力星拾取范围
+			魔法伤害提升12%
+			魔法暴击几率提升8%
+			'''
+	}
+
+	AxeOfTheAbyss: {
+		DisplayName: 深渊巨斧
+		Tooltip:
+			'''
+			简称AOTA
+			发射追踪敌人的旋转深渊战斧
+			能够击溃大多数Boss
+			[c/871b28:作弊物品]
+			[c/00fff7:贡献者物品]
+			'''
+	}
+
+	BasicBolt: {
+		DisplayName: 基础弩箭
+		Tooltip: 穿透能力极弱
+	}
+
+	BattleBlade: {
+		DisplayName: 战刃
+		Tooltip:
+			'''
+			挥出强力战刃进行旋转斩击
+			击中敌人生成追踪绿色火球
+			[c/09ff00:开发者物品]
+			'''
+	}
+
+	BattleBoots: {
+		DisplayName: 战靴
+		Tooltip:
+			'''
+			感谢下载本模组，祝你游玩愉快！
+			[c/09ff00:开发者物品]
+			'''
+	}
+
+	BattleChestplate: {
+		DisplayName: 战胸甲
+		Tooltip:
+			'''
+			感谢下载本模组，祝你游玩愉快！
+			[c/09ff00:开发者物品]
+			'''
+	}
+
+	BattleGuy: {
+		DisplayName: 斗士
+		Tooltip:
+			'''
+			感谢下载本模组，祝你游玩愉快！
+			[c/09ff00:开发者物品]
+			'''
+	}
+
+	BattleMask: {
+		DisplayName: 战面具
+		Tooltip:
+			'''
+			感谢下载本模组，祝你游玩愉快！
+			[c/09ff00:开发者物品]
+			'''
+	}
+
+	BattleGoggles: {
+		DisplayName: 战斗护目镜
+		Tooltip:
+			'''
+			感谢下载本模组，祝你游玩愉快！
+			[c/09ff00:开发者物品]
+			'''
+	}
+
+	BeeArrow: {
+		DisplayName: 蜜蜂箭矢
+		Tooltip: 「别放蜜蜂过来！」
+	}
+
+	BeeBolt: {
+		DisplayName: 蜜蜂弩箭
+		Tooltip:
+			'''
+			穿透能力较弱
+			命中敌人时生成巨型蜜蜂
+			'''
+	}
+
+	BiomeMorph: {
+		DisplayName: 生态幻变
+		Tooltip:
+			'''
+			射出各类对应生态环境的悠悠球
+			借助泰拉瑞亚各大生态的力量为你作战
+			'''
+	}
+
+	BlazingSun: {
+		DisplayName: 炽烈骄阳
+		Tooltip:
+			'''
+			击中敌人时生成烈焰鞭
+			[c/ff9d00:传奇物品]
+			[c/00fff7:贡献者物品]
+			'''
+	}
+
+	BlockyCrossbow: {
+		DisplayName: 方块十字弩
+		Tooltip:
+			'''
+			发射烟花，烟花消散时发生爆炸
+			伤害与生命恢复能力随Boss进度提升
+			「哎呀糟了」
+			[c/2ea395:M][c/36a382:y][c/47a36c:t][c/5da056:h][c/749c40:i][c/8c972c:c][c/a58e1f:a][c/bd8420:l] [c/d4762d:I][c/e76542:t][c/f6535c:e][c/ff427b:m]
+			'''
+	}
+
+	BlueRomanCandle: {
+		DisplayName: 蓝色罗马烟花筒
+		Tooltip: 发射追踪蓝色烈焰
+	}
+
+	BlueZapinator: {
+		DisplayName: 蓝色电击器
+		Tooltip: 「这玩意儿可能存在BUG」
+	}
+
+	BoneBreaker: {
+		DisplayName: 碎骨者
+		Tooltip: 挥出大范围斩击，命中时有几率眩晕敌人
+	}
+
+	BoneBlade: {
+		DisplayName: 骨刃
+		Tooltip: 挥出小型斩击，命中时有几率眩晕敌人
+	}
+
+	BoneDart: {
+		DisplayName: 骨飞镖
+		Tooltip:
+			'''
+			最多穿透两名敌人，击中墙体可反弹
+			每射击2次额外射出骨刺
+			'''
+	}
+
+	BouncyBolt: {
+		DisplayName: 弹跳弩箭
+		Tooltip:
+			'''
+			穿透能力较弱
+			可以在墙体上反弹
+			'''
+	}
+
+	Brick: {
+		DisplayName: 砖块
+		Tooltip: 「喂，沃森，水泥块！」
+	}
+
+	BrokenFlail: {
+		DisplayName: 破损链球
+		Tooltip: 制作链球的基础材料
+	}
+
+	BulletBlaster: {
+		DisplayName: 弹幕喷射器
+		Tooltip:
+			'''
+			25%几率不消耗弹药
+			10%几率发射造成双倍伤害的大型子弹
+			'''
+	}
+
+	BulletCannon: {
+		DisplayName: 弹药炮
+		Tooltip:
+			'''
+			每次射击射出2~3发子弹，远程攻击速度提升5%
+			远程攻速增益上限持续7秒
+			每射击25次触发1.5秒冷却
+			'''
+	}
+
+	AssaultEmblem: {
+		DisplayName: 突袭徽章
+		Tooltip:
+			'''
+			远程伤害提升30%
+			战术远程伤害降低15%
+			'''
+	}
+
+	PineNeedler: {
+		DisplayName: 松针发射器
+		Tooltip:
+			'''
+			两发一轮的短点射，每次射出两发子弹
+			将子弹转化为致命圣诞树，飞行途中射出锋利松针
+			「你的敌人一定会痛不欲生！」
+			[c/ffa0bf:节日物品]
+			'''
+	}
+
+	CardOfCompanionship: {
+		DisplayName: 同伴之牌
+		Tooltip:
+			'''
+			每存在1个生效仆从，仆从伤害提升10%，但仆从上限减半
+			该效果最多生效于5个仆从
+			右键道具本身切换为拥挤之牌
+			「有时少即是多」
+			'''
+	}
+
+	Catlauncher: {
+		DisplayName: 猫咪发射器
+		Tooltip:
+			'''
+			发射追踪敌人的彩虹猫，命中后生成追踪彩虹光弹
+			彩虹猫命中敌人有几率恢复魔力
+			「我亲戚为啥想要这玩意儿……」
+			[c/00fff7:贡献者物品]
+			[c/b225e6:微光物品]
+			'''
+	}
+
+	ChainedMimic: {
+		DisplayName: 锁链模仿者
+		Tooltip:
+			'''
+			持有时提升幸运值
+			依附敌人，攻击附加迈达斯减益
+			对原版所有稀有类敌人造成额外伤害
+			[c/FF8C55:E][c/BA663E:x][c/85492C:o][c/754027:t][c/472718:i][c/331C11:c] [c/21120B:I][c/47000B:t][c/63000F:e][c/880015:m]
+			'''
+	}
+
+	ChainedWhip: {
+		DisplayName: 锁链鞭
+		Tooltip:
+			'''
+			8点召唤标记伤害
+			近距离挥出3根锁链鞭
+			'''
+	}
+
+	ChaosFlail: {
+		DisplayName: 混沌链球
+		Tooltip:
+			'''
+			随机切换各类链球形态
+			投掷链球可发射弹幕
+			每次使用随机刷新属性
+			'''
+	}
+
+	ChaosStorm: {
+		DisplayName: 混沌风暴
+		Tooltip:
+			'''
+			随机射出箭矢或子弹
+			每次使用随机刷新属性
+			「总而言之，我开始疯狂输出！」
+			'''
+	}
+
+	ChaosWhip: {
+		DisplayName: 混沌之鞭
+		Tooltip:
+			'''
+			???点召唤标记伤害
+			随机挥出各式鞭子
+			有几率额外射出鞭子
+			每次使用随机刷新属性
+			「噼啪作响！」
+			'''
+	}
+
+	ChargeShot: {
+		DisplayName: 蓝色蓄能射线
+		Tooltip:
+			'''
+			消耗25纳米弹作为弹药
+			蓄力释放精准射线，造成巨额伤害
+			完全蓄能后，射线可持续2秒
+			「你不能用这东西操控物质」
+			'''
+	}
+
+	CoiledSerpent: {
+		DisplayName: 盘绕巨蛇
+		Tooltip:
+			'''
+			13点召唤标记伤害
+			挥出两条盘绕巨蛇
+			命中敌人时有几率发射自然系弹幕
+			命中敌人获得蛇之祝福增益
+			蛇之祝福提升鞭子攻速、召唤伤害与移动速度
+			「传说这条巨蛇只会将祝福赐予合格之人」
+			'''
+	}
+
+	CommanderEmblem: {
+		DisplayName: 指挥官徽章
+		Tooltip: 召唤伤害提升8%
+	}
+
+	CommandersMagic: {
+		DisplayName: 指挥官秘术
+		Tooltip:
+			'''
+			右键进入冥想状态，获得无限魔力并小幅提升魔法伤害
+			「我要发射激光啦」
+			'''
+	}
+
+	CosmicWhip: {
+		DisplayName: 宇宙之鞭
+		Tooltip:
+			'''
+			15点召唤标记伤害
+			大范围挥出10根宇宙之鞭
+			挥鞭瞬间朝光标发射月耀光弹
+			命中敌人获得宇宙威能增益
+			宇宙威能提升你的攻防属性
+			「驾驭宇宙生灵的力量挥鞭出击」
+			'''
+	}
+
+	CrimtaneWhip: {
+		DisplayName: 猩红鞭
+		Tooltip:
+			'''
+			5点召唤标记伤害
+			命中敌人恢复生命值
+			'''
+	}
+
+	CrystalGauntlet: {
+		DisplayName: 水晶护手
+		Tooltip:
+			'''
+			攻击附加燃烧与霜冻灼烧效果
+			近战伤害与近战速度提升17%
+			'''
+	}
+
+	CrystalizedWandOfSparkle: {
+		DisplayName: 晶化闪耀法杖
+		Tooltip:
+			'''
+			降下小型吞噬怪、星辰、水晶光弹与陨石摧毁敌人！
+			相信我，实际伤害远比看上去更高！
+			'''
+	}
+
+	CrystalShield: {
+		DisplayName: 水晶护盾
+		Tooltip:
+			'''
+			生成耀斑光环，光环内敌人受到破晓减益
+			光环内所有原版恶魔类敌人受到双倍伤害
+			获得击退免疫与火焰阻挡能力
+			提升生命恢复，治疗药水冷却缩短25%
+			免疫大部分减益效果
+			生命值上限增加50
+			敌人会优先将你选为目标
+			允许向任意方向冲刺
+			融合所有护盾之力
+			[c/ff9d00:传奇物品]
+			'''
+	}
+
+	CupidsBow: {
+		DisplayName: 丘比特之弓
+		Tooltip:
+			'''
+			将木箭转化为丘比特箭，命中时恢复生命与魔力
+			持续叠加远程攻速，每射击15次触发1秒冷却
+			爱之力量提升生命恢复与远程攻击速度
+			[c/ffa0bf:节日物品]
+			'''
+	}
+
+	DeadlyCane: {
+		DisplayName: 致命糖果杖
+		Tooltip:
+			'''
+			发射糖果光弹，命中敌人有几率恢复魔力并获得糖果冲刺增益
+			糖果冲刺提升生命与魔力恢复速度
+			「节日快乐！」
+			[c/ffa0bf:节日物品]
+			'''
+	}
+
+	DeathsBreath: {
+		DisplayName: 亡者吐息
+		Tooltip:
+			'''
+			不可消耗
+			投掷净化亡者吐息，吐息消散时治疗自身
+			瓶子飞行途中会留下气泡轨迹
+			「好吧，你真该嚼嚼薄荷糖」
+			'''
+	}
+
+	DemoniteWhip: {
+		DisplayName: 魔矿鞭
+		Tooltip:
+			'''
+			5点召唤标记伤害
+			命中敌人恢复魔力
+			'''
+	}
+
+	DiamondSword: {
+		DisplayName: 钻石剑
+		Tooltip:
+			'''
+			玩家处于空中时，该剑攻击必定暴击
+			击中目标会将自身向后震退
+			「这把剑透着异样的异界气息」
+			[c/6d006f:趣味物品]
+			'''
+	}
+
+	DoomCane: {
+		DisplayName: 厄运糖果杖
+		Tooltip:
+			'''
+			发射糖果光弹，命中敌人有几率恢复魔力并获得厄运冲刺增益
+			厄运冲刺提升生命与魔力恢复速度
+			「节日快乐！」
+			[c/ffa0bf:节日物品]
+			'''
+	}
+
+	DoomCannon: {
+		DisplayName: 厄运火炮
+		Tooltip:
+			'''
+			将普通子弹转化为剧毒子弹
+			「它们唯一恐惧的就是你……」
+			'''
+	}
+
+	DragonArrow: {
+		DisplayName: 龙矢
+		Tooltip: 命中敌人时生成更多箭矢
+	}
+
+	DragonBullet: {
+		DisplayName: 龙弹
+		Tooltip: 附加大量减益效果
+	}
+
+	DragonsBreath: {
+		DisplayName: 巨龙吐息
+		Tooltip:
+			'''
+			不可消耗
+			投掷净化巨龙吐息，吐息消散时治疗自身
+			瓶子飞行途中会留下气泡轨迹
+			「要来颗薄荷糖吗？」
+			'''
+	}
+
+	DrumShotgun: {
+		DisplayName: 弹鼓霰弹枪
+		Tooltip:
+			'''
+			将普通子弹转化为爆炸弹
+			每射击3发发射一枚手榴弹
+			「你的敌人将会接受审判」
+			'''
+	}
+
+	DustBolt: {
+		DisplayName: 沙尘弩箭
+		Tooltip:
+			'''
+			穿透性能优秀
+			可在墙体反弹
+			命中敌人生成骸骨碎片
+			'''
+	}
+
+	Earthquake: {
+		DisplayName: 震地狂怒
+		Tooltip:
+			'''
+			左键挥击组合链球，向敌人射出大量弹幕
+			召唤多种陨石，每种陨石会为你和敌人附加不同增益与减益
+			提升玩家伤害、生命值与防御力
+			相信我，这武器「十分平衡」
+			'''
+	}
+
+	ElectricEel: {
+		DisplayName: 电鳗
+		Tooltip:
+			'''
+			9点召唤标记伤害
+			有几率电击敌人
+			[c/3F00FF:渔获物品]
+			'''
+	}
+
+	ElementalYoyo: {
+		DisplayName: 元素悠悠球
+		Tooltip: 击中敌人时生成对应生态弹幕
+	}
+
+	EnergyYoyo: {
+		DisplayName: 能量悠悠球
+		Tooltip:
+			'''
+			射出全部元素悠悠球
+			「汇聚泰拉瑞亚一切元素能量助你作战」
+			'''
+	}
+
+	Evenpulse: {
+		DisplayName: 均衡脉冲弓
+		Tooltip:
+			'''
+			将木箭转化为均衡脉冲箭，命中敌人分裂为三枚追踪微光弹
+			均衡脉冲箭不受重力影响
+			额外射出三道暮光长矛
+			'''
+	}
+
+	ExplosiveBolt: {
+		DisplayName: 爆炸弩箭
+		Tooltip:
+			'''
+			穿透能力尚可
+			接触敌人发生爆炸
+			'''
+	}
+
+	ExtendedCandle: {
+		DisplayName: 加长烟花筒
+		Tooltip:
+			'''
+			以凝胶作为弹药
+			发射贝特西火球
+			'''
+	}
+
+	ExtraThornyWandOfSparkle: {
+		DisplayName: 荆棘闪耀法杖
+		Tooltip:
+			'''
+			降下腐化者、星辰、水晶光弹、陨石、树叶与胡蜂摧毁敌人！
+			相信我，实际伤害远比看上去更高！
+			'''
+	}
+
+	FlameBullet: {
+		DisplayName: 火焰子弹
+		Tooltip: 附加燃烧效果
+	}
+
+	FlameMini: {
+		DisplayName: 小型喷火器
+		Tooltip:
+			'''
+			以凝胶作为弹药
+			发射可反弹火球
+			'''
+	}
+
+	FlameMissile: {
+		DisplayName: 火焰飞弹
+		Tooltip: 兼具水与火焰的力量！
+	}
+
+	FlyingFish: {
+		DisplayName: 飞鱼弓
+		Tooltip:
+			'''
+			将箭矢转化为猪鲨箭矢
+			猪鲨箭矢命中敌人生成大量追踪箭矢，并且能够墙体反弹
+			'''
+	}
+
+	ForceEmblem: {
+		DisplayName: 威能徽章
+		Tooltip:
+			'''
+			魔力恢复速度降低3
+			魔力上限减少40
+			魔法伤害提升30%，法术魔力消耗增加
+			'''
+	}
+
+	FossilRod: {
+		DisplayName: 化石法杖
+		Tooltip: 发射闪电与化石弹幕
+	}
+
+	FrostBullet: {
+		DisplayName: 寒霜子弹
+		Tooltip: 附加霜冻灼烧效果
+	}
+
+	FrostGauntlet: {
+		DisplayName: 寒霜护手
+		Tooltip:
+			'''
+			攻击附加燃烧与霜冻灼烧效果
+			近战伤害与近战速度提升15%
+			'''
+	}
+
+	FrostStorm: {
+		DisplayName: 寒霜风暴
+		Tooltip:
+			'''
+			8%几率发射三枚冰箭
+			「它们超棒的！」
+			[c/ff9d00:传奇物品]
+			'''
+	}
+
+	FrozenHeroShield: {
+		DisplayName: 寒霜英雄护盾
+		Tooltip:
+			'''
+			获得击退免疫
+			赋予荆棘反伤，治疗药水冷却缩短25%
+			敌人会优先将你选为目标
+			'''
+	}
+
+	FryingPan: {
+		DisplayName: 煎锅
+		Tooltip:
+			'''
+			随机发射培根与煎蛋
+			煎锅本体击中敌人造成混乱效果
+			伤害与攻击速度随Boss进度提升
+			[c/2ea395:M][c/36a382:y][c/47a36c:t][c/5da056:h][c/749c40:i][c/8c972c:c][c/a58e1f:a][c/bd8420:l] [c/d4762d:I][c/e76542:t][c/f6535c:e][c/ff427b:m]
+			'''
+	}
+
+	Funeral: {
+		DisplayName: 葬仪之器
+		Tooltip:
+			'''
+			左键释放近距离爆炸熔岩光束
+			右键发射远距离爆炸陨石
+			「你的敌人必将迎来终结！」
+			[c/ff9d00:传奇物品]
+			'''
+	}
+
+	FungalSpell: {
+		DisplayName: 真菌法术
+		Tooltip:
+			'''
+			10%几率额外射出五枚蘑菇弹幕
+			「别随便吃下去」
+			'''
+	}
+
+	FuryEmblem: {
+		DisplayName: 狂怒徽章
+		Tooltip:
+			'''
+			近战速度提升30%
+			近战伤害降低30%
+			'''
+	}
+
+	GlassCannon: {
+		DisplayName: 玻璃巨炮
+		Tooltip:
+			'''
+			长按左键蓄力强力光束
+			蓄力满5秒即可发射
+			生命值上限固定为200，防御力清零
+			「脆弱却致命」
+			'''
+	}
+
+	GoblinTome: {
+		DisplayName: 哥布林典籍
+		Tooltip:
+			'''
+			20%几率在鼠标位置触发暗影烈焰爆炸
+			书页上写着未知文字……
+			'''
+	}
+
+	GoldDigger: {
+		DisplayName: 掘金者
+		Tooltip:
+			'''
+			快速发射金币
+			每射击7次发射一枚炮弹
+			「海盗最爱的便携武器」
+			[c/ff9d00:传奇物品]
+			'''
+	}
+
+	GoldenEmblem: {
+		DisplayName: 黄金徽章
+		Tooltip:
+			'''
+			所有伤害提升50%
+			防御力与生命值上限减半
+			'''
+	}
+
+	GreenRomanCandle: {
+		DisplayName: 绿色罗马烟花筒
+		Tooltip: 发射追踪绿色烈焰
+	}
+
+	HailStorm: {
+		DisplayName: 冰雹风暴
+		Tooltip:
+			'''
+			发射三枚巨型雪人核弹
+			拥有5秒冷却时间
+			命中敌人引发大范围爆炸
+			「美利坚现状」
+			'''
+	}
+
+	Hamdrax: {
+		DisplayName: 哈姆德拉克斯
+		Tooltip: 测试
+	}
+
+	HandCannon: {
+		DisplayName: 手炮
+		Tooltip:
+			'''
+			发射撞击爆炸的炮弹
+			「舰船武器简化为便携版本」
+			'''
+	}
+
+	HandheldBunnyCannon: {
+		DisplayName: 便携兔兔炮
+		Tooltip:
+			'''
+			发射撞击爆炸的兔子
+			「制作这件武器牺牲了许多兔子」
+			'''
+	}
+
+	HauntedHouse: {
+		DisplayName: 幽鬼宅邸
+		Tooltip:
+			'''
+			35%几率不消耗弹药
+			左键发射幽鬼光束，不消耗弹药
+			幽鬼光束命中敌人时在自身位置触发幽影爆炸
+			右键在幽灵吸血蝙蝠与幽灵南瓜蝙蝠之间切换发射
+			右键以玉米糖作为弹药
+			「你的敌人必将坠入梦魇！」
+			[c/09ff00:开发者物品]
+			[c/ffa0bf:节日物品]
+			[c/ff9d00:传奇物品]
+			'''
+	}
+
+	HealingCharm: {
+		DisplayName: 治愈护符
+		Tooltip:
+			'''
+			生命值上限降低100
+			生命值低于上限1/6时，有机会恢复100点生命
+			'''
+	}
+
+	HeatSeekingShuriken: {
+		DisplayName: 追踪手里剑
+		Tooltip:
+			'''
+			投掷追踪手里剑
+			「根据所有已知航空定律，手里剑本不该飞起来」
+			'''
+	}
+
+	HellBatArrow: {
+		DisplayName: 地狱蝙蝠箭
+		Tooltip: 「呐呐呐呐，蝙蝠箭矢！」
+	}
+
+	HellBeeBow: {
+		DisplayName: 地狱蜂弓
+		Tooltip:
+			'''
+			将木箭转化为毒刺
+			额外发射地狱蜂箭，命中后分裂出更多蜜蜂
+			「你喜欢爵士乐吗？」
+			'''
+	}
+
+	HellCandle: {
+		DisplayName: 地狱烟花筒
+		Tooltip:
+			'''
+			以凝胶作为弹药
+			发射烈焰冲击波
+			'''
+	}
+
+	HunterEmblem: {
+		DisplayName: 猎人徽章
+		Tooltip: 远程伤害提升8%
+	}
+
+	IceArrow: {
+		DisplayName: 寒冰箭矢
+		Tooltip: 冻结！
+	}
+
+	InfernoWrath: {
+		DisplayName: 炼狱之怒
+		Tooltip:
+			'''
+			发射怒焰火球，火球爆炸生成炼狱火海
+			怒焰火球附加贝特西的诅咒
+			'''
+	}
+
+	InstantDetonation: {
+		DisplayName: 瞬发爆弹
+		Tooltip:
+			'''
+			按下对应快捷键触发巨型爆炸
+			爆炸拥有1分钟冷却
+			「合法化核弹！」
+			[c/a0a0a0:无职业物品]
+			'''
+	}
+
+	JumboJumbow: {
+		DisplayName: 巨型巨弓
+		Tooltip:
+			'''
+			倾泻大量箭矢
+			20%几率射出巨型箭矢
+			「这大家伙可真够劲！」
+			'''
+	}
+
+	Jumbow: {
+		DisplayName: 巨弓
+		Tooltip:
+			'''
+			倾泻大量箭矢
+			「这大家伙可真够劲！」
+			'''
+	}
+
+	JumpBoots: {
+		DisplayName: 跃空长靴
+		Tooltip:
+			'''
+			大幅提升移动速度与跳跃速度
+			融合泰拉闪耀靴、飞毯、蛙鞋与北极潜水装备全部效果
+			'''
+	}
+
+	KingsBlade: {
+		DisplayName: 王者之刃
+		Tooltip: 每1.25秒朝光标挥出一道剑斩
+	}
+
+	KingsRobe: {
+		DisplayName: 王者长袍
+		Tooltip:
+			'''
+			仆从上限增加2
+			魔力上限提升20
+			所有伤害提升11%
+			'''
+	}
+
+	KingsShoes: {
+		DisplayName: 王者战靴
+		Tooltip:
+			'''
+			仆从上限增加1
+			所有伤害提升11%
+			近战攻击速度提升7%
+			移动速度提升15%
+			'''
+	}
+
+	KnockoutBag: {
+		DisplayName: 击昏拳套
+		Tooltip:
+			'''
+			造成高额击退力
+			击中敌人会触发小型爆炸
+			'''
+	}
+
+	LavaEel: {
+		DisplayName: 熔岩鳗
+		Tooltip:
+			'''
+			9点召唤标记伤害
+			身前挥出两个头部，身后挥出一个头部
+			命中敌人时有几率触发烈焰爆炸
+			后方头部攻击必定爆炸，但生成弹幕伤害更低
+			[c/ff9d00:传奇物品]
+			'''
+	}
+
+	LifeArrow: {
+		DisplayName: 生命箭矢
+		Tooltip: 恢复生命值
+	}
+
+	LifeBolt: {
+		DisplayName: 生命弩箭
+		Tooltip:
+			'''
+			无法穿透敌人
+			命中敌人时恢复生命值
+			'''
+	}
+
+	LifeRing: {
+		DisplayName: 生命指环
+		Tooltip:
+			'''
+			生命值上限提升100，提高生命恢复速度
+			生命值低于上限1/3时，周期性发射爆炸铁钉，同时恢复5点生命
+			[c/a0a0a0:无职业物品]
+			'''
+	}
+
+	LightningRod: {
+		DisplayName: 雷电法杖
+		Tooltip:
+			'''
+			向附近敌人快速发射电流弹幕
+			「小心被电到哦」
+			'''
+	}
+
+	LongShot: {
+		DisplayName: 双向猎枪
+		Tooltip:
+			'''
+			朝两个方向同时射击
+			毫无疑问是最怪异的霰弹枪……
+			「这把枪弹药量充足，你永远不用重新装填！」
+			'''
+	}
+
+	LuminiteBolt: {
+		DisplayName: 夜明弩箭
+		Tooltip:
+			'''
+			无法穿透敌人
+			接触敌人时生成四枚月耀地雷
+			'''
+	}
+
+	LunarDart: {
+		DisplayName: 月耀飞镖
+		Tooltip:
+			'''
+			最多穿透七名敌人
+			命中敌人触发月耀爆破
+			'''
+	}
+
+	ManaBolt: {
+		DisplayName: 魔力弩箭
+		Tooltip:
+			'''
+			无法穿透敌人
+			接触敌人时恢复魔力
+			'''
+	}
+
+	ManaBullet: {
+		DisplayName: 魔力子弹
+		Tooltip: 恢复魔力
+	}
+
+	ManaEmblem: {
+		DisplayName: 魔力徽章
+		Tooltip:
+			'''
+			魔力恢复速度提升3
+			魔力上限增加40
+			魔法伤害降低30%，法术魔力消耗减少
+			'''
+	}
+
+	MeltMini: {
+		DisplayName: 寒冰喷射器
+		Tooltip:
+			'''
+			以凝胶作为弹药
+			发射寒冰光弹
+			'''
+	}
+
+	MeteorBroadsword: {
+		DisplayName: 流星巨剑
+		Tooltip: 击中敌人时，从天降落流星碎片
+	}
+
+	MinionEmblem: {
+		DisplayName: 仆从徽章
+		Tooltip:
+			'''
+			仆从上限增加3
+			仆从伤害与仆从击退力提升30%
+			鞭子攻速、射程、伤害、击退力全部降低30%
+			'''
+	}
+
+	MoltenBlood: {
+		DisplayName: 熔血弓
+		Tooltip:
+			'''
+			将木箭转化为血肉箭矢，接触目标后燃烧并产生小型爆炸
+			双发点射模式，箭矢从空中以及朝向光标位置射出
+			'''
+	}
+
+	MonkeyDart: {
+		DisplayName: 猴式飞镖
+		Tooltip: 最多穿透三名敌人
+	}
+
+	MostEnchantedMagicalEmperorSharkron: {
+		DisplayName: 至高附魔魔帝鲨龙
+		Tooltip:
+			'''
+			简称M.E.M.E.S
+			左键操控鲨鱼啃咬敌人并朝光标突进
+			右键投掷鲨鱼，鲨鱼会粘附在敌人身上
+			[c/6d006f:趣味物品]
+			'''
+	}
+
+	MutantDragonfish: {
+		DisplayName: 变异龙鱼
+		Tooltip:
+			'''
+			33%几率倾泻大量炼狱冲击波
+			20%几率发射降低防御力的火球
+			10%几率射出大量追踪烈焰鞭
+			射出一组烈焰弹幕
+			[c/09ff00:开发者物品]
+			'''
+	}
+
+	MutantSharkron: {
+		DisplayName: 变异鲨龙
+		Tooltip:
+			'''
+			33%几率射出大量伤害泡泡
+			10%几率发射追踪台风弹幕
+			释放成群鲨龙
+			[c/09ff00:开发者物品]
+			'''
+	}
+
+	NightsCackle: {
+		DisplayName: 暗夜嗤笑
+		Tooltip:
+			'''
+			8点召唤标记伤害
+			命中敌人时额外生成暗影烈焰骷髅
+			'''
+	}
+
+	NightsFury: {
+		DisplayName: 暗夜狂怒
+		Tooltip:
+			'''
+			向附近敌人快速发射水晶碎石
+			投掷链球可以发射弹幕
+			'''
+	}
+
+	Notes: {
+		DisplayName: 旧笔记
+		Tooltip: 困难模式丛林垂钓有机会获取
+	}
+
+	NukeCaller: {
+		DisplayName: 核弹召唤器
+		Tooltip:
+			'''
+			你的召唤物会集火被击中的目标
+			倾泻大量追踪炸弹
+			拥有10秒冷却时间
+			「战术核弹来袭」
+			[c/00fff7:贡献者物品]
+			'''
+	}
+
+	OmegaStorm: {
+		DisplayName: 欧米伽风暴
+		Tooltip:
+			'''
+			击中敌人时生成星云奥秘弹幕
+			「当心星辰之力」
+			[c/00fff7:贡献者物品]
+			[c/09ff00:开发者物品]
+			'''
+	}
+
+	Omeglageddon: {
+		DisplayName: 终末浩劫
+		Tooltip:
+			'''
+			50%几率不消耗弹药
+			向敌人倾泻各式各样的子弹风暴
+			将普通子弹转化为欧米伽弹，命中敌人产生爆炸
+			「混沌，无尽混沌」
+			'''
+	}
+
+	OneShot: {
+		DisplayName: 一击枪
+		Tooltip:
+			'''
+			发射三枚慢速子弹
+			[c/a0a0a0:无职业物品]
+			'''
+	}
+
+	Origin: {
+		DisplayName: 起源之鞭
+		Tooltip:
+			'''
+			155点召唤标记伤害
+			汇聚所有鞭子的力量挥击敌人
+			'''
+	}
+
+	PaleRapier: {
+		DisplayName: 苍白刺剑
+		Tooltip:
+			'''
+			发射短距离光束，持续对敌人造成稳定伤害
+			光束存在一段时间后消散
+			「民主的开端」
+			'''
+	}
+
+	PanicPotion: {
+		DisplayName: 恐慌药水
+		Tooltip: 强化你的弩炮塔
+	}
+
+	PhantomShuriken: {
+		DisplayName: 幻影手里剑
+		Tooltip:
+			'''
+			投掷可穿透墙体的追踪手里剑
+			飞行途中周期性生成追踪蝙蝠
+			'''
+	}
+
+	PhaseMonster: {
+		DisplayName: 相位巨兽
+		Tooltip:
+			'''
+			向附近敌人发射激光
+			「愿原力与你同在」
+			[c/00fff7:贡献者物品]
+			'''
+	}
+
+	PixelBlade: {
+		DisplayName: 像素之刃
+		Tooltip:
+			'''
+			发射中等长度光束，持续对敌人造成稳定伤害
+			光束存在一段时间后消散
+			「王者归来」
+			'''
+	}
+
+	PixelGun: {
+		DisplayName: 像素枪械
+		Tooltip:
+			'''
+			投掷枪械，枪械会分裂出新的枪械
+			新枪械短暂静止后
+			分裂成大量子弹
+			'''
+	}
+
+	PixelZenith: {
+		DisplayName: 像素天顶剑
+		Tooltip:
+			'''
+			汇聚众剑之力挥击
+			10%几率额外发射附带不同效果的剑气
+			「女王归来」
+			'''
+	}
+
+	PixieStaff: {
+		DisplayName: 精灵法杖
+		Tooltip: 发射三道黄金剑气
+	}
+
+	PocketWatch: {
+		DisplayName: 怀表
+		Tooltip:
+			'''
+			13%几率不消耗弹药
+			左键发射子弹
+			右键发射箭矢
+			表面闪烁着奇异钻石的光芒……
+			「现在几点了？」
+			'''
+	}
+
+	PoisonBolt: {
+		DisplayName: 剧毒弩箭
+		Tooltip:
+			'''
+			穿透能力较弱
+			使敌人陷入中毒状态
+			'''
+	}
+
+	PowerBoots: {
+		DisplayName: 全能战靴
+		Tooltip:
+			'''
+			生命值上限增加100
+			渔力提升5
+			挖掘速度与放置速度提升15%
+			放置距离增加1格
+			伤害、暴击几率、击退力提升15%
+			仆从上限增加2，炮台上限增加1
+			融合全部腿部护甲的力量
+			'''
+	}
+
+	PowerCloak: {
+		DisplayName: 全能斗篷
+		Tooltip:
+			'''
+			生命值上限增加200，魔力上限增加100
+			渔力提升15
+			挖掘速度与放置速度提升30%
+			放置距离增加3格
+			伤害、暴击几率、击退力提升30%
+			仆从上限增加3，炮台上限增加1
+			融合全部胸甲的力量
+			'''
+	}
+
+	PowerCrown: {
+		DisplayName: 全能王冠
+		Tooltip:
+			'''
+			生命值上限增加150
+			渔力提升10
+			挖掘速度与放置速度提升20%
+			放置距离增加2格
+			伤害、暴击几率、击退力提升15%
+			仆从上限增加3
+			拥有优秀生命恢复效果
+			融合全部头盔的力量
+			'''
+	}
+
+	PowerEmblem: {
+		DisplayName: 全能徽章
+		Tooltip:
+			'''
+			拥有大量配饰的综合效果
+			近乎无限飞行时间
+			防御力翻倍
+			获得击退免疫与火焰阻挡能力
+			免疫几乎所有减益效果
+			渔力提升15
+			挖掘速度与放置速度提升30%
+			生命值上限增加100
+			伤害、暴击几率、击退力提升50%
+			仆从上限增加5，炮台上限增加2
+			魔力无限
+			支持向任意方向冲刺
+			融合全部配饰的力量
+			'''
+	}
+
+	PowerShot: {
+		DisplayName: 全能射手枪
+		Tooltip:
+			'''
+			随机射出各类子弹
+			「这把枪弹药量充足，你永远不用重新装填！」
+			'''
+	}
+
+	PowerWings: {
+		DisplayName: 全能翅膀
+		Tooltip:
+			'''
+			近乎无限飞行时间
+			融合全部翅膀的力量
+			'''
+	}
+
+	PrismaticKunai: {
+		DisplayName: 棱镜苦无
+		Tooltip:
+			'''
+			不可消耗
+			最多穿透三名敌人
+			命中敌人或消散时生成粉色爆破
+			[c/ff9d00:传奇物品]
+			'''
+	}
+
+	PrismaticStaff: {
+		DisplayName: 棱镜法杖
+		Tooltip:
+			'''
+			发射慢速棱镜光束
+			命中敌人生成追踪威能宝石
+			「汇聚我们所有人的力量！」
+			[c/ff9d00:传奇物品]
+			'''
+	}
+
+	Quip: {
+		DisplayName: 火星鞭
+		Tooltip:
+			'''
+			7点召唤标记伤害
+			在玩家周围射出15根短射程火星鞭
+			击中敌人有几率触发电击
+			装备后：召唤伤害、击退力降低17%，鞭子射程降低13%，鞭子攻速提升30%
+			'''
+	}
+
+	RainbowMissile: {
+		DisplayName: 彩虹飞弹
+		Tooltip: 承载万物元素之力！
+	}
+
+	ReaperScythe: {
+		DisplayName: 死神镰刀
+		Tooltip: 快速向附近敌人投掷骸骨
+	}
+
+	RedRomanCandle: {
+		DisplayName: 红色罗马烟花筒
+		Tooltip: 发射追踪红色烈焰
+	}
+
+	RevolvingRevolver: {
+		DisplayName: 轮转左轮
+		Tooltip:
+			'''
+			以骸骨作为弹药
+			左键发射3枚追踪骷髅
+			右键旋转枪械，地面状态提升远程伤害，空中状态提升远程攻速
+			'''
+	}
+
+	RustedDagger: {
+		DisplayName: 锈蚀之刃
+		Tooltip:
+			'''
+			发射极短小型光束，持续对敌人造成稳定伤害
+			光束存在一段时间后消散
+			「帝国的开端」
+			'''
+	}
+
+	SawbladeTyphoon: {
+		DisplayName: 锯刃台风
+		Tooltip: 射出三把锯刃，命中敌人造成额外流血伤害
+	}
+
+	ShadowFlameArrow: {
+		DisplayName: 暗影烈焰箭矢
+		Tooltip: 粘附敌人，附加暗影烈焰减益
+	}
+
+	ShadowPhoenix: {
+		DisplayName: 暗影凤凰弓
+		Tooltip:
+			'''
+			在光标四周射出10支箭矢
+			25%几率在鼠标位置生成5枚暗影烈焰火球
+			暗影烈焰火球可穿透墙体，消散时爆发暗影烈焰
+			'''
+	}
+
+	SharkShot: {
+		DisplayName: 鲨袭枪
+		Tooltip:
+			'''
+			左键操控鲨鱼啃咬敌人并朝光标突进
+			右键投掷鲨鱼，鲨鱼会粘附在敌人身上
+			鲨————鱼！
+			'''
+	}
+
+	ShroomerBoomer: {
+		DisplayName: 蘑菇发射器
+		Tooltip:
+			'''
+			将普通子弹转化为爆炸蘑菇
+			爆炸蘑菇飞行途中持续生成更多蘑菇
+			三段点射模式
+			'''
+	}
+
+	ShroomiteArrow: {
+		DisplayName: 蘑菇矿箭矢
+		Tooltip: 命中位置生成静止蘑菇
+	}
+
+	ShroomiteBlaster: {
+		DisplayName: 蘑菇矿喷射器
+		Tooltip:
+			'''
+			三段点射，一次射出三发子弹
+			右键旋转枪械，提升远程各项属性
+			将普通子弹转化为蘑菇矿子弹
+			'''
+	}
+
+	ShroomiteBullet: {
+		DisplayName: 蘑菇矿子弹
+		Tooltip: 命中位置生成静止蘑菇
+	}
+
+	SkullArrow: {
+		DisplayName: 骷髅箭矢
+		Tooltip: 不含死灵法术效果
+	}
+
+	SkullGun: {
+		DisplayName: 骷髅枪
+		Tooltip: 高速发射骷髅弹幕
+	}
+
+	SmallCandle: {
+		DisplayName: 小型烟花筒
+		Tooltip:
+			'''
+			以凝胶作为弹药
+			射出细碎火花
+			'''
+	}
+
+	SnowStorm: {
+		DisplayName: 暴雪风暴
+		Tooltip:
+			'''
+			消耗10个雪球作为弹药
+			「加拿大现状」
+			[c/FF8C55:E][c/BA663E:x][c/85492C:o][c/754027:t][c/472718:i][c/331C11:c] [c/21120B:I][c/47000B:t][c/63000F:e][c/880015:m]
+			'''
+	}
+
+	SolarStorm: {
+		DisplayName: 日耀风暴
+		Tooltip:
+			'''
+			从天而降破晓之光与各类弹幕
+			33%几率射出大量追踪烈焰鞭
+			20%几率倾泻凤凰弹幕风暴
+			「警惕来自天穹的威胁」
+			[c/00fff7:贡献者物品]
+			'''
+	}
+
+	SpaceTomeOfSparkle: {
+		DisplayName: 星界闪耀典籍
+		Tooltip:
+			'''
+			降下腐化者、星辰、水晶光弹、陨石、树叶、巨型蜜蜂、蝙蝠与月耀焰流摧毁敌人！
+			相信我，实际伤害远比看上去更高！
+			'''
+	}
+
+	Sparkly: {
+		DisplayName: 闪耀喷射枪
+		Tooltip:
+			'''
+			50%几率不消耗弹药
+			左键向敌人倾泻各类子弹与混沌弹幕
+			右键向敌人倾泻各类箭矢与混沌弹幕
+			将弹药转化为特制子弹与箭矢
+			'''
+	}
+
+	SpectreArrow: {
+		DisplayName: 幽灵箭矢
+		Tooltip: 穿透墙体，可穿透敌人，命中目标后减速
+	}
+
+	SpectreBolt: {
+		DisplayName: 幽灵弩箭
+		Tooltip:
+			'''
+			穿透能力极弱
+			可以穿透墙体
+			'''
+	}
+
+	SpectreBullet: {
+		DisplayName: 幽灵子弹
+		Tooltip: 穿透墙体，可穿透敌人，命中目标后减速
+	}
+
+	SpikeRing: {
+		DisplayName: 尖刺指环
+		Tooltip:
+			'''
+			生命值高于上限1/2时发射爆炸铁钉
+			持有者持续受到伤害
+			[c/a0a0a0:无职业物品]
+			'''
+	}
+
+	SpiritFlail: {
+		DisplayName: 幽魂链球
+		Tooltip:
+			'''
+			挥击时释放追踪弹幕，同时恢复自身生命值
+			「惊悚可怖的骷髅」
+			'''
+	}
+
+	SpiritWatch: {
+		DisplayName: 幽魂怀表
+		Tooltip:
+			'''
+			17%几率不消耗弹药
+			左键发射幽灵子弹
+			右键发射幽灵箭矢
+			从天降下弹幕
+			表面闪烁着奇异钻石的光芒……
+			「现在几点了？」
+			'''
+	}
+
+	Spookzooka: {
+		DisplayName: 惊魂发射器
+		Tooltip:
+			'''
+			25%几率不消耗弹药
+			右键切换攻击模式
+			左键消耗玉米糖，右键消耗南瓜灯
+			将玉米糖转化为蝙蝠
+			'''
+	}
+
+	SpookzookaMk2: {
+		DisplayName: 惊魂发射器Mk2
+		Tooltip:
+			'''
+			33%几率不消耗弹药
+			以玉米糖作为弹药
+			在幽灵吸血蝙蝠与幽灵南瓜蝙蝠之间切换发射
+			幽灵吸血蝙蝠可穿墙、追踪敌人并治疗玩家
+			幽灵南瓜蝙蝠可无限穿透，消散时生成爆炸南瓜灯与追踪蝙蝠
+			有几率发射南瓜灯核弹
+			「万圣降临」
+			[c/09ff00:开发者物品]
+			[c/ffa0bf:节日物品]
+			'''
+	}
+
+	SprayCandle: {
+		DisplayName: 喷涌烟花筒
+		Tooltip:
+			'''
+			以凝胶作为弹药
+			喷射弱追踪黏液流
+			'''
+	}
+
+	StrangeCase: {
+		DisplayName: 奇异箱子
+		Tooltip: 暂时没有任何效果……
+	}
+
+	StrangeVial: {
+		DisplayName: 奇异药瓶
+		Tooltip:
+			'''
+			不可消耗
+			投掷净化奇异药瓶，药瓶消散时治疗玩家
+			飞行途中留下气泡轨迹
+			'''
+	}
+
+	StrikerPotion: {
+		DisplayName: 鞭手药水
+		Tooltip: 鞭子全属性提升10%
+	}
+
+	SuperBlaster: {
+		DisplayName: 超级喷射器
+		Tooltip:
+			'''
+			地面状态攻击速度降低，但伤害更高
+			小幅散射随机数量的子弹
+			'''
+	}
+
+	SuperMonkeyDart: {
+		DisplayName: 超级猴式飞镖
+		Tooltip:
+			'''
+			不可消耗
+			最多穿透五名敌人
+			'''
+	}
+
+	SuperStormBeater: {
+		DisplayName: 超级风暴打击者
+		Tooltip: 发射追踪涡旋星辰，星辰爆炸生成涡旋火箭
+	}
+
+	SuspiciousKnife: {
+		DisplayName: 可疑小刀
+		Tooltip:
+			'''
+			最多穿透三名敌人
+			命中敌人生成血块
+			小幅恢复生命值，并附加开膛减益
+			开膛使敌人持续快速流失生命
+			「太空狼人杀」
+			[c/00fff7:贡献者物品]
+			[c/6d006f:趣味物品]
+			'''
+	}
+
+	SweetTooth: {
+		DisplayName: 甜心发射器
+		Tooltip:
+			'''
+			两发一轮短点射
+			将子弹转化为致命玉米糖，飞行途中生成爆炸南瓜灯
+			「不给糖就捣蛋！」
+			[c/ffa0bf:节日物品]
+			'''
+	}
+
+	TerraFlail: {
+		DisplayName: 泰拉链球
+		Tooltip:
+			'''
+			左键环绕自身挥击，发射光球，光球分裂成大量树叶
+			右键投掷链球，命中时可以治疗自身
+			'''
+	}
+
+	TetheredRope: {
+		DisplayName: 束缚绳索
+		Tooltip: 「没有比这更基础的道具了」
+	}
+
+	TheColossus: {
+		DisplayName: 巨像链球
+		Tooltip:
+			'''
+			挥击时持续打击范围内敌人
+			投掷出去造成四倍伤害
+			'''
+	}
+
+	TheDevice: {
+		DisplayName: 操控装置
+		Tooltip:
+			'''
+			不可消耗
+			投掷游戏手柄，极低概率投掷显示器
+			显示器命中敌人赋予狂怒增益
+			狂怒提升2.15%攻速与伤害
+			狂怒增益上限持续9秒
+			「别吵，我正在玩我的世界」
+			'''
+	}
+
+	EasterBarrage: {
+		DisplayName: 复活节弹幕炮
+		Tooltip:
+			'''
+			以黑曜石作为弹药
+			发射带有不同效果的彩色复活节彩蛋
+			使用时附带小幅击退
+			[c/00fff7:贡献者物品]
+			[c/ffa0bf:节日物品]
+			'''
+	}
+
+	ThornMace: {
+		DisplayName: 荆棘钉锤
+		Tooltip:
+			'''
+			释放树叶攻击附近敌人
+			投掷链球可以发射弹幕
+			「小心荆棘扎手」
+			'''
+	}
+
+	ThornyWandOfSparkle: {
+		DisplayName: 荆棘闪耀法杖
+		Tooltip:
+			'''
+			从天降下小型吞噬怪与星辰摧毁敌人！
+			相信我，实际伤害远比看上去更高！
+			'''
+	}
+
+	ThunderFang: {
+		DisplayName: 雷霆獠牙
+		Tooltip: 命中敌人时有20%几率生成闪电
+	}
+
+	TimerRymer: {
+		DisplayName: 计时射手枪
+		Tooltip:
+			'''
+			两发一轮短点射
+			将普通子弹转化为高速子弹
+			'''
+	}
+
+	ToxicRifle: {
+		DisplayName: 剧毒步枪
+		Tooltip:
+			'''
+			魔力耗尽依旧可以使用
+			魔力越低魔法伤害越高，但自身会受到酸毒减益
+			「2020现状」
+			'''
+	}
+
+	TrainingEmblem: {
+		DisplayName: 训练徽章
+		Tooltip: 近战伤害提升8%
+	}
+
+	TrueBiomeMorph: {
+		DisplayName: 真·生态幻变
+		Tooltip:
+			'''
+			射出大量对应生态环境的悠悠球
+			汇聚泰拉瑞亚全部生态的力量助你作战
+			'''
+	}
+
+	TrueDurendal: {
+		DisplayName: 真·杜兰达尔鞭
+		Tooltip:
+			'''
+			11点召唤标记伤害
+			同时挥出两根真·杜兰达尔鞭
+			'''
+	}
+
+	TrueEyeOfCthulhu: {
+		DisplayName: 真·克苏鲁之眼
+		Tooltip:
+			'''
+			射出终局悠悠球攻击敌人
+			「世人称我悠悠球大师！」
+			'''
+	}
+
+	TrueNightsCackle: {
+		DisplayName: 真·暗夜嗤笑
+		Tooltip:
+			'''
+			11点召唤标记伤害
+			命中敌人时额外生成暗影烈焰骷髅
+			'''
+	}
+
+	TrueNightsFury: {
+		DisplayName: 真·暗夜狂怒
+		Tooltip:
+			'''
+			向附近敌人快速发射水晶光弹
+			投掷链球可以发射弹幕
+			'''
+	}
+
+	TruePixieStaff: {
+		DisplayName: 真·精灵法杖
+		Tooltip:
+			'''
+			发射五道真圣剑剑气
+			[c/00fff7:贡献者物品]
+			'''
+	}
+
+	VoidPurse: {
+		DisplayName: 虚空钱包
+		Tooltip:
+			'''
+			很遗憾无法用作储物容器
+			投掷链球可以发射弹幕
+			'''
+	}
+
+	VortexYoyo: {
+		DisplayName: 星旋悠悠球
+		Tooltip: 旋转期间持续生成月耀光弹
+	}
+
+	WandOfSparkle: {
+		DisplayName: 闪耀法杖
+		Tooltip:
+			'''
+			从天降下星辰摧毁敌人！
+			相信我，实际伤害远比看上去更高！
+			'''
+	}
+
+	WarEmblem: {
+		DisplayName: 战争徽章
+		Tooltip:
+			'''
+			近战伤害提升30%
+			近战速度降低30%
+			'''
+	}
+
+	WaspNest: {
+		DisplayName: 胡蜂巢穴悠悠球
+		Tooltip: 旋转期间持续生成胡蜂
+	}
+
+	WaterFlail: {
+		DisplayName: 流水链球
+		Tooltip:
+			'''
+			投掷链球可以发射弹幕
+			「可能冰冷刺骨」
+			'''
+	}
+
+	WhipEmblem: {
+		DisplayName: 鞭师徽章
+		Tooltip:
+			'''
+			仆从上限减少3
+			鞭子攻速、射程、伤害、击退力提升30%
+			仆从伤害与仆从击退力降低30%
+			'''
+	}
+
+	WhipExtender: {
+		DisplayName: 长鞭配件
+		Tooltip: 鞭子射程提升12%
+	}
+
+	WhipMastersGlory: {
+		DisplayName: 鞭师荣耀
+		Tooltip:
+			'''
+			5点召唤标记伤害
+			使用物品时周期性挥出鞭子
+			鞭子射程随武器移速缩放
+			仆从上限增加2
+			鞭子攻速、射程、仆从击退、仆从伤害提升20%
+			敌人会优先锁定你作为目标
+			'''
+	}
+
+	WoodenRifle: {
+		DisplayName: 木质步枪
+		Tooltip:
+			'''
+			25%几率不消耗弹药
+			以橡果作为弹药
+			橡果消散时生成树叶
+			橡果命中敌人附加生长减益
+			生长使敌人持续快速流失生命
+			生长减益对所有原版丛林敌人造成额外伤害
+			'''
+	}
+
+	YoyoOfElements: {
+		DisplayName: 元素悠悠球
+		Tooltip:
+			'''
+			射出大量拥有不同能力的悠悠球
+			「善也罢，恶也罢，我就是掌控悠悠球之人！」
+			'''
+	}
+
+	AsteroidGreatsword: {
+		DisplayName: 小行星巨剑
+		Tooltip: 击中敌人时从天坠落陨石碎片
+	}
+
+	NuclearFallout: {
+		DisplayName: 核爆陨落
+		Tooltip:
+			'''
+			你的召唤物会集火被击中的敌人
+			倾泻大量追踪炸弹
+			拥有10秒冷却时间
+			「核弹来袭」
+			'''
+	}
+
+	Notes2: {
+		Tooltip: 将十字项链放入微光中转化获得
+		DisplayName: 旧笔记
+	}
+
+	CharmOfSynergy: {
+		DisplayName: 协同护符
+		Tooltip:
+			'''
+			受到伤害后提升造成的伤害
+			[c/b225e6:微光物品]
+			'''
+	}
+
+	HeavenlyStorm: {
+		DisplayName: 天穹风暴弓
+		Tooltip:
+			'''
+			将箭矢转化为微光箭矢
+			将圣箭转化为天穹箭矢
+			天穹箭矢向上飞行，命中时产生星辰爆炸
+			还有概率额外发射圣箭
+			[c/b225e6:微光物品]
+			'''
+	}
+
+	Notes3: {
+		DisplayName: 旧笔记
+		Tooltip: 将代达罗斯风暴弓放入微光中转化获得
+	}
+
+	Notes4: {
+		DisplayName: 旧笔记
+		Tooltip: 将火枪子弹放入微光中转化获得
+	}
+
+	ShimmerBullet: {
+		DisplayName: 微光子弹
+		Tooltip:
+			'''
+			受重力影响
+			[c/b225e6:微光物品]
+			'''
+	}
+
+	Shimmerstick: {
+		DisplayName: 微光喷射棒
+		Tooltip:
+			'''
+			将子弹转化为微光子弹
+			将陨石子弹转化为天穹子弹
+			天穹子弹可以穿透、反弹、受重力影响；反弹或消散时碎裂成细小碎片
+			[c/b225e6:微光物品]
+			'''
+	}
+
+	Notes5: {
+		DisplayName: 旧笔记
+		Tooltip: 将霰弹枪放入微光中转化获得
+	}
+
+	Notes6: {
+		DisplayName: 旧笔记
+		Tooltip: 将棱镜法杖放入微光中转化获得
+	}
+
+	SparklingStaff: {
+		DisplayName: 闪耀法杖
+		Tooltip:
+			'''
+			交替发射大量宝石光弹
+			额外射出一枚追踪威能宝石
+			「尘封于岁月之中的古老武器」
+			[c/ff9d00:传奇物品]
+			[c/b225e6:微光物品]
+			'''
+	}
+
+	VoidAxe: {
+		Tooltip:
+			'''
+			仅能享受50%近战速度加成收益
+			发射强力虚空战斧，追踪敌人、汲取生命、穿透墙体
+			虚空战斧失去追踪目标后原地停留
+			近战命中同样可以治疗玩家
+			[c/b225e6:微光物品]
+			'''
+		DisplayName: 虚空战斧
+	}
+
+	Notes7: {
+		Tooltip: 将死神镰刀放入微光中转化获得
+		DisplayName: 旧笔记
+	}
+
+	Notes8: {
+		DisplayName: 旧笔记
+		Tooltip: 将一击枪放入微光中转化获得
+	}
+
+	WeakeningShot: {
+		DisplayName: 衰弱射击枪
+		Tooltip:
+			'''
+			发射三枚慢速衰弱子弹，附带多种减益效果
+			[c/a0a0a0:无职业物品]
+			[c/b225e6:微光物品]
+			'''
+	}
+
+	Notes9: {
+		DisplayName: 旧笔记
+		Tooltip:
+			'''
+			向军火商购买
+			需要军火商好感达标，且任意邪恶Boss已被击败
+			'''
+	}
+
+	IceBlizzard: {
+		DisplayName: 冰雪风暴
+		Tooltip:
+			'''
+			快速发射两根冰锥
+			10%概率射出五枚寒冰光弹
+			[c/ff9d00:传奇物品]
+			'''
+	}
+
+	IcicleBarrage: {
+		Tooltip:
+			'''
+			快速发射三根冰锥
+			12%概率射出十枚寒冰光弹
+			[c/ff9d00:传奇物品]
+			'''
+		DisplayName: 冰锥弹幕
+	}
+
+	CreepyEyedol: {
+		DisplayName: 诡异眼偶
+		Tooltip:
+			'''
+			你的召唤物会集火被击中的敌人
+			以超强视野凝视敌人，对所有原版僵尸类敌人造成额外伤害
+			可以从所有原版僵尸类敌人身上收集骨尘与暗影烈焰素材
+			被你击中的敌人陷入恐惧，移动减速
+			「别眨眼！」
+			[c/96966F:收割道具]
+			'''
+	}
+
+	Flashlight: {
+		Tooltip:
+			'''
+			射出强光，使敌人陷入失明减益，持续7秒
+			失明会使敌人防御力减半
+			「千万别对准自己的脸！」
+			[c/a0a0a0:无职业物品]
+			'''
+		DisplayName: 手电筒
+	}
+
+	PrismaticCrystalStaff: {
+		DisplayName: 棱镜水晶法杖
+		Tooltip:
+			'''
+			发射弱追踪彩虹水晶，命中目标后减速
+			彩虹水晶命中敌人碎裂成碎片
+			[c/ff9d00:传奇物品]
+			'''
+	}
+
+	FistsOfFury: {
+		DisplayName: 狂怒之拳
+		Tooltip:
+			'''
+			以千拳之力快速挥击
+			手持武器不攻击时获得狂暴增益
+			狂暴增益：野蛮近战伤害翻倍，暴击几率提升25%，移速翻倍
+			暴击命中眩晕敌人1秒
+			持有时免疫黏液缠身、狂风扭曲、畸变减益
+			「我正在制作史上最盛大的煎蛋卷」
+			[c/ff9d00:传奇物品]
+			'''
+	}
+
+	Superflux: {
+		DisplayName: 超级通量炮
+		Tooltip: ""
+	}
+
+	SwordOfLight: {
+		Tooltip: 20%概率射出五道光束
+		DisplayName: 光明之剑
+	}
+
+	BlazingStaff: {
+		DisplayName: 烈焰魔杖
+		Tooltip:
+			'''
+			长按左键3秒蓄力，释放烈焰冲击波
+			右键切换武器模式
+			「小心高温灼伤」
+			'''
+	}
+
+	BlazingStaff2: {
+		Tooltip:
+			'''
+			快速散射可以恢复魔力的烈焰
+			右键切换武器模式
+			「小心高温灼伤」
+			'''
+		DisplayName: 圣火魔杖
+	}
+
+	Notes10: {
+		DisplayName: 旧笔记
+		Tooltip: 困难模式向派对女孩购买获取
+	}
+
+	ClockworkArrow: {
+		Tooltip:
+			'''
+			将敌人时间冻结1秒
+			冻结结束后使敌人加速3秒
+			'''
+		DisplayName: 发条箭矢
+	}
+
+	ClockworkRepeater: {
+		DisplayName: 发条连发弩
+		Tooltip:
+			'''
+			七发一轮弹幕射击
+			将箭矢转化为蒸汽箭矢
+			蒸汽箭矢消散时传送，并朝光标生成一支发条箭矢
+			'''
+	}
+
+	CogMachine: {
+		DisplayName: 齿轮发射器
+		Tooltip:
+			'''
+			快速发射齿轮，齿轮命中敌人后停留在原地
+			持续一段时间后进入1.5秒冷却
+			'''
+	}
+
+	OverloadedMagazine: {
+		DisplayName: 过载弹匣
+		Tooltip:
+			'''
+			子弹伤害提升10%
+			每5秒获得重装增益
+			'''
+	}
+
+	GearBreaker: {
+		DisplayName: 碎齿轮扳手
+		Tooltip:
+			'''
+			挥舞巨型扳手，命中敌人生成大型齿轮
+			大型齿轮伤害降低，飞行一段距离后消失
+			'''
+	}
+
+	GearGlove: {
+		DisplayName: 齿轮手套
+		Tooltip:
+			'''
+			消耗3点灵魂
+			在光标周围射出追踪齿轮
+			'''
+	}
+
+	TestBlade: {
+		DisplayName: 代码粉碎者
+		Tooltip: 将敌人直接抹除
+	}
+
+	Test: {
+		DisplayName: 测试道具
+		Tooltip: ""
+	}
+
+	CodeBreaker: {
+		DisplayName: 代码粉碎者
+		Tooltip:
+			'''
+			将敌人直接抹除
+			[c/871b28:作弊物品]
+			'''
+	}
+
+	TheEraser: {
+		DisplayName: 抹除者
+		Tooltip:
+			'''
+			命中敌人造成眩晕
+			将敌人直接抹除
+			[c/871b28:作弊物品]
+			'''
+	}
+
+	CardOfCrowdedness: {
+		DisplayName: 拥挤之卡
+		Tooltip:
+			'''
+			每存在一名激活仆从，仆从伤害降低10%；仆从上限翻倍
+			该效果最多生效5名仆从
+			右键道具切换为同伴之卡
+			「有时候越多反而越弱」
+			[c/00fff7:贡献者物品]
+			'''
+	}
+
+	StealthDagger: {
+		DisplayName: 潜行匕首
+		Tooltip:
+			'''
+			地面上手持匕首不攻击时获得潜行增益
+			潜行增益：野蛮近战伤害翻三倍，暴击几率提升16%，移速大幅下降
+			'''
+	}
+
+	HolyDagger: {
+		DisplayName: 圣辉匕首
+		Tooltip:
+			'''
+			手持匕首静置3秒不攻击获得焕新增益
+			焕新增益：野蛮近战伤害翻倍，近战速度提升15%，暴击几率提升50%
+			获得增益时触发圣光爆炸
+			命中敌人恢复生命值
+			'''
+	}
+
+	ShortbowDagger: {
+		DisplayName: 短弓匕首
+		Tooltip:
+			'''
+			手持匕首静置3秒不攻击获得速射增益
+			速射增益：野蛮近战速度与野蛮近战伤害全部翻倍
+			朝光标发射箭矢
+			'''
+	}
+
+	TheGenocide: {
+		DisplayName: 屠戮之刃
+		Tooltip:
+			'''
+			手持匕首静置3秒不攻击获得速射增益
+			速射增益：野蛮近战速度与野蛮近战伤害全部翻倍
+			获取增益时向光标射出三支血箭
+			一次性射出2~4支箭矢
+			将箭矢转化为血箭
+			'''
+	}
+
+	TheBattler: {
+		DisplayName: 征战者
+		Tooltip:
+			'''
+			手持匕首静置3秒不攻击获得速射增益
+			速射增益：野蛮近战速度与野蛮近战伤害全部翻倍
+			获取增益时向光标射出五支叶绿箭矢
+			一次性射出3~5支箭矢
+			将箭矢转化为叶绿箭矢
+			[c/09ff00:开发者物品]
+			'''
+	}
+
+	PrehistoricDagger: {
+		DisplayName: 史前匕首
+		Tooltip:
+			'''
+			持续攻击时手持匕首3秒获得原始之力增益
+			原始之力增益：野蛮近战伤害提升50%，暴击几率提升100%
+			'''
+	}
+
+	GrassDagger: {
+		DisplayName: 草木匕首
+		Tooltip:
+			'''
+			手持匕首静置3秒不攻击获得自然之力增益
+			自然之力增益：野蛮近战伤害翻倍，暴击几率提升100%，防御力提升12
+			朝光标发射树叶弹幕
+			'''
+	}
+
+	WaterDagger: {
+		DisplayName: 流水匕首
+		Tooltip:
+			'''
+			发射短距离水流
+			手持匕首静置3秒不攻击获得焕新增益
+			焕新增益：野蛮近战伤害翻倍，近战速度提升15%，暴击几率提升50%
+			获得增益时在玩家四周生成水弹
+			'''
+	}
+
+	InfernoHand: {
+		DisplayName: 炼狱之手
+		Tooltip:
+			'''
+			手持匕首静置3秒不攻击获得炼狱献祭增益
+			炼狱献祭增益：野蛮近战伤害提升75%，近战速度提升30%，暴击几率提升15%
+			近战命中会从敌人身上迸发火焰飞向光标
+			挥舞炼狱之手期间自身附带燃烧！减益
+			'''
+	}
+
+	BoltDagger: {
+		DisplayName: 雷弹匕首
+		Tooltip:
+			'''
+			手持匕首静置3秒不攻击获得充能增益
+			充能增益：野蛮近战伤害翻倍，暴击几率提升8%，移速翻倍
+			获取增益时向光标发射磁电球体
+			不再挥砍匕首，改为射出1~3枚雷电弹
+			'''
+	}
+
+	SolarExplosion: {
+		DisplayName: 日耀爆刃
+		Tooltip:
+			'''
+			手持匕首静置3秒不攻击获得充能增益
+			充能增益：野蛮近战伤害翻倍，暴击几率提升8%，移速翻倍
+			获取增益时向光标发射日耀喷发弹
+			发射爆炸日耀火球
+			'''
+	}
+
+	CatsPaw: {
+		DisplayName: 猫爪匕首
+		Tooltip:
+			'''
+			手持匕首静置3秒不攻击获得狂喵增益
+			狂喵增益：野蛮近战伤害提升50%，暴击几率提升12%，移速翻倍，近战速度提升
+			获取增益时在玩家四周射出彩虹光弹
+			发射锋利追踪爪刃
+			'''
+	}
+
+	Seedling: {
+		DisplayName: 幼苗匕首
+		Tooltip:
+			'''
+			持续攻击时手持匕首3秒获得自然之力增益
+			自然之力增益：野蛮近战伤害翻倍，暴击几率提升100%，防御力提升12
+			获得增益时在玩家四周射出爆炸种子
+			命中敌人会在目标周围生成孢子
+			'''
+	}
+
+	StormDagger: {
+		DisplayName: 风暴匕首
+		Tooltip:
+			'''
+			长按右键获得风暴护盾增益
+			风暴护盾增益：防御力+12，生命恢复+6，免疫击退
+			发射风暴冲击波，消散时分裂成风暴光球
+			10%概率造成200%额外伤害
+			'''
+	}
+
+	DarkPortal: {
+		DisplayName: 黑暗传送刃
+		Tooltip:
+			'''
+			手持匕首静置3秒不攻击获得暗影突袭增益
+			暗影突袭增益：野蛮近战伤害翻倍，暴击几率提升30%，近战速度提升15%，防御力+10
+			获取增益时向光标发射死神镰刀
+			发射黑暗光球，光球消散时朝光标生成新黑暗光球
+			新生成光球命中敌人后降低移动速度
+			近战命中有概率触发暗影烈焰爆破
+			'''
+	}
+
+	CursedPortal: {
+		DisplayName: 诅咒传送刃
+		Tooltip:
+			'''
+			手持匕首静置3秒不攻击获得暗影突袭增益
+			暗影突袭增益：野蛮近战伤害翻倍，暴击几率提升30%，近战速度提升15%，防御力+10
+			获取增益时向光标发射死神镰刀
+			发射黑暗光球，光球消散时朝光标生成新黑暗光球
+			新生成光球命中敌人后降低移动速度
+			近战命中有概率触发暗影烈焰爆破
+			'''
+	}
+
+	SacrificalDagger: {
+		DisplayName: 献祭匕首
+		Tooltip:
+			'''
+			手持匕首静置3秒不攻击获得焕新增益
+			焕新增益：野蛮近战伤害翻倍，近战速度提升15%，暴击几率提升50%
+			获得增益时触发圣光爆炸
+			命中敌人恢复生命值
+			'''
+	}
+
+	SacrificialDagger: {
+		DisplayName: 圣祭匕首
+		Tooltip:
+			'''
+			手持匕首静置3秒不攻击获得焕新增益
+			焕新增益：野蛮近战伤害翻倍，近战速度提升15%，暴击几率提升50%
+			获得增益时触发圣光爆炸
+			命中敌人恢复生命值
+			'''
+	}
+
+	TerraDagger: {
+		DisplayName: 泰拉匕首
+		Tooltip:
+			'''
+			手持匕首静置3秒不攻击获得泰拉之力增益
+			泰拉之力增益：野蛮近战伤害提升65%，暴击几率提升30%，近战速度提升，防御力+12
+			获取增益时向光标发射泰拉光束
+			朝光标发射剑气弹幕
+			近战命中有概率触发叶绿爆破
+			'''
+	}
+
+	ShockDagger: {
+		DisplayName: 震击匕首
+		Tooltip:
+			'''
+			持续攻击时手持匕首3秒获得晶化增益
+			晶化增益：近战速度、移速提升50%，暴击几率提升12%
+			获取充能增益时向光标发射电磁导弹
+			不再挥砍匕首，射出3~5道闪电
+			地面状态攻击速度更快
+			'''
+	}
+
+	SpaceDagger: {
+		DisplayName: 星界匕首
+		Tooltip:
+			'''
+			持续攻击时手持匕首3秒获得星辰之力增益
+			星辰之力增益：提升生命恢复、防御力，移速翻倍
+			近战命中时从天降下大量星辰弹幕
+			'''
+	}
+
+	CandyCornDagger: {
+		DisplayName: 玉米糖匕首
+		Tooltip:
+			'''
+			手持匕首静置3秒不攻击获得原始之力增益
+			原始之力增益：野蛮近战伤害提升50%，暴击几率提升100%
+			获取增益时向光标射出爆炸南瓜灯并治疗玩家
+			命中敌人有概率触发烈焰爆炸
+			'''
+	}
+
+	DarkestDagger: {
+		DisplayName: 至暗匕首
+		Tooltip:
+			'''
+			手持匕首静置3秒不攻击获得黯灭之力增益
+			黯灭之力增益：野蛮近战伤害翻倍，暴击几率提升100%，近战速度提升，防御力+16，移速翻倍
+			获得增益时恢复生命值
+			发射毁灭性光束，附带暗影剧痛效果，能够束缚敌人
+			暗影剧痛造成高额持续伤害
+			'''
+	}
+
+	EnchantedDagger: {
+		DisplayName: 附魔匕首
+		Tooltip:
+			'''
+			持续攻击时手持匕首3秒获得附魔增益
+			附魔增益：野蛮近战伤害翻倍，近战速度提升25%，暴击几率提升10%
+			朝光标发射附魔剑气
+			'''
+	}
+
+	Bowulder: {
+		DisplayName: 巨石弓匕
+		Tooltip:
+			'''
+			手持匕首静置3秒不攻击获得速射增益
+			速射增益：野蛮近战速度翻倍，野蛮近战伤害提升50%
+			发射巨型巨石箭矢，命中生成碎石
+			[c/6d006f:趣味物品]
+			'''
+	}
+
+	Bowmama: {
+		DisplayName: 巨母弓
+		Tooltip:
+			'''
+			倾泻大量箭矢
+			将普通箭矢转化为夜明箭矢
+			33%概率发射巨型夜明箭矢
+			「巨母弓体型庞大……」
+			[c/00fff7:贡献者物品]
+			[c/6d006f:趣味物品]
+			'''
+	}
+
+	ChargeShotGreen: {
+		DisplayName: 绿色蓄力光束炮
+		Tooltip:
+			'''
+			消耗25个纳米机器人作为弹药
+			蓄力生成精准光束，造成巨额伤害
+			完全蓄力后光束持续2秒消散
+			「别想用这东西操控物质」
+			'''
+	}
+
+	ChargeShotPurple: {
+		DisplayName: 紫色蓄力光束炮
+		Tooltip:
+			'''
+			消耗25个纳米机器人作为弹药
+			蓄力生成精准光束，造成巨额伤害
+			完全蓄力后光束持续2秒消散
+			「别想用这东西操控物质」
+			'''
+	}
+
+	ChargeShotRed: {
+		DisplayName: 红色蓄力光束炮
+		Tooltip:
+			'''
+			消耗25个纳米机器人作为弹药
+			蓄力生成精准光束，造成巨额伤害
+			完全蓄力后光束持续2秒消散
+			「别想用这东西操控物质」
+			'''
+	}
+
+	Shadowflame: {
+		DisplayName: 暗影烈焰
+		Tooltip: 「哥布林术士施展法术所使用的魔法烈焰」
+	}
+
+	ShadowbloodPotion: {
+		DisplayName: 暗影血药
+		Tooltip:
+			'''
+			生命值上限增加50，但生命恢复速度降低2
+			「喝下之后浑身发麻」
+			'''
+	}
+
+	UndeadPerfume: {
+		DisplayName: 亡灵香水
+		Tooltip:
+			'''
+			魅惑召唤物伤害与击退力提升50%
+			使玩家萦绕亡灵恶臭气息
+			移动速度小幅下降，并且无法飞行
+			但生命值、生命恢复提高，所有亡灵生物对你友善
+			'''
+	}
+
+	FrostbittenDagger: {
+		DisplayName: 霜噬匕首
+		Tooltip:
+			'''
+			发射短距离冰锥
+			手持匕首静置3秒不攻击获得寒霜力量增益
+			寒霜力量增益：近战伤害翻五倍，暴击几率提升20%，但是防御力清零
+			近战命中减缓敌人移动速度
+			'''
+	}
+
+	CorrodedDagger: {
+		DisplayName: 锈蚀匕首
+		Tooltip:
+			'''
+			破损严重、锈迹斑斑的匕首
+			白天使用会召唤NPC暗影窃贼
+			'''
+	}
+
+	SuspiciousDoll: {
+		DisplayName: 可疑人偶
+		Tooltip:
+			'''
+			消耗10点灵魂
+			多角度倾泻追踪箭矢
+			拥有2.5秒冷却
+			「看着有种熟悉感……」
+			[c/00fff7:贡献者物品]
+			'''
+		UsesXSoul: Mods.BetterClasses.Items.SuspiciousDoll.UsesXSoul
+	}
+
+	WinterDagger: {
+		DisplayName: 凛冬匕首
+		Tooltip:
+			'''
+			发射短距离冰锥
+			手持匕首静置3秒不攻击获得寒霜力量增益
+			寒霜力量增益：近战伤害翻五倍，暴击几率提升20%，但是防御力清零
+			获得寒霜力量增益时在玩家四周生成北极长矛
+			近战命中减缓敌人移动速度
+			'''
+	}
+
+	SpiritDoll: {
+		DisplayName: 幽魂人偶
+		Tooltip:
+			'''
+			消耗10点灵魂
+			多角度倾泻追踪幽灵箭矢
+			拥有2.25秒冷却
+			「散发令人不安的恐惧感」
+			'''
+		UsesXSoul: Mods.BetterClasses.Items.SpiritDoll.UsesXSoul
+	}
+
+	LihzahrdianDagger: {
+		DisplayName: 蜥蜴人匕首
+		Tooltip:
+			'''
+			持续攻击时手持匕首3秒获得守护者壁垒增益
+			守护者壁垒增益：野蛮近战伤害提升50%，防御力翻倍，但生命恢复归零
+			近战命中使敌人混乱，并有概率在敌人脚下生成巨石
+			'''
+	}
+
+	LightShow: {
+		DisplayName: 流光幻彩炮
+		Tooltip:
+			'''
+			发射可穿透墙体的细小光束，持续造成伤害
+			手持匕首静置3秒不攻击获得棱镜威能增益
+			棱镜威能增益：野蛮近战伤害翻倍，生命恢复+5，防御力减半
+			近战命中敌人掉落更多金币，并有概率生成追踪星辰
+			'''
+	}
+
+	SpikedDoll: {
+		DisplayName: 尖刺人偶
+		Tooltip:
+			'''
+			消耗13点灵魂
+			多角度散射反弹箭矢风暴
+			拥有3秒冷却
+			「上面的尖刺足以将任何人重创上万次」
+			'''
+		UsesXSoul: Mods.BetterClasses.Items.SpikedDoll.UsesXSoul
+	}
+
+	ShadowSlap: {
+		DisplayName: 暗影掌击
+		Tooltip:
+			'''
+			持续攻击时手持匕首3秒获得暗影突袭增益
+			暗影突袭增益：野蛮近战伤害翻倍，暴击几率提升30%，小幅提升近战速度，防御力+10
+			近战命中附加暗影烈焰减益
+			'''
+	}
+
+	BandOfDarkness: {
+		DisplayName: 黑暗手环
+		Tooltip:
+			'''
+			敌人更容易锁定你为目标
+			跳跃速度提升，近战伤害增加10%
+			'''
+	}
+
+	DarkenedLight: {
+		DisplayName: 黯光饰品
+		Tooltip:
+			'''
+			移动速度、近战速度提升15%
+			跳跃速度提升，近战伤害增加15%
+			'''
+	}
+
+	LightBelt: {
+		DisplayName: 明光腰带
+		Tooltip:
+			'''
+			敌人较难锁定你为目标
+			移动速度、近战速度提升10%
+			'''
+	}
+
+	AllSeeingEye: {
+		DisplayName: 全知之眼
+		Tooltip:
+			'''
+			召唤追踪眼球，眼球命中有小概率恢复生命值
+			追踪眼球命中敌人后，你的仆从会锁定该目标
+			[c/ff9d00:传奇物品]
+			'''
+	}
+
+	BloodyKnives: {
+		DisplayName: 嗜血飞刀
+		Tooltip:
+			'''
+			慢速倾泻可以汲取生命的飞刀
+			[c/ff9d00:传奇物品]
+			'''
+	}
+
+	WormPike: {
+		DisplayName: 蠕虫长矛
+		Tooltip:
+			'''
+			发射追踪吞噬虫
+			[c/ff9d00:传奇物品]
+			'''
+	}
+
+	HoneyDew: {
+		DisplayName: 蜜露
+		Tooltip:
+			'''
+			不可消耗
+			[c/ff9d00:传奇物品]
+			'''
+		RestoreLifeText: "120"
+	}
+
+	SlimeSpewer: {
+		DisplayName: 黏液喷射器
+		Tooltip:
+			'''
+			以凝胶作为弹药
+			发射黏性凝胶，命中造成眩晕
+			黏性凝胶拥有微弱追踪效果
+			[c/ff9d00:传奇物品]
+			'''
+	}
+
+	CursedKey: {
+		DisplayName: 诅咒钥匙
+		Tooltip:
+			'''
+			消耗2点灵魂
+			5点召唤标记伤害
+			以骨尘作为弹药
+			你的召唤物会集火被击中的敌人
+			召唤幽灵巨龙，巨龙追踪敌人，命中目标后减速
+			[c/ff9d00:传奇物品]
+			'''
+		UsesXSoul: Mods.BetterClasses.Items.CursedKey.UsesXSoul
+	}
+
+	MeatShield: {
+		DisplayName: 血肉屏障
+		Tooltip:
+			'''
+			生成日耀光环，使范围内敌人附带破晓减益
+			光环内所有原版恶魔类敌人受到双倍伤害
+			玩家可以向任意方向冲刺
+			提升生命恢复，免疫击退
+			敌人更容易锁定你为目标
+			[c/ff9d00:传奇物品]
+			'''
+	}
+
+	GreenDrone: {
+		DisplayName: 绿色无人机
+		Tooltip:
+			'''
+			30%几率不消耗弹药
+			将普通子弹转化为诅咒子弹
+			右键切换为红色无人机
+			「太————空！」
+			[c/ff9d00:传奇物品]
+			'''
+	}
+
+	RedDrone: {
+		DisplayName: 红色无人机
+		Tooltip:
+			'''
+			30%几率不消耗弹药
+			将普通子弹转化为爆炸子弹
+			右键切换为绿色无人机
+			「太————空！」
+			[c/ff9d00:传奇物品]
+			'''
+	}
+
+	PrimeSaw: {
+		DisplayName: 至尊链锯
+		Tooltip:
+			'''
+			链锯命中敌人生成额外锯刃
+			暴击命中时治疗玩家，并附加开膛减益
+			开膛使敌人持续快速流失生命
+			「用来收割敌人再好不过」
+			[c/ff9d00:传奇物品]
+			'''
+	}
+
+	LaserGun: {
+		DisplayName: 激光枪
+		Tooltip:
+			'''
+			发射可穿透激光，附带电击减益，持续7秒
+			电击有概率触发电化效果，提升所受伤害并降低移速
+			[c/ff9d00:传奇物品]
+			'''
+	}
+
+	RoyalDevotion: {
+		DisplayName: 王室忠章
+		Tooltip:
+			'''
+			炮台上限、仆从上限各+1
+			近战速度、远程伤害提升10%
+			魔力上限提升20
+			[c/ff9d00:传奇物品]
+			'''
+	}
+
+	BetsysCore: {
+		DisplayName: 贝琪核心
+		Tooltip:
+			'''
+			暴击几率提升100%，但造成伤害降低50%
+			[c/ff9d00:传奇物品]
+			'''
+	}
+
+	EtherealEmblem: {
+		DisplayName: 空灵徽章
+		Tooltip:
+			'''
+			暴击几率提升10%
+			攻击伤害与攻速提升15%
+			[c/ff9d00:传奇物品]
+			'''
+	}
+
+	SinnersAmbition: {
+		DisplayName: 罪者之志
+		Tooltip:
+			'''
+			四轮一轮射击，每次发射三枚子弹
+			普通子弹转化为反弹激光，命中发生爆炸
+			右键旋转枪械，提升远程各项属性
+			「V2永远无法企及」
+			[c/00fff7:贡献者物品]
+			[c/09ff00:开发者物品]
+			'''
+	}
+
+	SparkCell: {
+		DisplayName: 火花核心
+		Tooltip:
+			'''
+			有概率在目标周围生成8只恶鬼
+			[c/ff9d00:传奇物品]
+			'''
+	}
+
+	LunarticMask: {
+		DisplayName: 月相假面
+		Tooltip:
+			'''
+			发射闪烁星辰，星辰会生成小型追踪星弹
+			[c/ff9d00:传奇物品]
+			'''
+	}
+
+	DroneRemote: {
+		DisplayName: 无人机遥控器
+		Tooltip:
+			'''
+			手持遥控器时获得火箭推进增益
+			火箭推进大幅提升移动速度
+			发射一架无人机，飞行途中持续发射子弹
+			无人机可穿透敌人，损毁时产生爆炸
+			'''
+	}
+
+	TuskSword: {
+		DisplayName: 獠牙之剑
+		Tooltip:
+			'''
+			间歇性向光标位置发射猪鲨头颅
+			猪鲨头颅会短暂附着在敌人身上
+			[c/ff9d00:传奇物品]
+			'''
+	}
+
+	NaturesRevenge: {
+		DisplayName: 自然之怒
+		Tooltip:
+			'''
+			射出复仇枝叶与种子风暴
+			复仇枝叶施加7秒自然诅咒减益
+			自然诅咒有概率触发酸性毒液，并增强中毒效果
+			赋予德鲁伊之力，攻击时在自身周围生成毒环
+			[c/a0a0a0:全职业通用物品]
+			[c/ff9d00:传奇物品]
+			'''
+	}
+
+	PotionMess: {
+		DisplayName: 混乱药剂
+		Tooltip:
+			'''
+			小幅提升幸运值
+			随机获得增益或减益效果
+			增益/减益效果优劣取决于触发间隔
+			[c/2ea395:M][c/36a382:y][c/47a36c:t][c/5da056:h][c/749c40:i][c/8c972c:c][c/a58e1f:a][c/bd8420:l] [c/d4762d:I][c/e76542:t][c/f6535c:e][c/ff427b:m]
+			'''
+	}
+
+	Tranquilizer: {
+		DisplayName: 镇静吹箭筒
+		Tooltip:
+			'''
+			冷却时间0.5秒
+			发射飞镖短暂眩晕敌人，13%概率获得魔力重压
+			魔力重压使所有镇静武器伤害翻倍
+			飞镖命中敌人恢复50点魔力
+			'''
+	}
+
+	BulletShield: {
+		DisplayName: 弹道护盾
+		Tooltip: ""
+	}
+
+	SWATShield: {
+		DisplayName: 特警盾牌
+		Tooltip:
+			'''
+			召唤特警小队向光标射击
+			特警小队具备接触伤害，造成召唤伤害
+			'''
+	}
+
+	CataclysmicRay: {
+		DisplayName: 灾厄射线
+		Tooltip:
+			'''
+			召唤恶魔触须持续造成伤害
+			赋予书虫增益
+			书虫提升防御力、生命回复与魔力回复
+			[c/FF8C55:E][c/BA663E:x][c/85492C:o][c/754027:t][c/472718:i][c/331C11:c] [c/21120B:I][c/47000B:t][c/63000F:e][c/880015:m]
+			'''
+	}
+
+	Railgun: {
+		DisplayName: 轨道炮
+		Tooltip:
+			'''
+			发射强力穿透激光束
+			光束命中恢复魔力，数秒后消散
+			'''
+	}
+
+	Oiler: {
+		DisplayName: 喷油器
+		Tooltip:
+			'''
+			凝胶作为弹药
+			喷射油料，使火焰减益持续伤害提升
+			间歇性额外喷射火焰
+			'''
+	}
+
+	BloodflameSpewer: {
+		DisplayName: 血焰喷射器
+		Tooltip:
+			'''
+			凝胶作为弹药
+			喷射血焰，命中时恢复生命值
+			以分散弹道额外喷射火焰
+			'''
+	}
+
+	ShadowflameCandle: {
+		DisplayName: 暗影烛火喷射器
+		Tooltip:
+			'''
+			凝胶作为弹药
+			喷射多种火焰，施加多重减益
+			'''
+	}
+
+	SeveredClinger: {
+		DisplayName: 残怨粘附器
+		Tooltip:
+			'''
+			凝胶作为弹药
+			喷射诅咒火焰，施加诅咒地狱减益
+			每射击5发，发射一枚诅咒火球
+			'''
+	}
+
+	SeveredIchorSticker: {
+		DisplayName: 残腐灵液粘附器
+		Tooltip:
+			'''
+			凝胶作为弹药
+			喷射灵液火焰，施加灵液减益
+			每射击5发，发射一枚灵液火球
+			'''
+	}
+
+	PeaceKeeper: {
+		DisplayName: 和平守护者
+		Tooltip:
+			'''
+			玩家处于空中时，该剑攻击必定暴击
+			命中时将玩家向后击退，武器损毁时射出额外刃片
+			'''
+	}
+
+	GasSpewer: {
+		DisplayName: 毒气喷射器
+		Tooltip:
+			'''
+			凝胶作为弹药
+			喷射毒气，施加中毒减益
+			'''
+	}
+
+	MeteorSpewer: {
+		DisplayName: 陨气喷射器
+		Tooltip:
+			'''
+			凝胶作为弹药
+			喷射陨星毒气，接触敌人发生爆炸
+			'''
+	}
+
+	SkullSpewer: {
+		DisplayName: 颅骨喷射器
+		Tooltip:
+			'''
+			凝胶作为弹药
+			喷射骨息，生成追踪颅骨
+			'''
+	}
+
+	Waxer: {
+		DisplayName: 蜂蜡喷射器
+		Tooltip:
+			'''
+			凝胶作为弹药
+			喷射蜂蜜气雾，手持时获得硬化蜂蜜增益
+			'''
+	}
+
+	GhostBelcher: {
+		DisplayName: 幽息喷吐器
+		Tooltip:
+			'''
+			凝胶作为弹药
+			喷射幽寒气流，生成追踪幽魂
+			两种弹幕均可穿墙
+			“你准备呼叫谁？”
+			'''
+	}
+
+	FieryDoom: {
+		DisplayName: 烈焰终焉
+		Tooltip:
+			'''
+			玩家处于空中时，该剑攻击必定暴击
+			命中时将玩家向后击退，武器损毁时喷射火焰
+			'''
+	}
+
+	TotemOfLife: {
+		DisplayName: 生命图腾
+		Tooltip:
+			'''
+			生命值濒临危机时手持图腾将自动回血
+			该回血效果拥有2分钟冷却
+			'''
+	}
+
+	FallenJudgesCrown: {
+		DisplayName: 陨落审判者冠冕
+		Tooltip: "[c/00fff7:贡献者物品]"
+	}
+
+	OnyxCannon: {
+		DisplayName: 黑曜石火炮
+		Tooltip:
+			'''
+			凝胶作为弹药
+			喷射暗影焰油，提升火焰减益持续伤害
+			间歇性额外发射黑曜爆破弹
+			'''
+	}
+
+	TrashCollector: {
+		DisplayName: 废品收集器
+		Tooltip:
+			'''
+			垃圾作为弹药
+			每次使用属性随机变化
+			[c/a0a0a0:全职业通用物品]
+			'''
+	}
+
+	Trash: {
+		DisplayName: 垃圾
+		Tooltip: 废品收集器的弹药
+	}
+
+	NegativeDagger: {
+		DisplayName: 负能匕首
+		Tooltip:
+			'''
+			手持匕首持续攻击3秒，获得负能重压减益
+			负能重压：近战伤害降低300%，近战攻速降低25%，暴击率降低10%
+			在鼠标位置生成追踪负能飞弹
+			每次使用属性随机变化
+			'''
+	}
+
+	TreeCannon: {
+		DisplayName: 巨树火炮
+		Tooltip:
+			'''
+			33%概率不消耗弹药
+			橡果作为弹药
+			一次发射三枚橡果，橡果消散时生成树叶
+			橡果命中敌人施加生长减益
+			生长使敌人持续受到伤害
+			生长效果会让所有原版丛林敌人承受额外伤害
+			'''
+	}
+
+	ShadowflameBullet: {
+		DisplayName: 暗影焰弹
+		Tooltip: 穿梭于诸界之间
+	}
+
+	BattleCape: {
+		DisplayName: 战披风
+		Tooltip:
+			'''
+			感谢游玩本模组，祝你游玩愉快！
+			[c/09ff00:开发者物品]
+			'''
+	}
+
+	ThornyMace: {
+		DisplayName: 荆棘钉锤
+		Tooltip:
+			'''
+			自动向附近敌人发射荆棘
+			甩出链锤时释放投射物
+			'''
+	}
+
+	ChlorophyteTranquilizer: {
+		DisplayName: 叶绿镇静吹箭筒
+		Tooltip:
+			'''
+			冷却时间0.5秒
+			发射飞镖短暂眩晕敌人，13%概率获得魔力重压
+			魔力重压使所有镇静武器伤害翻倍
+			飞镖命中敌人恢复50魔力与25生命值
+			'''
+	}
+
+	ExplosiveHoliday: {
+		DisplayName: 爆裂佳节
+		Tooltip:
+			'''
+			发射一波可摧毁方块的导弹
+			“无数糟糕节日的始作俑者”
+			[c/a0a0a0:全职业通用物品]
+			[c/ff9d00:传奇物品]
+			'''
+	}
+
+	PumpkinCore: {
+		DisplayName: 南瓜核心（毁灭型）
+		Tooltip:
+			'''
+			小型悠悠球
+			可摧毁绝大部分方块，无法摧毁神庙砖、神庙祭坛、平台与火把
+			悠悠球旋转时周围生成蝙蝠
+			右键物品关闭方块摧毁功能
+			[c/ff9d00:传奇物品]
+			'''
+	}
+
+	PumpkinCore2: {
+		DisplayName: 南瓜核心
+		Tooltip:
+			'''
+			小型悠悠球
+			悠悠球旋转时周围生成蝙蝠
+			右键物品开启方块摧毁功能
+			[c/ff9d00:传奇物品]
+			'''
+	}
+
+	FlamingWoodKunai: {
+		DisplayName: 烈焰木苦无
+		Tooltip:
+			'''
+			快速发射烈焰木苦无，命中迸出火星
+			每射击25发触发3秒冷却
+			[c/ff9d00:传奇物品]
+			'''
+	}
+
+	OrnamentsOfDoom: {
+		DisplayName: 厄运饰球
+		Tooltip:
+			'''
+			快速发射致命饰球，可在墙体反弹
+			每射击25发触发3秒冷却
+			[c/ff9d00:传奇物品]
+			'''
+	}
+
+	FrozenMachine: {
+		DisplayName: 冰封发射器
+		Tooltip:
+			'''
+			蓄力1.5秒，发射缓慢移动冰球
+			冰球飞行途中持续生成微型雪花
+			'''
+	}
+
+	FrostMachine: {
+		DisplayName: 寒霜发射器
+		Tooltip:
+			'''
+			蓄力1.5秒，发射缓慢移动冰球
+			冰球存续期间持续生成微型雪花
+			[c/ff9d00:传奇物品]
+			'''
+	}
+
+	MartianCore: {
+		DisplayName: 火星核心
+		Tooltip:
+			'''
+			伤害提升50%，暴击率降低100%
+			[c/ff9d00:传奇物品]
+			'''
+	}
+
+	CursedPumpkin: {
+		DisplayName: 诅咒南瓜
+		Tooltip:
+			'''
+			方块挖掘范围+3
+			获得光辉增益
+			伤害与挖掘速度随BOSS进度提升
+			困难模式解锁死亡光环，对范围内敌人增伤
+			[c/ffa0bf:节日物品]
+			[c/2ea395:M][c/36a382:y][c/47a36c:t][c/5da056:h][c/749c40:i][c/8c972c:c][c/a58e1f:a][c/bd8420:l] [c/d4762d:I][c/e76542:t][c/f6535c:e][c/ff427b:m]
+			'''
+	}
+
+	RoseOfCourage: {
+		DisplayName: 勇气玫瑰
+		Tooltip:
+			'''
+			每拥有1只有效仆从，非召唤伤害提升5%
+			[c/00fff7:贡献者物品]
+			'''
+	}
+
+	BigClub: {
+		DisplayName: 巨型棍棒
+		Tooltip:
+			'''
+			挥动沉重巨棍，施加碎木减益
+			碎木使敌人持续受到伤害
+			碎木效果对所有原版BOSS类敌人造成额外伤害
+			暴击时获得重击时刻增益
+			[c/ff9d00:传奇物品]
+			'''
+	}
+
+	ChristmasCheer: {
+		DisplayName: 圣诞欢歌
+		Tooltip: 从圣诞树发射松针与各类杂物
+	}
+
+	UnstableBrick: {
+		DisplayName: 不稳定砖块
+		Tooltip:
+			'''
+			投掷沉重且缓慢的爆炸砖块
+			砖块爆炸后碎裂成多块爆炸碎片
+			'''
+	}
+
+	ShamanTablet: {
+		DisplayName: 萨满石板
+		Tooltip:
+			'''
+			5点召唤标记伤害
+			发射追踪净化法术
+			净化法术命中恢复5点灵魂，有概率大幅降低敌人防御，持续7秒
+			冷却0.5秒
+			[c/ff9d00:传奇物品]
+			'''
+	}
+
+	SuperCharger: {
+		DisplayName: 超级充能器
+		Tooltip: ""
+	}
+
+	ColorParty: {
+		DisplayName: 缤纷狂欢
+		Tooltip:
+			'''
+			发射旋转彩虹激光，施加7秒缤纷溅射减益
+			缤纷溅射使敌人防御减半，增强持续伤害类减益效果
+			[c/a0a0a0:全职业通用物品]
+			'''
+	}
+
+	MarbleSpikefish: {
+		DisplayName: 大理石刺鱼
+		Tooltip:
+			'''
+			旋转奇异石化鱼，获得大理石肤甲增益
+			大理石肤甲提升5点防御，免疫击退
+			将刺鱼投向敌人会碎裂成大理石石块
+			投掷刺鱼暴击命中敌人时恢复生命值
+			在空中使用额外获得12%暴击率
+			“大理石洞穴原生岩鱼的稀有变种”
+			[c/3F00FF:垂钓物品]
+			'''
+	}
+
+	Notes11: {
+		DisplayName: 手记
+		Tooltip: 在困难模式大理石生物群系垂钓获取
+	}
+
+	Notes12: {
+		DisplayName: 手记
+		Tooltip: 在海洋垂钓获取
+	}
+
+	Seaweep: {
+		DisplayName: 海潮苇鞭
+		Tooltip:
+			'''
+			5点召唤标记伤害
+			挥动稀有海草，短暂眩晕敌人
+			[c/3F00FF:垂钓物品]
+			[c/00fff7:贡献者物品]
+			'''
+	}
+
+	ThornWhip: {
+		DisplayName: 荆棘鞭
+		Tooltip:
+			'''
+			9点召唤标记伤害
+			挥动剧毒海草，短暂眩晕敌人
+			鞭子使用时炸裂为追踪荆棘，同时对自身造成伤害
+			[c/FF8C55:E][c/BA663E:x][c/85492C:o][c/754027:t][c/472718:i][c/331C11:c] [c/21120B:I][c/47000B:t][c/63000F:e][c/880015:m]
+			'''
+	}
+
+	EnchantedTrident: {
+		DisplayName: 附魔三叉戟
+		Tooltip:
+			'''
+			每射击2次，释放附魔三叉戟弹幕
+			手持获得三叉戟之力增益
+			三叉戟之力：水下近战伤害提升15%
+			手持提升水下机动性
+			按住上键减缓水下下沉速度
+			'''
+	}
+
+	Candiru: {
+		DisplayName: 寄生鲇匕首
+		Tooltip:
+			'''
+			持续攻击手持匕首3秒，获得强酸之力增益
+			强酸之力：近战伤害与击退力提升50%
+			触发强酸之力时自身受到伤害
+			命中敌人有概率触发毒爆，毒爆可暴击
+			[c/3F00FF:垂钓物品]
+			'''
+	}
+
+	Notes13: {
+		DisplayName: 手记
+		Tooltip: 在困难模式雨天垂钓获取
+	}
+
+	ExplosiveSea: {
+		DisplayName: 爆海水雷
+		Tooltip:
+			'''
+			发射高爆水雷，靠近敌人时停止移动
+			未撞击方块或敌人的水雷可暴击，消散时迸出火焰
+			[c/3F00FF:垂钓物品]
+			'''
+	}
+
+	Notes14: {
+		DisplayName: 手记
+		Tooltip: 在困难模式海洋垂钓获取
+	}
+
+	TetheredRock: {
+		DisplayName: 缚石
+		Tooltip: 没有比这更朴素的武器了
+	}
+
+	GraniteEnergyfish: {
+		DisplayName: 花岗岩能量鱼
+		Tooltip:
+			'''
+			发射花岗岩石块，击中敌人碎裂出花岗岩弹
+			花岗岩弹暴击命中敌人恢复魔力
+			站在地面时额外获得12%暴击率
+			“花岗岩洞穴原生岩鱼的稀有变种”
+			[c/3F00FF:垂钓物品]
+			'''
+	}
+
+	Notes15: {
+		DisplayName: 手记
+		Tooltip: 在困难模式花岗岩生物群系垂钓获取
+	}
+
+	Fishgun: {
+		DisplayName: 鱼枪
+		Tooltip:
+			'''
+			将普通子弹转化为水弹
+			水弹消散时产生水体爆炸
+			右键旋转枪械，提升远程伤害、攻速并获得水下机动能力
+			水下使用右键进一步提升伤害与弹幕速度
+			[c/3F00FF:垂钓物品]
+			'''
+	}
+
+	Notes16: {
+		DisplayName: 手记
+		Tooltip: 在森林生物群系垂钓获取
+	}
+
+	CloudStaff: {
+		DisplayName: 云之法杖
+		Tooltip:
+			'''
+			发射巨型云束，施加7秒阴云笼罩减益
+			阴云笼罩增强持续伤害减益效果
+			云束每命中5次短暂眩晕敌人
+			[c/a0a0a0:全职业通用物品]
+			[c/3F00FF:垂钓物品]
+			'''
+	}
+
+	Notes17: {
+		DisplayName: 手记
+		Tooltip: 在太空垂钓获取
+	}
+
+	WorldBreaker: {
+		DisplayName: 碎界光束
+		Tooltip:
+			'''
+			发射毁灭世界的光束
+			光束消融方块、墙体、液体、物品与宝箱
+			[c/871b28:作弊物品]
+			'''
+	}
+
+	Notes18: {
+		DisplayName: 手记
+		Tooltip: 在沙漠垂钓获取
+	}
+
+	Thornfish: {
+		DisplayName: 棘刺鱼
+		Tooltip:
+			'''
+			不可消耗
+			投掷鱼类，使其附着在敌人身上
+			[c/3F00FF:垂钓物品]
+			'''
+	}
+
+	HandheldSnowballLauncher: {
+		DisplayName: 便携雪球发射器
+		Tooltip: 基础雪球发射器的便携版本
+	}
+
+	Notes19: {
+		DisplayName: 手记
+		Tooltip: 在雪原垂钓获取
+	}
+
+	Winterfish: {
+		DisplayName: 凛冬鱼
+		Tooltip:
+			'''
+			消耗1点灵魂
+			3点召唤标记伤害
+			不可消耗
+			投掷大量可穿透敌人的凛冬鱼
+			[c/3F00FF:垂钓物品]
+			'''
+		UsesXSoul: Mods.BetterClasses.Items.Winterfish.UsesXSoul
+	}
+
+	ShimmerDart: {
+		DisplayName: 微光飞镖
+		Tooltip:
+			'''
+			飞行途中重力持续变化
+			最多穿透三名敌人
+			[c/b225e6:微光物品]
+			'''
+	}
+
+	WeaknessPolicy: {
+		DisplayName: 弱点策论
+		Tooltip:
+			'''
+			暴击后获得100%伤害增幅
+			增益生效期间无法再次暴击
+			'''
+	}
+
+	Notes20: {
+		DisplayName: 手记
+		Tooltip: 将猴子飞镖投入微光转化获得
+	}
+
+	CoralShortbow: {
+		DisplayName: 珊瑚短弓
+		Tooltip:
+			'''
+			手持匕首3秒不攻击，获得速射预备增益
+			速射预备：野蛮近战攻速翻倍，野蛮近战伤害提升50%
+			一次射出1~2支箭矢，同时发射穿透泡泡
+			'''
+	}
+
+	Yappinator: {
+		DisplayName: 聒噪发生器
+		Tooltip:
+			'''
+			快速发射文字弹幕，削减敌人0.23%生命值
+			[c/6d006f:趣味物品]
+			[c/a0a0a0:全职业通用物品]
+			'''
+	}
+
+	GoldenAchievement: {
+		DisplayName: 黄金丰碑
+		Tooltip:
+			'''
+			不可消耗
+			投掷黄金雕像，无视绝大部分防御
+			'''
+	}
+
+	HellBringer: {
+		DisplayName: 地狱信使
+		Tooltip:
+			'''
+			黑曜石作为弹药
+			发射火箭，爆炸并施加燃烧！减益
+			使用时产生小幅击退
+			'''
+	}
+
+	LifeCrystalLauncher: {
+		DisplayName: 生命水晶发射器
+		Tooltip:
+			'''
+			生命水晶作为弹药
+			长按左键蓄力，释放强力回血弹幕
+			蓄力满3秒即可发射
+			拥有15秒冷却
+			[c/a0a0a0:全职业通用物品]
+			'''
+	}
+
+	CursedPointer: {
+		DisplayName: 诅咒指针
+		Tooltip:
+			'''
+			完全免疫所有冷却限制
+			[c/871b28:作弊物品]
+			'''
+	}
+
+	FutureSurprise: {
+		DisplayName: 未来惊喜
+		Tooltip: 足够耐心之后，敌人将迎来一份特别的惊喜
+	}
+
+	SkyProtector: {
+		DisplayName: 天穹守护者
+		Tooltip:
+			'''
+			持续攻击手持匕首3秒，获得星辰之力增益
+			星辰之力提升生命回复、防御力与移速
+			近战命中时天降陨星
+			'''
+	}
+
+	MeteorShortbow: {
+		DisplayName: 陨星短弓
+		Tooltip:
+			'''
+			手持匕首3秒不攻击，获得速射预备增益
+			速射预备：野蛮近战攻速翻倍，野蛮近战伤害提升50%
+			普通箭矢转化为陨星箭，箭矢消散时天降星辰
+			一次射出1~2支箭矢
+			'''
+	}
+
+	RuneCannon: {
+		DisplayName: 符文火炮
+		Tooltip:
+			'''
+			攻击时在自身周围生成灵液环与诅咒之火环
+			[c/00fff7:贡献者物品]
+			'''
+	}
+
+	BouncyBlaster: {
+		DisplayName: 弹跳喷射器
+		Tooltip:
+			'''
+			凝胶作为弹药
+			发射可弹跳凝胶弹，命中眩晕敌人
+			凝胶弹具备微弱追踪效果
+			[c/ff9d00:传奇物品]
+			'''
+	}
+
+	Bloodfang: {
+		DisplayName: 血牙匕首
+		Tooltip:
+			'''
+			手持匕首持续获得嗜血增益
+			嗜血大幅提升生命回复，近战伤害根据当前生命值提升
+			命中敌人施加重度撕裂减益
+			重度撕裂使敌人持续受到伤害
+			命中恢复可观生命值，暴击回血更多
+			拥有1.5秒冷却
+			[c/3F00FF:垂钓物品]
+			[c/00fff7:贡献者物品]
+			'''
+	}
+
+	Notes21: {
+		DisplayName: 手记
+		Tooltip: 血月期间在地底层垂钓获取
+	}
+
+	MarbleGraniteDuals: {
+		DisplayName: 花岗大理石双匕
+		Tooltip:
+			'''
+			左键快速挥击带电花岗岩匕首
+			花岗岩匕首赋予花岗之力：提升伤害与防御
+			右键慢速挥击炽焰大理石匕首
+			大理石匕首赋予大理之力：提升攻速与生命回复
+			'''
+	}
+
+	MushroomDuals: {
+		DisplayName: 蘑菇双匕
+		Tooltip:
+			'''
+			左键快速挥击剧毒蘑菇矿匕首
+			蘑菇矿匕首赋予菌铠之力：提升伤害与防御
+			右键慢速挥击毒菇匕首
+			毒菇匕首赋予菌愈之力：提升攻速与生命回复
+			'''
+	}
+
+	CrystalDagger: {
+		DisplayName: 水晶匕首
+		Tooltip:
+			'''
+			持续攻击手持匕首3秒，获得晶化增益
+			晶化：近战攻速、移速提升50%，暴击率+12%
+			触发晶化时向光标发射山铜花瓣
+			不再挥砍匕首，射出3~5枚水晶碎片
+			'''
+	}
+
+	MythicalMatter: {
+		DisplayName: 玄奇物质
+		Tooltip:
+			'''
+			来自异界的奇异物质
+			绝大多数敌人千分之一概率掉落
+			[c/2ea395:M][c/36a382:y][c/47a36c:t][c/5da056:h][c/749c40:i][c/8c972c:c][c/a58e1f:a][c/bd8420:l] [c/d4762d:I][c/e76542:t][c/f6535c:e][c/ff427b:m]
+			'''
+	}
+
+	StrongWinds: {
+		DisplayName: 烈风
+		Tooltip:
+			'''
+			发射强劲气流，命中眩晕敌人
+			伤害与眩晕时长随BOSS推进进度提升
+			[c/2ea395:M][c/36a382:y][c/47a36c:t][c/5da056:h][c/749c40:i][c/8c972c:c][c/a58e1f:a][c/bd8420:l] [c/d4762d:I][c/e76542:t][c/f6535c:e][c/ff427b:m]
+			'''
+	}
+
+	Flyshooter: {
+		DisplayName: 蝇群发射器
+		Tooltip:
+			'''
+			消耗2点灵魂
+			你的仆从集火目标敌人
+			发射2~7只飞虫，附着在敌人身上
+			伤害与护甲穿透随BOSS推进进度提升
+			[c/2ea395:M][c/36a382:y][c/47a36c:t][c/5da056:h][c/749c40:i][c/8c972c:c][c/a58e1f:a][c/bd8420:l] [c/d4762d:I][c/e76542:t][c/f6535c:e][c/ff427b:m]
+			'''
+		UsesXSoul: Mods.BetterClasses.Items.Flyshooter.UsesXSoul
+	}
+
+	BoneDust: {
+		DisplayName: 骨粉
+		Tooltip: 粉碎的骨头，用途广泛
+	}
+
+	StickyDoll: {
+		DisplayName: 粘缚人偶
+		Tooltip:
+			'''
+			消耗7点灵魂
+			多角度大量射出箭矢，钉附在敌人身上
+			冷却1.5秒
+			“放心，握持它并不会粘手”
+			'''
+		UsesXSoul: Mods.BetterClasses.Items.StickyDoll.UsesXSoul
+	}
+
+	StardustDoll: {
+		DisplayName: 星尘人偶
+		Tooltip:
+			'''
+			消耗10点灵魂
+			多角度射出大量星尘箭矢
+			星尘箭矢分裂出更多追踪星尘箭
+			冷却2.5秒
+			“黑暗魔法力量的终极造物”
+			'''
+		UsesXSoul: Mods.BetterClasses.Items.StardustDoll.UsesXSoul
+	}
+
+	CorruptedBlade: {
+		DisplayName: 腐化之刃
+		Tooltip: 每1.25秒向光标挥出一道刃气
+	}
+
+	WeatherDuals: {
+		DisplayName: 气象双匕
+		Tooltip:
+			'''
+			左键快速挥击冰封冰匕首
+			冰匕首赋予寒霜之力：提升伤害与防御
+			右键慢速挥击禁域沙匕
+			沙匕赋予荒沙之力：提升攻速与生命回复
+			'''
+	}
+
+	Magic8Ball: {
+		DisplayName: 魔法8号球
+		Tooltip:
+			'''
+			不可消耗
+			投掷魔法8号球，触发随机效果
+			效果对敌人有利或有害皆有可能
+			“魔法8号球，我的敌人是否该承受我的怒火？”
+			[c/6d006f:趣味物品]
+			'''
+	}
+
+	TeslaCannon: {
+		DisplayName: 特斯拉火炮
+		Tooltip:
+			'''
+			消耗15花岗岩能量作为弹药
+			蓄力发射大量特斯拉电弧
+			电弧施加7秒致盲与电化减益
+			致盲使敌人防御减半
+			'''
+	}
+
+	ChargedTeslaCannon: {
+		DisplayName: 充能特斯拉火炮
+		Tooltip:
+			'''
+			消耗15纳米材料作为弹药
+			蓄力发射大量电弧与电球，电球命中分裂出更多电弧
+			电弧施加7秒致盲与电化减益
+			致盲使敌人防御减半
+			'''
+	}
+
+	OtherworldlyScar: {
+		DisplayName: 异界伤痕
+		Tooltip:
+			'''
+			普通子弹转化为高易燃穿透弹
+			每射击30发强制换弹
+			“愚人节礼物！”
+			[c/6d006f:趣味物品]
+			[c/ffa0bf:节日物品]
+			'''
+	}
+
+	BrawlerBadge: {
+		DisplayName: 格斗徽章
+		Tooltip:
+			'''
+			装备后绝大多数属性提升5%
+			额外增加3点防御、生命回复与魔力回复
+			'''
+	}
+
+	ExecutionAxe: {
+		DisplayName: 行刑斧
+		Tooltip:
+			'''
+			你的仆从集火目标敌人
+			挥动巨斧，对所有原版丧尸类敌人造成额外伤害
+			可从所有原版丧尸类敌人身上收集骨粉
+			[c/96966F:收割类物品]
+			'''
+	}
+
+	SpiderScepter: {
+		DisplayName: 蜘蛛权杖
+		Tooltip:
+			'''
+			使用造成33点伤害
+			召唤蜘蛛炮台，向光标发射蛛网
+			蛛网可眩晕敌人，玩家触碰蛛网恢复灵魂
+			拥有15秒冷却
+			'''
+	}
+
+	Harvester: {
+		DisplayName: 收割者
+		Tooltip:
+			'''
+			你的召唤物将集火被命中的敌人
+			挥舞镰刀，对所有原版僵尸类敌人造成额外伤害
+			可从所有原版僵尸类敌人身上汲取暗影烈焰
+			[c/96966F:收割者装备]
+			'''
+	}
+
+	ShadowflameMask: {
+		DisplayName: 暗影烈焰面具
+		Tooltip:
+			'''
+			最大仆从数量+1
+			咒唤召唤物伤害提升17%
+			生成暗影烈焰环，对范围内敌人施加暗影烈焰debuff
+			环内所有僵尸类敌人受到双倍伤害
+			'''
+	}
+
+	RustedKnightBreastplate: {
+		DisplayName: 锈蚀骑士胸甲
+		Tooltip:
+			'''
+			最大仆从数量+1
+			咒唤召唤物伤害提升17%
+			'''
+	}
+
+	RustedKnightHood: {
+		DisplayName: 锈蚀骑士兜帽
+		Tooltip:
+			'''
+			最大仆从数量+1
+			咒唤召唤物伤害提升15%
+			'''
+	}
+
+	RustedKnightLeggings: {
+		DisplayName: 锈蚀骑士护腿
+		Tooltip:
+			'''
+			最大仆从数量+1
+			咒唤召唤物伤害提升13%
+			移动速度提升20%
+			'''
+	}
+
+	BoneJacket: {
+		DisplayName: 骨甲外套
+		Tooltip:
+			'''
+			最大仆从数量+1
+			咒唤召唤物伤害与鞭类射程提升7%
+			生命值低于一半时，直接回满生命值
+			该效果拥有1分钟冷却
+			'''
+	}
+
+	HellSerpentScepter: {
+		DisplayName: 地狱蛇杖
+		Tooltip:
+			'''
+			使用时造成37点伤害
+			生成地狱蛇炮台，朝光标喷射火焰
+			火焰触碰玩家时恢复魂能
+			拥有15秒冷却
+			'''
+	}
+
+	IceCubeScepter: {
+		DisplayName: 冰方块法杖
+		Tooltip:
+			'''
+			使用时造成43点伤害
+			生成冰方块，向下发射冰锥
+			冰锥触碰玩家时恢复魂能
+			拥有15秒冷却
+			'''
+	}
+
+	MeteorHat: {
+		DisplayName: 陨星帽
+		Tooltip:
+			'''
+			最大魔力值+20
+			附魔魔法伤害提升7%
+			'''
+	}
+
+	BlacksteelAnvil: {
+		DisplayName: 黑钢铁砧
+		Tooltip:
+			'''
+			下落速度翻倍
+			站在地面时狂战士近战伤害提升25%
+			'''
+	}
+
+	ColorfulFeather: {
+		DisplayName: 斑斓羽毛
+		Tooltip:
+			'''
+			获得缓慢下落效果
+			处于空中时战术远程伤害提升25%
+			'''
+	}
+
+	Notes22: {
+		DisplayName: 手记
+		Tooltip: 将彩虹枪投入微光获取
+	}
+
+	MoonlightMask: {
+		DisplayName: 月辉面具
+		Tooltip:
+			'''
+			最大魔力值+20
+			附魔魔法伤害提升15%
+			'''
+	}
+
+	MoonlightPants: {
+		DisplayName: 月辉长裤
+		Tooltip:
+			'''
+			最大魔力值+20
+			附魔魔法伤害提升13%
+			移动速度提升20%
+			'''
+	}
+
+	MoonlightShirt: {
+		DisplayName: 月辉法袍
+		Tooltip:
+			'''
+			最大魔力值+20
+			附魔魔法伤害提升17%
+			'''
+	}
+
+	FloweringRepeater: {
+		DisplayName: 繁花连弩
+		Tooltip:
+			'''
+			随机射出多种箭矢
+			[c/b225e6:微光物品]
+			'''
+	}
+
+	Notes23: {
+		DisplayName: 手记
+		Tooltip: 将食人鱼枪投入微光获取
+	}
+
+	BloodRipper: {
+		DisplayName: 血裂匕首
+		Tooltip:
+			'''
+			手持匕首3秒不攻击，获得暗影之力增益
+			暗影之力：狂战士近战伤害翻倍、暴击率+100%、近战攻速提升、防御力+16、移动速度翻倍
+			击中敌人时恢复生命
+			[c/b225e6:微光物品]
+			'''
+	}
+
+	Notes24: {
+		DisplayName: 手记
+		Tooltip: 将腐蚀灾厄投入微光获取
+	}
+
+	Notes25: {
+		DisplayName: 手记
+		Tooltip: 将吸血鬼飞刀投入微光获取
+	}
+
+	WorldBiter: {
+		DisplayName: 噬界者
+		Tooltip:
+			'''
+			手持匕首3秒不攻击，获得暗影之力增益
+			暗影之力：狂战士近战伤害翻倍、暴击率+100%、近战攻速提升、防御力+16、移动速度翻倍
+			击中敌人时有概率生成小型吞噬怪
+			[c/b225e6:微光物品]
+			'''
+	}
+
+	DustDevil: {
+		DisplayName: 尘魔鞭
+		Tooltip:
+			'''
+			召唤标签伤害11
+			攻击敌人可堆叠攻速、伤害、鞭射程加成
+			增益溢出堆叠时将重置层数
+			[c/b225e6:微光物品]
+			'''
+	}
+
+	Notes26: {
+		DisplayName: 手记
+		Tooltip: 将沙漠虎法杖投入微光获取
+	}
+
+	Notes27: {
+		DisplayName: 手记
+		Tooltip: 将寒霜九头蛇法杖投入微光获取
+	}
+
+	SnowyDoll: {
+		DisplayName: 雪偶
+		Tooltip:
+			'''
+			消耗7点魂能
+			向随机角度射出大量雪球
+			雪球飞行一段时间后停留在原地
+			拥有1.5秒冷却
+			[c/b225e6:微光物品]
+			'''
+		UsesXSoul: Mods.BetterClasses.Items.SnowyDoll.UsesXSoul
+	}
+
+	AncestralEye: {
+		DisplayName: 先祖之眼
+		Tooltip:
+			'''
+			依据当前生命值提升狂战士近战、战术远程伤害
+			依据当前魔力值提升附魔魔法、咒唤召唤物伤害
+			'''
+	}
+
+	Notes28: {
+		DisplayName: 手记
+		Tooltip: 雨天天时向机械师购买获得
+	}
+
+	NobleBreastplate: {
+		DisplayName: 贵族胸甲
+		Tooltip:
+			'''
+			最大生命值+50
+			狂战士近战伤害与暴击率提升13%
+			'''
+	}
+
+	NobleHelmet: {
+		DisplayName: 贵族头盔
+		Tooltip:
+			'''
+			最大生命值+25
+			狂战士近战伤害与攻击速度提升15%
+			'''
+	}
+
+	NobleLeggings: {
+		DisplayName: 贵族护腿
+		Tooltip:
+			'''
+			最大生命值+25
+			狂战士近战伤害提升11%
+			移动速度提升15%
+			'''
+	}
+
+	HumbleBandana: {
+		DisplayName: 朴素头巾
+		Tooltip:
+			'''
+			最大生命值+25
+			战术远程伤害与攻速提升15%
+			'''
+	}
+
+	HumbleTuxedo: {
+		DisplayName: 朴素礼服上衣
+		Tooltip:
+			'''
+			最大生命值+50
+			战术远程伤害与暴击率提升13%
+			'''
+	}
+
+	HumbleTuxedoPants: {
+		DisplayName: 朴素礼服西裤
+		Tooltip:
+			'''
+			最大生命值+25
+			战术远程伤害提升11%
+			移动速度提升15%
+			'''
+	}
+
+	FungiSpell: {
+		DisplayName: 真菌法术
+		Tooltip:
+			'''
+			射出孢子，孢子飞行途中生成松露怪
+			20%概率额外发射两枚孢子
+			“千万别吃下去”
+			'''
+	}
+
+	DiscoMask: {
+		DisplayName: 迪斯科面具
+		Tooltip:
+			'''
+			狂战士近战、附魔魔法、战术远程、咒唤召唤物伤害全部提升13%
+			生成派对光环，对范围内敌人施加强化炫彩冲击debuff
+			光环内敌人会给予玩家派对时光buff：提升生命值、跳跃速度，获得击退免疫
+			强化炫彩冲击：降低敌人1/3防御力，大幅增强持续伤害效果
+			[c/FF8C55:E][c/BA663E:x][c/85492C:o][c/754027:t][c/472718:i][c/331C11:c] [c/21120B:I][c/47000B:t][c/63000F:e][c/880015:m]
+			'''
+	}
+
+	DryadsArtifact: {
+		DisplayName: 树妖遗物
+		Tooltip:
+			'''
+			装备后获得树妖祝福
+			生成自然光环，对范围内敌人施加树妖庇护debuff
+			'''
+	}
+
+	Notes29: {
+		DisplayName: 手记
+		Tooltip: 困难模式向树妖购买获取
+	}
+
+	LihzahrdChestplate: {
+		DisplayName: 蜥蜴胸甲
+		Tooltip:
+			'''
+			狂战士近战伤害与暴击率提升20%
+			敌人更容易锁定你为目标
+			'''
+	}
+
+	LihzahrdHelmet: {
+		DisplayName: 蜥蜴头盔
+		Tooltip:
+			'''
+			狂战士近战伤害与攻速提升17%
+			敌人更容易锁定你为目标
+			'''
+	}
+
+	LihzahrdLeggings: {
+		DisplayName: 蜥蜴护腿
+		Tooltip:
+			'''
+			狂战士近战伤害提升13%
+			移动速度提升20%
+			敌人更容易锁定你为目标
+			'''
+	}
+
+	CrystalWand: {
+		DisplayName: 水晶魔杖
+		Tooltip: 射出结晶光球，击中敌人后恢复魔力并爆裂生成暗影烈焰
+	}
+
+	SunPowerStaff: {
+		DisplayName: 骄阳权杖
+		Tooltip:
+			'''
+			使用时造成50点伤害
+			生成巨型太阳，对接触敌人造成伤害
+			巨型太阳触碰玩家恢复魂能
+			拥有15秒冷却
+			'''
+	}
+
+	VenomizedSpiderScepter: {
+		DisplayName: 剧毒蜘蛛权杖
+		Tooltip:
+			'''
+			使用时造成37点伤害
+			生成剧毒蜘蛛炮台，朝光标发射蛛网
+			蛛网可眩晕敌人并施加酸性毒液，触碰玩家恢复魂能
+			拥有15秒冷却
+			'''
+	}
+
+	TrapBreastplate: {
+		DisplayName: 陷阱胸甲
+		Tooltip: 战术远程伤害与暴击率提升17%
+	}
+
+	TrapMask: {
+		DisplayName: 陷阱面具
+		Tooltip:
+			'''
+			战术远程伤害提升21%
+			远程暴击率提升5%
+			'''
+	}
+
+	TrapPants: {
+		DisplayName: 陷阱长裤
+		Tooltip:
+			'''
+			战术远程伤害提升12%
+			移动速度提升15%
+			'''
+	}
+
+	ManaCrystalLauncher: {
+		DisplayName: 魔力水晶发射器
+		Tooltip:
+			'''
+			以魔力水晶作为弹药
+			长按左键蓄力，释放强力回魔射击
+			蓄力满3秒即可发射
+			拥有15秒冷却
+			[c/a0a0a0:无职业物品]
+			'''
+	}
+
+	SoulWhip: {
+		DisplayName: 魂夺鞭
+		Tooltip:
+			'''
+			长按左键蓄力，提升鞭射程与伤害
+			击中敌人恢复魂能、施加魂弱debuff，并赋予意气风发buff
+			魂弱：降低防御、减速、持续受到伤害
+			意气风发：提升魂能恢复速度与魂能获取量
+			'''
+	}
+
+	VoidHeart: {
+		DisplayName: 虚空之心
+		Tooltip:
+			'''
+			伤害提升100%
+			受到任意伤害会直接秒杀自身
+			'''
+	}
+
+	RetroGun: {
+		DisplayName: 复古火枪
+		Tooltip: ""
+	}
+
+	Notes30: {
+		DisplayName: 手记
+		Tooltip: 将信号枪投入微光获取
+	}
+
+	GlassHeart: {
+		DisplayName: 琉璃之心
+		Tooltip:
+			'''
+			最大生命值减半，大幅降低防御力
+			依据最大生命值提供生命再生
+			'''
+	}
+
+	SiegeBow: {
+		DisplayName: 攻城弓
+		Tooltip:
+			'''
+			1.5秒冷却
+			仅能在地面使用
+			蓄力射出强力箭矢，黏附敌人造成眩晕，并施加残碎debuff
+			残碎：使敌人持续受到伤害
+			所有原版Boss类敌人受到残碎效果时承受额外伤害
+			'''
+	}
+
+	SharpeningStone: {
+		DisplayName: 砺石
+		Tooltip:
+			'''
+			小幅提升最大魂能与魂能恢复速度
+			所有收割类武器伤害提升50%
+			'''
+	}
+
+	HeatDagger: {
+		DisplayName: 炽刃匕首
+		Tooltip:
+			'''
+			手持匕首3秒不攻击获得充能buff
+			充能buff：狂战士近战伤害翻倍、暴击率+8%、移速翻倍
+			获得充能buff瞬间，向光标射出附魔手斧
+			不再挥砍匕首，改为发射1~3道炽热线
+			空中攻击速度更快
+			'''
+	}
+
+	FingerGun: {
+		DisplayName: 指枪
+		Tooltip:
+			'''
+			给敌人施加标记debuff
+			标记：提升目标受到的伤害
+			[c/a0a0a0:无职业物品]
+			[c/6d006f:趣味物品]
+			'''
+	}
+
+	Notes31: {
+		DisplayName: 手记
+		Tooltip: 派对期间向旅行商人购买获取
+	}
+
+	OnyxEngineMachineGun: {
+		DisplayName: 墨玉引擎机枪
+		Tooltip:
+			'''
+			33%概率不消耗弹药
+			每射击一次提升远程攻速
+			攻速增益上限持续3秒
+			'''
+	}
+
+	GraniteEnergy: {
+		DisplayName: 花岗岩能量
+		Tooltip: ""
+	}
+
+	CrowShooter: {
+		DisplayName: 鸦群发射器
+		Tooltip:
+			'''
+			消耗3点魂能
+			冷却0.75秒
+			发射一簇弱追踪乌鸦
+			'''
+		UsesXSoul: Mods.BetterClasses.Items.CrowShooter.UsesXSoul
+	}
+
+	MasterClass: {
+		DisplayName: 宗师射手
+		Tooltip:
+			'''
+			66%概率节省弹药
+			每次射击射出多种随机箭矢，并提升8.75%远程攻速
+			每射击13次，释放10支箭矢风暴
+			远程攻速增益上限持续11秒
+			'''
+	}
+
+	DreamDart: {
+		DisplayName: 幻梦飞镖
+		Tooltip:
+			'''
+			不可消耗
+			最多穿透10个敌人，每射击15次释放一轮幻梦飞镖弹幕
+			击中敌人产生彩虹爆炸，并施加7秒强化炫彩冲击debuff
+			强化炫彩冲击：降低敌人1/3防御，大幅增强持续伤害效果
+			“承载所有人希望与梦想的力量”
+			'''
+	}
+
+	AdamantiteDart: {
+		DisplayName: 精金飞镖
+		Tooltip: 最多穿透4名敌人，偶尔发射红色光束
+	}
+
+	TitaniumDart: {
+		DisplayName: 钛金飞镖
+		Tooltip: 最多穿透3名敌人，偶尔发射白色光束
+	}
+
+	AuraFarmer: {
+		DisplayName: 光环培育器
+		Tooltip:
+			'''
+			玩家身边生成持续变化的光环
+			[c/2ea395:M][c/36a382:y][c/47a36c:t][c/5da056:h][c/749c40:i][c/8c972c:c][c/a58e1f:a][c/bd8420:l] [c/d4762d:I][c/e76542:t][c/f6535c:e][c/ff427b:m]
+			'''
+	}
+
+	GraveMask: {
+		DisplayName: 墓穴面具
+		Tooltip:
+			'''
+			最大仆从数量+1
+			鸦群发射器不再拥有冷却，但伤害降低50%
+			'''
+	}
+
+	SharkRobe: {
+		DisplayName: 鲨鱼战衣
+		Tooltip:
+			'''
+			水下机动性提升
+			防御力与最大生命值随Boss推进提高
+			进入困难模式后可左右冲刺
+			[c/2ea395:M][c/36a382:y][c/47a36c:t][c/5da056:h][c/749c40:i][c/8c972c:c][c/a58e1f:a][c/bd8420:l] [c/d4762d:I][c/e76542:t][c/f6535c:e][c/ff427b:m]
+			'''
+	}
+
+	DeathsHand: {
+		DisplayName: 亡者之手
+		Tooltip:
+			'''
+			给敌人施加死亡标记debuff
+			死亡标记：提升目标受到的伤害
+			[c/a0a0a0:无职业物品]
+			[c/6d006f:趣味物品]
+			'''
+	}
+
+	Slapper: {
+		DisplayName: 拍打弹
+		Tooltip:
+			'''
+			黏附敌人持续拍打，随后消失
+			命中敌人施加重创debuff
+			重创：敌人快速持续掉血
+			'''
+	}
+
+	WaterSprayer: {
+		DisplayName: 喷水器
+		Tooltip:
+			'''
+			喷射水弹，施加7秒风化debuff
+			风化会为以下debuff附加额外效果：
+			增生：降低敌人移速
+			残碎/碎裂：降低敌人防御力
+			重创/严重重创：提高敌人受到的伤害
+			[c/a0a0a0:无职业物品]
+			'''
+	}
+
+	ManaInfusedKeyboard: {
+		DisplayName: 魔力灌注键盘
+		Tooltip:
+			'''
+			不时降下巨型魔力星，分裂成大量小型魔力星
+			小型魔力星最多穿透5名敌人，有概率碎裂成魔力拾取物
+			'''
+	}
+
+	Notes32: {
+		DisplayName: 手记
+		Tooltip: 击败任意机械Boss后向巫师购买获取
+	}
+
+	ManaGatherer: {
+		DisplayName: 魔力收集器
+		Tooltip:
+			'''
+			玩家周围生成魔力光环
+			光环范围内敌人被击杀时恢复玩家魔力
+			[c/00fff7:贡献者物品]
+			'''
+	}
+
+	TheReaper: {
+		DisplayName: 死神裁决
+		Tooltip:
+			'''
+			发射强力激光，施加7秒末日debuff
+			末日：敌人每5秒发生一次爆炸
+			'''
+	}
+
+	HammerTime: {
+		DisplayName: 锤击时刻
+		Tooltip:
+			'''
+			挥动玩具锤产生小型冲击波
+			冲击波可恢复魔力
+			'''
+	}
+
+	MagicCone: {
+		DisplayName: 魔法尖帽
+		Tooltip: 附魔魔法伤害提升13%
+	}
+
+	LadyLuck: {
+		DisplayName: 幸运女神
+		Tooltip:
+			'''
+			以钱币作为弹药
+			投掷黄金聚宝盆，洒落大量金币
+			'''
+	}
+
+	Wiesnbrau: {
+		DisplayName: 维森啤酒
+		Tooltip: 持续恢复生命，但所有伤害降低33%
+	}
+
+	Notes33: {
+		DisplayName: 手记
+		Tooltip: 击败任意腐化/猩红Boss后向旅行商人购买获取
+	}
+
+	SparklyWings: {
+		DisplayName: 闪耀翅膀
+		Tooltip: ""
+	}
+
+	ArchDemonsSlash: {
+		DisplayName: 魔王斩击
+		Tooltip: 释放一道固定的地狱斩击波
+	}
+
+	MoonChaser: {
+		DisplayName: 追月者
+		Tooltip: 在光标位置持续生成小型月轮
+	}
+
+	BloodDoll: {
+		UsesXSoul: Mods.BetterClasses.Items.BloodDoll.UsesXSoul
+		DisplayName: 血偶
+		Tooltip:
+			'''
+			消耗13点魂能
+			向随机角度发射大量血弹
+			拥有3秒冷却
+			“鲜血四处滴落”
+			'''
+	}
+
+	Notes34: {
+		DisplayName: 手记
+		Tooltip: 击杀受缚铠甲获得
+	}
+
+	Notes35: {
+		DisplayName: 手记
+		Tooltip: 击杀血僵尸或滴落怪获得
+	}
+
+	SoulGenerator: {
+		DisplayName: 魂能发生器
+		Tooltip:
+			'''
+			左键消耗魂能
+			右键获取魂能
+			装备后拥有无限魂能
+			[c/871b28:作弊物品]
+			'''
+	}
+
+	NecroCape: {
+		DisplayName: 死灵斗篷
+		Tooltip:
+			'''
+			咒唤召唤物伤害提升11%
+			手持巫毒人偶时大幅提升魂能恢复速度
+			'''
+	}
+
+	MartianMicrophone: {
+		DisplayName: 火星麦克风
+		Tooltip: 向附近敌人发射音符，命中产生震荡爆炸
+	}
+
+	JunkShooter: {
+		DisplayName: 废料发射器
+		Tooltip:
+			'''
+			以黑曜石作为弹药
+			发射两枚追踪火箭，爆炸后施加地狱火与触电debuff
+			开火附带少量击退
+			'''
+	}
+
+	MetalPetelStaff: {
+		DisplayName: 金属花瓣法杖
+		Tooltip: 生成金属花苞，在周围生成附魔剑刃
+	}
+
+	ElementalResourceGatherer: {
+		DisplayName: 元素汲取器
+		Tooltip:
+			'''
+			击中敌人恢复生命、魔力、魂能，并施加7秒强化炫彩冲击debuff
+			强化炫彩冲击：降低敌人1/3防御，增强持续伤害效果，附加高额持续伤害
+			[c/a0a0a0:无职业物品]
+			'''
+	}
+
+	JungleMachete: {
+		DisplayName: 丛林弯刀
+		Tooltip:
+			'''
+			挥砍弯刀，命中敌人施加增生debuff
+			增生使敌人持续受到伤害
+			所有原版丛林敌人受到增生效果时承受额外伤害
+			33%概率获得瞬击buff
+			暴击时恢复生命值
+			'''
+	}
+
+	HolyCross: {
+		DisplayName: 圣十字
+		Tooltip:
+			'''
+			消耗1点魂能
+			召唤标签伤害5
+			不可消耗
+			投掷多枚圣十字，可穿透敌人并施加7秒圣咒debuff
+			圣咒有概率随机附加一种火焰系debuff
+			'''
+		UsesXSoul: Mods.BetterClasses.Items.HolyCross.UsesXSoul
+	}
+
+	CursedChestplate: {
+		DisplayName: 诅咒胸甲
+		Tooltip: 神话武器伤害提升17%
+	}
+
+	CursedGrieves: {
+		DisplayName: 诅咒胫甲
+		Tooltip:
+			'''
+			神话武器伤害提升13%
+			移动速度提升15%
+			'''
+	}
+
+	ReaperBreastplate: {
+		DisplayName: 死神胸甲
+		Tooltip:
+			'''
+			最大仆从数量+1
+			咒唤召唤物伤害提升11%
+			'''
+	}
+
+	ReaperHood: {
+		DisplayName: 死神兜帽
+		Tooltip: 咒唤召唤物伤害提升9%
+	}
+
+	ReaperLeggings: {
+		DisplayName: 死神护腿
+		Tooltip:
+			'''
+			咒唤召唤物伤害提升7%
+			移动速度提升15%
+			'''
+	}
+
+	GhostEnergy: {
+		DisplayName: 幽魂能量
+		Tooltip: ""
+	}
+
+	PixieCone: {
+		DisplayName: 精灵尖帽
+		Tooltip:
+			'''
+			附魔魔法伤害提升17%
+			最大魔力值+60
+			持续生成精灵围绕光标旋转
+			'''
+	}
+
+	Notes36: {
+		DisplayName: 手记
+		Tooltip: 手持暗影烈焰巫毒娃娃与暗影窃贼NPC对话获取
+	}
+
+	Notes37: {
+		DisplayName: 手记
+		Tooltip: 手持圣诞树剑与暗影窃贼NPC对话获取
+	}
+
+	Notes38: {
+		DisplayName: 手记
+		Tooltip: 手持光束剑与暗影窃贼NPC对话获取
+	}
+
+	Notes39: {
+		DisplayName: 手记
+		Tooltip: 手持波动之刃与暗影窃贼NPC对话获取
+	}
+
+	SpiritStaff: {
+		DisplayName: 幽魂法杖
+		Tooltip:
+			'''
+			使用时造成33点伤害
+			生成幽魂炮台，发射旋转幽魂毒气
+			幽魂毒气触碰玩家恢复魂能
+			拥有15秒冷却
+			'''
+	}
+
+	WitchsElixir: {
+		DisplayName: 女巫灵药
+		Tooltip: 小幅提升最大魂能与魂能恢复速度
+	}
+
+	ShatteringStone: {
+		DisplayName: 碎界石
+		Tooltip:
+			'''
+			大幅提升最大魂能与魂能恢复速度
+			所有收割类武器伤害提升75%
+			'''
+	}
+
+	ShroomExplorerCoat: {
+		DisplayName: 蘑菇探索外套
+		Tooltip:
+			'''
+			最大仆从数量+2
+			召唤物伤害提升13%
+			依据玩家所处地形获得额外加成
+			“传说这件外套曾属于一名被蘑菇腐化的蜥蜴科学家”
+			[c/00fff7:贡献者物品]
+			'''
+	}
+
+	GhostGrabber: {
+		DisplayName: 幽魂攫取鞭
+		Tooltip:
+			'''
+			长按左键蓄力，提升鞭射程与伤害
+			击中敌人恢复魂能、施加幽魂弱debuff，并赋予幽魂形态buff
+			幽魂弱：小幅降低防御、减速、快速持续受伤
+			幽魂形态：小幅提升魂能恢复速度与魂能获取量
+			'''
+	}
+
+	ValkyrieStaff: {
+		DisplayName: 女武神法杖
+		Tooltip: 倾泻女武神羽毛弹幕
+	}
+
+	DebuffBooster: {
+		DisplayName: 减益增幅器
+		Tooltip:
+			'''
+			伤害提升7%
+			使敌人笼罩迷雾debuff
+			迷雾提升持续伤害类debuff效果
+			'''
+	}
+
+	GoldenJustice: {
+		DisplayName: 黄金裁决
+		Tooltip:
+			'''
+			66%概率节省弹药
+			普通子弹转化为黄金子弹
+			每次射击提升远程攻速
+			第2发射高速子弹
+			第3发射叶绿子弹
+			第4发射夜明子弹
+			第5发射暗影烈焰子弹
+			第6发射幽灵子弹
+			第7发射爆炸子弹
+			每射击25次发射追踪火箭
+			远程攻速增益上限持续7秒
+			'''
+	}
+
+	TheSidearm: {
+		DisplayName: 副手短枪
+		Tooltip: 发射可造成眩晕的蛛网弹
+	}
+
+	BoomTome: {
+		DisplayName: 轰鸣法典
+		Tooltip:
+			'''
+			在鼠标位置生成滑稽爆炸
+			[c/6d006f:趣味物品]
+			'''
+	}
+
+	PowerBuilder: {
+		DisplayName: 蓄力构筑枪
+		Tooltip:
+			'''
+			左键快速发射子弹
+			右键持续堆叠攻击速度
+			'''
+	}
+
+	KingsGambit: {
+		DisplayName: 王者博弈
+		Tooltip:
+			'''
+			每次使用伤害随机浮动
+			快速射出一簇高速卡牌
+			'''
+	}
+
+	JarOfPower: {
+		DisplayName: 力量之罐
+		Tooltip:
+			'''
+			强力遗物，可用于升级装备
+			[c/FF8C55:E][c/BA663E:x][c/85492C:o][c/754027:t][c/472718:i][c/331C11:c] [c/21120B:I][c/47000B:t][c/63000F:e][c/880015:m]
+			'''
+	}
+
+	ResourceManager: {
+		DisplayName: 资源掌控仪
+		Tooltip:
+			'''
+			装备后获得树妖祝福
+			生成自然光环，对范围内敌人施加树妖庇护debuff
+			玩家周围生成资源光环
+			光环内敌人被击杀时恢复生命、魔力、魂能
+			[c/FF8C55:E][c/BA663E:x][c/85492C:o][c/754027:t][c/472718:i][c/331C11:c] [c/21120B:I][c/47000B:t][c/63000F:e][c/880015:m]
+			'''
+	}
+
+	Coinflip: {
+		DisplayName: 掷硬币
+		Tooltip:
+			'''
+			抛掷硬币，50%概率获得幸运翻转buff
+			幸运翻转：幸运翻倍、提升生命再生、攻速提升33%
+			'''
+	}
+
+	Notes40: {
+		DisplayName: 手记
+		Tooltip: 圣诞期间向旅行商人购买获取
+	}
+
+	SpecialGift: {
+		DisplayName: 特别礼物
+		Tooltip:
+			'''
+			抛出礼盒，礼盒缓慢下落；下落途中拾取可恢复生命值
+			礼盒命中敌人有概率施加欢庆debuff
+			欢庆：降低防御，但提升移速
+			[c/a0a0a0:无职业物品]
+			[c/ffa0bf:节日物品]
+			'''
+	}
+
+	SparkleTome: {
+		Tooltip: ""
+		DisplayName: 闪耀法典
+	}
+
+	CrystalCleanser: {
+		DisplayName: 水晶净化器
+		Tooltip:
+			'''
+			喷射水弹，恢复生命、魔力、魂能，并施加7秒风化debuff
+			风化会为以下debuff附加额外效果：
+			增生：降低敌人移速
+			残碎/碎裂：降低敌人防御力
+			重创/严重重创：提高敌人受到的伤害
+			[c/a0a0a0:无职业物品]
+			[c/FF8C55:E][c/BA663E:x][c/85492C:o][c/754027:t][c/472718:i][c/331C11:c] [c/21120B:I][c/47000B:t][c/63000F:e][c/880015:m]
+			'''
+	}
+
+	PartyAnimal: {
+		DisplayName: 派对狂徒
+		Tooltip: 将魂能转化为光标处回血烟花
+	}
+}
+
+Projectiles: {
+	ApocalypseProjectile.DisplayName: 天启
+	ApocalypseProjectile2.DisplayName: 天启Ⅱ
+	ApocalypseProjectile3.DisplayName: 天启Ⅲ
+	ApocalypseProjectile4.DisplayName: 天启Ⅳ
+	AutomaticWhipCrackerMk2Projectile.DisplayName: 自动鞭Mk2
+	AutomaticWhipCrackerProjectile.DisplayName: 自动鞭
+	AxeOfTheAbyssProjectile.DisplayName: 深渊之斧
+	BasicBoltProjectile.DisplayName: 基础箭弹
+	BattleBladeProjectile.DisplayName: 战刃
+	BattleBladeProjectile2.DisplayName: 战刃Ⅱ
+	BattleGuyProjectile.DisplayName: 斗士投掷物投射物
+	BeeBoltProjectile.DisplayName: 蜜蜂箭弹
+	BiomeMorphProjectile.DisplayName: 生态畸变
+	BlazingSunProjectile.DisplayName: 炽烈骄阳
+	BoneBreakerProjectile.DisplayName: 碎骨者
+	BoneDaggerProjectile.DisplayName: 骨刃
+	BoneDaggerProjectile2.DisplayName: 骨刃Ⅱ
+	BoneDartProjectile.DisplayName: 骨飞镖
+	BouncyBoltProjectile.DisplayName: 弹跳箭弹
+	BrickProjectile.DisplayName: 砖块
+	PineNeedlerProjectile.DisplayName: 松针弹
+	CatlauncherProjectile.DisplayName: 猫爪发射器
+	ChainedMimicProjectile.DisplayName: 锁链宝箱怪
+	ChainedWhipProjectile.DisplayName: 锁链鞭
+	ChaosFlailProjectile.DisplayName: 混沌链锤
+	ChargeShotBeam.DisplayName: 蓄力光束
+	ChargeShotHoldout.DisplayName: 蓄力射击
+	CoiledSerpentProjectile.DisplayName: 盘绕巨蛇
+	CoiledSerpentProjectile2.DisplayName: 盘绕巨蛇Ⅱ
+	ControllerProjectile.DisplayName: 控制器
+	CosmicWhipProjectile.DisplayName: 宇宙之鞭
+	CrimtaneWhipProjectile.DisplayName: 猩红之鞭
+	CupidsBowProjectile.DisplayName: 丘比特之箭
+	CupidsBowProjectile2.DisplayName: 丘比特之箭Ⅱ
+	DeadlyCaneProjectile.DisplayName: 致命法杖
+	DeathsBreathProjectile.DisplayName: 亡者吐息
+	DemoniteWhipProjectile.DisplayName: 魔矿之鞭
+	DiamondSwordProjectile.DisplayName: 钻石剑
+	DoomCaneProjectile.DisplayName: 末日法杖
+	DragonBulletProjectile.DisplayName: 龙焰弹
+	DragonsBreathProjectile.DisplayName: 巨龙吐息
+	DustBoltProjectile.DisplayName: 尘屑箭弹
+	EarthquakeProjectile.DisplayName: 地震0
+	EarthquakeProjectile10.DisplayName: 地震1
+	EarthquakeProjectile2.DisplayName: 地震2
+	EarthquakeProjectile3.DisplayName: 地震3
+	EarthquakeProjectile4.DisplayName: 地震4
+	EarthquakeProjectile5.DisplayName: 地震5
+	EarthquakeProjectile6.DisplayName: 地震6
+	EarthquakeProjectile7.DisplayName: 地震7
+	EarthquakeProjectile8.DisplayName: 地震8
+	EarthquakeProjectile9.DisplayName: 地震9
+	EggProjectile.DisplayName: 0蛋0
+	EggProjectile2.DisplayName: 0蛋1
+	EggProjectile3.DisplayName: 0蛋2
+	EggProjectile4.DisplayName: 0蛋3
+	EggProjectile5.DisplayName: 0蛋4
+	EggProjectile6.DisplayName: 0蛋5
+	EggProjectile7.DisplayName: 0蛋6
+	EggProjectile8.DisplayName: 0蛋7
+	EggProjectile9.DisplayName: 0蛋8
+	ElectricEelProjectile.DisplayName: 电鳗
+	ElectricEelProjectile2.DisplayName: 电鳗Ⅱ
+	ElementalYoyoProjectile.DisplayName: 元素悠悠球
+	ElementalYoyoProjectile2.DisplayName: 元素悠悠球Ⅱ
+	EnergyYoyoProjectile.DisplayName: 能量悠悠球
+	EvenpulseProjectile.DisplayName: 均衡脉冲箭
+	EvilMenaceProjectile.DisplayName: 邪恶威胁
+	ExplosiveBoltProjectile.DisplayName: 爆炸箭弹
+	FireworkProjectile.DisplayName: 烟花
+	FlameBulletProjectile.DisplayName: 火焰弹
+	FlyingFishProjectile.DisplayName: 飞鱼
+	FlyingFishProjectile2.DisplayName: 飞鱼Ⅱ
+	FracturedZenithProjectile.DisplayName: 破碎天顶
+	FracturedZenithProjectile2.DisplayName: 破碎天顶Ⅱ
+	FrostBulletProjectile.DisplayName: 寒霜弹
+	FuneralBeam.DisplayName: 葬仪
+	FuneralHoldout.DisplayName: 持握葬仪
+	FuneralProjectile.DisplayName: 葬仪陨星
+	GildedYoyoProjectile.DisplayName: 鎏金悠悠球
+	HailStormProjectile.DisplayName: 冰雹火箭
+	HamdraxBeam.DisplayName: 哈姆德拉克斯
+	HamdraxHoldout.DisplayName: 葬仪哈姆德拉克斯
+	HamdraxProjectile.DisplayName: 哈姆德拉克斯
+	HamdraxProjectile2.DisplayName: 哈姆德拉克斯Ⅱ
+	HauntedHouseBeam.DisplayName: 鬼屋
+	HauntedHouseHoldout.DisplayName: 鬼屋
+	HauntedHouseProjectile.DisplayName: 鬼屋陨星
+	HeatSeekingShurikenProjectile.DisplayName: 追踪手里剑
+	HellBeeBowProjectile.DisplayName: 地狱蜜蜂箭
+	HellBeeBowProjectile2.DisplayName: 地狱蜜蜂箭Ⅱ
+	ImprovedAmarokProjectile.DisplayName: 阿马洛克
+	ImprovedAmazonProjectile.DisplayName: 亚马逊
+	ImprovedArteryProjectile.DisplayName: 血脉
+	ImprovedBallOHurtProjectile.DisplayName: 痛苦之球
+	ImprovedBlueMoonProjectile.DisplayName: 蓝月
+	ImprovedCascadeProjectile.DisplayName: 奔涌之潮
+	ImprovedChikProjectile.DisplayName: 奇克
+	ImprovedCode1Projectile.DisplayName: 代码一号
+	ImprovedCode2Projectile.DisplayName: 代码二号
+	ImprovedDaoPowProjectile.DisplayName: 道之力
+	ImprovedDripplerCripplerProjectile.DisplayName: 滴水兽撕裂者
+	ImprovedEyeOfCthulhuProjectile.DisplayName: 克苏鲁之眼
+	ImprovedFlowerPowProjectile.DisplayName: 花之力量
+	ImprovedFormatCProjectile.DisplayName: 格式化你的C盘
+	ImprovedGradientProjectile.DisplayName: 渐变
+	ImprovedHelFireProjectile.DisplayName: 赫尔之火
+	ImprovedKrakenProjectile.DisplayName: 克拉肯
+	ImprovedMalaiseProjectile.DisplayName: 沉疴
+	ImprovedMeatballProjectile.DisplayName: 肉球
+	ImprovedRallyProjectile.DisplayName: 集结
+	ImprovedSunfuryProjectile.DisplayName: 日怒
+	ImprovedTerrarianProjectile.DisplayName: 泰拉人
+	ImprovedValorProjectile.DisplayName: 英勇
+	ImprovedWoodenYoyoProjectile.DisplayName: 木质悠悠球
+	ImprovedYeletsProjectile.DisplayName: 耶莱茨
+	JumboJumbowProjectile.DisplayName: 巨型巨弓箭矢
+	KnockoutBagProjectile.DisplayName: 眩晕布袋
+	LavaEelProjectile.DisplayName: 熔岩鳗
+	LifeArrowProjectile.DisplayName: 生命之箭
+	LifeBoltProjectile.DisplayName: 生命箭弹
+	LightningRodProjectile.DisplayName: 避雷针
+	LuminiteBoltProjectile.DisplayName: 夜明箭弹
+	LunarDartProjectile.DisplayName: 月之飞镖
+	ManaBoltProjectile.DisplayName: 魔力箭弹
+	ManaBulletProjectile.DisplayName: 魔力弹
+	MoltenBloodProjectile.DisplayName: 熔血箭
+	MonitorProjectile.DisplayName: 监视器
+	MonkeyDartProjectile.DisplayName: 猴子飞镖
+	MostEnchantedMagicalEmperorSharkronBeam.DisplayName: 极致附魔魔法帝王鲨龙
+	MostEnchantedMagicalEmperorSharkronHoldout.DisplayName: 极致附魔魔法帝王鲨龙 持握光束
+	MostEnchantedMagicalEmperorSharkronProjectile.DisplayName: 极致附魔魔法帝王鲨龙
+	MostEnchantedMagicalEmperorSharkronProjectile2.DisplayName: 极致附魔魔法帝王鲨龙
+	MutantSewerFishBeam.DisplayName: 变异下水道鱼
+	MutantSewerFishHoldout.DisplayName: 变异下水道鱼
+	MutantSewerFishProjectile.DisplayName: 变异下水道鱼
+	MutantSewerFishProjectile2.DisplayName: 变异下水道鱼Ⅱ
+	NaniteBoltProjectile.DisplayName: 纳米箭弹
+	NetheriteSwordProjectile.DisplayName: 下界合金剑
+	NightsCackleProjectile.DisplayName: 暗夜嗤笑
+	NightsCackleProjectile2.DisplayName: 暗夜嗤笑
+	NightsFuryProjectile.DisplayName: 暗夜狂怒
+	NukeCallerProjectile.DisplayName: 核弹召唤器
+	OmegaStormProjectile.DisplayName: 终焉风暴
+	OmegaYoyoProjectile.DisplayName: 终焉悠悠球
+	OmeglageddonProjectile.DisplayName: 终焉末日弹丸
+	OmeglageddonProjectile2.DisplayName: 终焉末日弹丸
+	OriginProjectile.DisplayName: 起源
+	OriginProjectile2.DisplayName: 起源
+	PaleRapierBeam.DisplayName: 苍白细剑
+	PaleRapierHoldout.DisplayName: 苍白细剑
+	PhantomShurikenProjectile.DisplayName: 幻影手里剑
+	PhaseMonsterProjectile.DisplayName: 相位魔物
+	PixelBladeBeam.DisplayName: 像素之刃
+	PixelBladeHoldout.DisplayName: 像素之刃
+	PocketWatchProjectile.DisplayName: 怀表
+	PocketWatchProjectile2.DisplayName: 怀表
+	PoisonBoltProjectile.DisplayName: 剧毒箭弹
+	PowerFlailProjectile.DisplayName: 强力链锤
+	PowerKunaiProjectile.DisplayName: 强力苦无
+	PrismaticKunaiProjectile.DisplayName: 棱镜苦无
+	PrismaticStaffBeam.DisplayName: 棱镜法杖
+	PrismaticStaffHoldout.DisplayName: 棱镜法杖
+	PrismaticStaffProjectile.DisplayName: 棱镜箭弹
+	QuipProjectile.DisplayName: 巧语
+	ReaperScytheProjectile.DisplayName: 死神镰刀
+	RevolvingRevolverProjectile.DisplayName: 轮转左轮
+	RustedDaggerBeam.DisplayName: 锈蚀之刃
+	RustedDaggerHoldout.DisplayName: 锈蚀之刃
+	ShadowPhoenixProjectile.DisplayName: 暗影烈焰
+	ShadowPhoenixProjectile2.DisplayName: 暗影烈焰
+	SharkShotBeam.DisplayName: 鲨击炮
+	SharkShotHoldout.DisplayName: 鲨击炮
+	SharkShotProjectile.DisplayName: 鲨击炮
+	ShroomiteArrowProjectile.DisplayName: 蘑菇箭
+	ShroomiteBlasterProjectile.DisplayName: 蘑菇弹
+	ShroomiteBulletProjectile.DisplayName: 蘑菇弹
+	SparklyProjectile.DisplayName: 闪光弹
+	SparklyProjectile2.DisplayName: 闪光箭
+	SpectreArrowProjectile.DisplayName: 幽灵箭
+	SpectreBoltProjectile.DisplayName: 幽灵箭弹
+	SpectreBulletProjectile.DisplayName: 幽灵弹
+	SpiritFlailProjectile.DisplayName: 幽魂链锤
+	SpiritFlailProjectile2.DisplayName: 幽魂链锤
+	SpiritFlailProjectile3.DisplayName: 幽魂链锤
+	SpiritFlailProjectile4.DisplayName: 幽魂链锤
+	SpiritFlailProjectile5.DisplayName: 幽魂链锤
+	SpookStormProjectile.DisplayName: 惊魂风暴
+	SpookzookaMk2Projectile.DisplayName: 惊魂发射器MK2
+	SpookzookaMk2Projectile2.DisplayName: 惊魂发射器MK2
+	SpookzookaMk2Projectile3.DisplayName: 惊魂发射器MK2
+	SpookzookaMk2Projectile4.DisplayName: 惊魂发射器MK2
+	SprayCandleProjectile.DisplayName: 喷射烛火
+	StrangeVialProjectile.DisplayName: 奇异药剂瓶
+	SuperMonkeyDartProjectile.DisplayName: 超级猴子飞镖
+	SuspiciousKnifeProjectile.DisplayName: 诡秘小刀
+	SweetToothProjectile.DisplayName: 甜心玉米糖
+	TerraFlailProjectile.DisplayName: 泰拉链锤
+	TerraFlailProjectile2.DisplayName: 泰拉链锤
+	TerraFlailProjectile3.DisplayName: 泰拉链锤
+	TerraFlailProjectile4.DisplayName: 泰拉链锤
+	TetheredRopeProjectile.DisplayName: 束缚绳索
+	TheColossusProjectile.DisplayName: 巨像
+	ThornMaceProjectile.DisplayName: 荆棘钉锤
+	ThunderFangProjectile.DisplayName: 雷霆獠牙
+	TommyGunProjectile.DisplayName: 汤姆逊冲锋枪
+	TridentProjectile.DisplayName: 三叉戟
+	TrueBiomeMorphProjectile.DisplayName: 真·生态畸变
+	TrueDurendalProjectile.DisplayName: 真·杜兰达尔
+	TrueEyeOfCthulhuProjectile.DisplayName: 真·克苏鲁之眼
+	TrueNightsCackleProjectile.DisplayName: 真·暗夜嗤笑
+	TrueNightsFuryProjectile.DisplayName: 真·暗夜狂怒
+	VenomBoltProjectile.DisplayName: 毒液箭弹
+	VoidPurseProjectile.DisplayName: 虚空囊袋
+	VortexYoyoProjectile.DisplayName: 星旋悠悠球
+	WaspNestProjectile.DisplayName: 黄蜂巢
+	WaterFlailProjectile.DisplayName: 流水链锤
+	YoyoOfElementsProjectile.DisplayName: 元素悠悠球
+	FuneralProjectile2.DisplayName: 葬仪陨星
+	HauntedHouseProjectile2.DisplayName: 鬼屋陨星
+	MeteorBroadswordEnergyProjectile.DisplayName: 陨星巨剑
+	AsteroidGreatswordEnergyProjectile.DisplayName: 小行星巨剑
+	AsteroidGreatswordProjectile.DisplayName: 小行星巨剑
+	AsteroidGreatswordProjectile2.DisplayName: 小行星巨剑
+	AsteroidGreatswordProjectile3.DisplayName: 小行星巨剑
+	AsteroidGreatswordProjectile4.DisplayName: 小行星巨剑
+	AsteroidGreatswordProjectile5.DisplayName: 小行星巨剑
+	NuclearFalloutProjectile.DisplayName: 核辐射尘
+	HeavenArrowProjectile.DisplayName: 天国之箭
+	ShimmerBulletProjectile.DisplayName: 微光弹
+	HeavenlyBulletProjectile.DisplayName: 天国弹丸
+	GlassCannonHoldout.DisplayName: 玻璃巨炮
+	GlassCannonBeam.DisplayName: 玻璃巨炮
+	BattleBladeSwingProjectile.DisplayName: 战刃
+	BattleBladeProjectile3.DisplayName: 战刃
+	VoidAxeProjectile.DisplayName: 虚空巨斧
+	WeakeningShotProjectile.DisplayName: 衰弱射击
+	SawbladeProjectile.DisplayName: 锯片
+	CreepyEyedolBeam.DisplayName: 诡异眼偶
+	CreepyEyedolHoldout.DisplayName: 诡异眼偶
+	FlashlightProjectile.DisplayName: 手电筒
+	RainbowCrystalProjectile.DisplayName: 彩虹水晶
+	FistOfFuryProjectile.DisplayName: 狂怒之拳
+	SuperfluxEnergyProjectile.DisplayName: 超通量
+	SwordOfLightEnergyProjectile.DisplayName: 光之剑
+	PixelZenithEnergyProjectile.DisplayName: 像素天顶
+	BlazingStaffBeam.DisplayName: 烈焰法杖
+	BlazingStaffHoldout.DisplayName: 烈焰法杖
+	BlazingStaffProjectile.DisplayName: 烈焰法杖
+	BlazingStaffProjectile2.DisplayName: 火焰法杖
+	RevolvingRevolverHoldout.DisplayName: 轮转左轮
+	RevolvingRevolverBeam.DisplayName: 轮转左轮
+	ToxicRifleHoldout.DisplayName: 毒素步枪
+	ToxicRifleBeam.DisplayName: 毒素步枪
+	ClockworkArrowProjectile.DisplayName: 发条箭矢
+	SteampunkArrowProjectile.DisplayName: 蒸汽朋克箭矢
+	CogMachineProjectile.DisplayName: 齿轮机械
+	CogMachineHoldout.DisplayName: 齿轮机械
+	CogMachineBeam.DisplayName: 齿轮机械
+	GearBreakerSwingProjectile.DisplayName: 破械者
+	GearBreakerProjectile.DisplayName: 破械者
+	GearGloveProjectile.DisplayName: 齿轮手套
+	TestBladeEnergyProjectile.DisplayName: 测试刃能量体
+	CodeBreakerEnergyProjectile.DisplayName: 代码破坏者能量体
+	TheEraserEnergyProjectile.DisplayName: 橡皮擦能量体
+	HandheldBunnyCannonBeam.DisplayName: 便携兔兔炮
+	HandheldBunnyCannonHoldout.DisplayName: 便携兔兔炮
+	HolyDaggerProjectile.DisplayName: 神圣匕首
+	WaterDaggerProjectile.DisplayName: 流水匕首
+	CatsPawProjectile.DisplayName: 猫爪
+	SolarExplosionEnergyProjectile.DisplayName: 日耀爆发
+	SolarExplosionProjectile.DisplayName: 日耀爆发星
+	CatsPawEnergyProjectile.DisplayName: 猫爪能量体
+	CatsPawProjectile2.DisplayName: 猫爪
+	SeedlingProjectile.DisplayName: 幼苗
+	StormDaggerProjectile.DisplayName: 风暴匕首
+	DarkPortalProjectile.DisplayName: 黑暗传送门
+	DarkPortalProjectile2.DisplayName: 黑暗传送门
+	SacrificalDaggerProjectile.DisplayName: 献祭匕首
+	SacrificialDaggerProjectile.DisplayName: 献祭匕首
+	TerraDaggerEnergyProjectile.DisplayName: 泰拉匕首能量体
+	DarkestDaggerProjectile.DisplayName: 至暗漩涡
+	BowulderArrowProjectile.DisplayName: 投石弓箭矢
+	BigBulletProjectile.DisplayName: 巨型弹丸
+	BowmamaProjectile.DisplayName: 弓母箭矢
+	BowmamaProjectile2.DisplayName: 弓母小型箭矢
+	ChargeShotGreenBeam.DisplayName: 绿色蓄力射击
+	ChargeShotGreenHoldout.DisplayName: 绿色蓄力射击
+	ChargeShotBeamPurple.DisplayName: 紫色蓄力射击
+	ChargeShotBeamRed.DisplayName: 红色蓄力射击
+	ChargeShotHoldoutPurple.DisplayName: 紫色蓄力射击
+	ChargeShotHoldoutRed.DisplayName: 红色蓄力射击
+	SuspiciousDollProjectile.DisplayName: 诡秘人偶
+	WinterDaggerProjectile.DisplayName: 凛冬匕首
+	SpiritDollProjectile.DisplayName: 幽魂人偶
+	LightShowBeam.DisplayName: 光影秀
+	LightShowHoldout.DisplayName: 光影秀
+	SpikedDollProjectile.DisplayName: 尖刺人偶
+	AllSeeingEyeProjectile.DisplayName: 全知之眼
+	SlimeSpewerProjectile.DisplayName: 史莱姆喷射器
+	GhostDragon.DisplayName: 幽灵龙
+	GhostDragonProjectile.DisplayName: 幽灵龙
+	MeatShieldProjectile.DisplayName: 血肉护盾
+	CrystalShieldProjectile.DisplayName: 水晶护盾
+	PrimeSawProjectile.DisplayName: 机械锯刃
+	LaserGunProjectile.DisplayName: 激光
+	SinnersAmbitionProjectile.DisplayName: 罪徒激光
+	SparkCellProjectile.DisplayName: 火花电池
+	LavaEelProjectile2.DisplayName: 熔岩鳗
+	SinnerAmbitionProjectile2.DisplayName: 罪徒野心
+	ThunderFangProjectile2.DisplayName: 雷霆
+	LunarticMaskProjectile.DisplayName: 月寂面具
+	LunarticMaskProjectile2.DisplayName: 月寂面具
+	RevolvingRevolverProjectile2.DisplayName: 轮转左轮
+	DroneRemoteProjectile.DisplayName: 无人机
+	TuskSwordBeam.DisplayName: 獠牙剑
+	TuskSwordHoldout.DisplayName: 獠牙剑
+	TuskSwordProjectile.DisplayName: 獠牙剑投射物
+	CommandersMagicBeam.DisplayName: 指挥官秘法
+	CommandersMagicHoldout.DisplayName: 指挥官秘法
+	TranquilizerProjectile.DisplayName: 镇静弹
+	GunProjectile.DisplayName: 枪械弹丸
+	NukeGunProjectile.DisplayName: 核弹枪
+	ImprovedAnchorProjectile.DisplayName: 船锚
+	ImprovedSolarEruptionProjectile.DisplayName: 日耀喷发
+	AcornProjectile.DisplayName: 橡果
+	BulletShieldProjectile.DisplayName: 弹丸护盾
+	SWATShieldProjectile.DisplayName: 特警护盾
+	SWATShieldProjectile2.DisplayName: 特警护盾
+	CataclysmicRayBeam.DisplayName: 灾厄射线
+	CataclysmicRayHoldout.DisplayName: 灾厄射线
+	RailgunBeam.DisplayName: 轨道炮
+	RailgunHoldout.DisplayName: 轨道炮
+	SprayCandleProjectile2.DisplayName: 喷射烛火
+	OilerProjectile.DisplayName: 燃油
+	BloodflameSpewerProjectile.DisplayName: 血焰
+	ShadowflameCandleProjectile.DisplayName: 暗影烛火
+	SeveredClingerProjectile.DisplayName: 诅咒烈焰
+	SeveredIchorStickerProjectile.DisplayName: 灵液烈焰
+	DiamondSwordBeam.DisplayName: 钻石剑
+	DiamondSwordHoldout.DisplayName: 钻石剑
+	PeaceKeeperBeam.DisplayName: 和平捍卫者
+	PeaceKeeperHoldout.DisplayName: 和平捍卫者
+	BoomthrowerProjectile.DisplayName: 爆破投掷器
+	FirespreaderProjectile.DisplayName: 火焰散播器
+	FireSpreaderProjectile.DisplayName: 火焰散播器
+	MeteorSpewerProjectile.DisplayName: 陨星喷射器
+	GasSpewerProjectile.DisplayName: 毒气
+	SkullSpewerProjectile.DisplayName: 骷髅喷射器
+	SkullSpewerProjectile2.DisplayName: 骷髅
+	WaxerProjectile.DisplayName: 熔蜡器
+	GhostBelcherProjectile.DisplayName: 幽灵吐息
+	GhostBelcherProjectile2.DisplayName: 幽冥骷髅
+	FieryDoomBeam.DisplayName: 烈焰末日
+	FieryDoomHoldout.DisplayName: 烈焰末日
+	FieryDoomProjectile.DisplayName: 烈焰末日
+	TotemOfLifeBeam.DisplayName: 生命图腾
+	TotemOfLifeHoldout.DisplayName: 生命图腾
+	TotemOfLifeProjectile.DisplayName: 生命光球
+	OnyxCannonProjectile.DisplayName: 黑曜石烈焰
+	NukeGunProjectile2.DisplayName: 核弹枪
+	SharkzookaProjectile.DisplayName: 鲨鱼导弹
+	SharkzookaProjectile2.DisplayName: 溅射水花
+	TrashCollectorProjectile.DisplayName: 垃圾收集器
+	TrashCollectorProjectile2.DisplayName: 垃圾收集器
+	TrashCollectorProjectile3.DisplayName: 垃圾收集器
+	TrashCollectorProjectile4.DisplayName: 垃圾收集器
+	TrashCollectorProjectile5.DisplayName: 垃圾收集器
+	TrashCollectorProjectile6.DisplayName: 垃圾收集器
+	NegativeDaggerProjectile.DisplayName: 负能匕首
+	NegativeDaggerProjectile2.DisplayName: 负能箭弹
+	NaturesRevengeProjectile.DisplayName: 自然之叶
+	WoodenSpearBowProjectile.DisplayName: 木矛弓
+	SuperStormBeaterProjectile.DisplayName: 超级风暴冲击者
+	ShadowflameBulletProjectile.DisplayName: 暗影烈焰弹
+	ShadowflameBulletProjectile2.DisplayName: 暗影烈焰弹
+	ShadowflameBulletProjectile3.DisplayName: 暗影烈焰弹
+	LaserGunBeam.DisplayName: 激光枪
+	LaserGunHoldout.DisplayName: 激光枪
+	ShroomerBoomerProjectile.DisplayName: 蘑菇爆弹
+	ThornyMaceProjectile.DisplayName: 荆棘钉锤
+	ThornyMaceProjectile2.DisplayName: 荆棘钉锤
+	LihzahrdianDaggerEnergyProjectile.DisplayName: 蜥蜴匕首
+	LihzahrdianDaggerEnergyProjectile2.DisplayName: 蜥蜴匕首
+	WaterDaggerProjectile2.DisplayName: 流水匕首
+	FrostbittenDaggerProjectile.DisplayName: 霜噬匕首
+	WinterDaggerProjectile2.DisplayName: 凛冬匕首
+	DaggerProjectile.DisplayName: 匕首
+	CandyCornDaggerEnergyProjectile.DisplayName: 玉米糖匕首
+	ChlorophyteTranquilizerBeam.DisplayName: 叶绿镇静炮
+	ChlorophyteTranquilizerHoldout.DisplayName: 叶绿镇静炮
+	ChlorophyteTranquilizerProjectile.DisplayName: 叶绿镇静弹
+	TranquilizerBeam.DisplayName: 镇静炮
+	TranquilizerHoldout.DisplayName: 镇静炮
+	TerraDaggerEnergyProjectile2.DisplayName: 泰拉匕首
+	SparklingStaffProjectile.DisplayName: 闪光箭弹
+	ExplosiveHolidayProjectile.DisplayName: 节日导弹
+	PumpkinCoreProjectile.DisplayName: 南瓜核心
+	FlamingWoodKunaiProjectile.DisplayName: 焰木苦无
+	FlamingWoodKunaiProjectile2.DisplayName: 焰木苦无
+	OrnamentsOfDoomProjectile.DisplayName: 末日饰品
+	OrnamentsOfDoomProjectile2.DisplayName: 末日饰品
+	FrozenMachineBeam.DisplayName: 冰封机械
+	FrozenMachineHoldout.DisplayName: 冰封机械
+	FrozenMachineProjectile.DisplayName: 冰球
+	TheEraserBeam.DisplayName: 橡皮擦
+	TheEraserHoldout.DisplayName: 橡皮擦
+	FrostMachineBeam.DisplayName: 寒霜机械
+	FrostMachineHoldout.DisplayName: 寒霜机械
+	FrostMachineProjectile.DisplayName: 冰球
+	ShamanStaffProjectile.DisplayName: 净化法术
+	BigClubProjectile.DisplayName: 巨棍
+	ChristmasCheerEnergyProjectile.DisplayName: 圣诞欢悦
+	TestClubProjectile.DisplayName: 测试棍棒
+	UnstableBrickProjectile.DisplayName: 不稳定砖块
+	ShamanTabletProjectile.DisplayName: 净化法术
+	SpaceDaggerBeam.DisplayName: 深空匕首
+	SpaceDaggerHoldout.DisplayName: 深空匕首
+	PumpkinCoreProjectile2.DisplayName: 南瓜核心
+	LunarDartProjectile2.DisplayName: 月之飞镖
+	SuperChargerBeam.DisplayName: 超级充能炮
+	SuperChargerHoldout.DisplayName: 超级充能炮
+	ColorPartyBeam.DisplayName: 缤纷派对
+	ColorPartyHoldout.DisplayName: 缤纷派对
+	FlashlightBeam.DisplayName: 手电筒
+	FlashlightHoldout.DisplayName: 手电筒
+	SeveredClingerProjectile2.DisplayName: 诅咒火球
+	SeveredIchorStickerProjectile2.DisplayName: 灵液火球
+	MarbleSpikefishProjectile.DisplayName: 大理石尖刺鱼
+	MarbleSpikefishProjectile2.DisplayName: 大理石尖刺鱼
+	SeaweepProjectile.DisplayName: 海扫者
+	EnchantedTridentProjectile.DisplayName: 附魔三叉戟
+	EnchantedTridentProjectile2.DisplayName: 附魔三叉戟
+	CandiruEnergyProjectile.DisplayName: 牙签鱼
+	ExplosiveSeaProjectile.DisplayName: 爆海弹
+	TetheredRockProjectile.DisplayName: 束缚岩石
+	ImprovedSunfuryProjectile2.DisplayName: 日耀烈焰
+	GraniteEnergyfishProjectile.DisplayName: 花岗岩碎石
+	GraniteEnergyfishProjectile2.DisplayName: 花岗岩箭弹
+	FishGunProjectile.DisplayName: 鱼枪弹丸
+	FishgunProjectile2.DisplayName: 鱼枪
+	FishgunProjectile.DisplayName: 鱼枪投射物
+	FryingPanProjectile.DisplayName: 培根
+	FryingPanProjectile2.DisplayName: 蛋黄
+	CloudStaffBeam.DisplayName: 流云法杖
+	CloudStaffHoldout.DisplayName: 流云法杖
+	TestBeam.DisplayName: 测试光束
+	TestHoldout.DisplayName: 测试持握
+	WorldBreakerBeam.DisplayName: 碎界者
+	WorldBreakerHoldout.DisplayName: 碎界者
+	WorldBreakerProjectile.DisplayName: 碎界者投射物
+	ThornfishProjectile.DisplayName: 荆棘鱼投射物
+	HandCannonBeam.DisplayName: 手炮
+	HandCannonHoldout.DisplayName: 手炮
+	WinterfishProjectile.DisplayName: 凛冬鱼投射物
+	ShimmerDartProjectile.DisplayName: 微光飞镖投射物
+	WeaknessPolicyProjectile.DisplayName: 衰弱契约投射物
+	InfernoHandProjectile.DisplayName: 炼狱之手
+	InstantDetonationProjectile.DisplayName: 瞬爆弹
+	YappinatorBeam.DisplayName: 聒噪发射器
+	YappinatorHoldout.DisplayName: 聒噪发射器
+	GoldenAchievementProjectile.DisplayName: 黄金成就投射物
+	ShadowPhoenixProjectile3.DisplayName: 暗影凤凰投射物3
+	ImprovedAmazonProjectile2.DisplayName: 亚马逊
+	DarkestDaggerBeam.DisplayName: 至暗匕首
+	DarkestDaggerHoldout.DisplayName: 至暗匕首
+	SolarExplosionProjectile2.DisplayName: 日耀爆发
+	HellBringerProjectile.DisplayName: 地狱使者
+	BlueRomanCandleProjectile.DisplayName: 蓝色罗马烟火筒
+	GreenRomanCandleProjectile.DisplayName: 绿色罗马烟火筒
+	RedRomanCandleProjectile.DisplayName: 红色罗马烟火筒
+	KnockoutBagProjectile2.DisplayName: 眩晕布袋
+	LifeCrystalLauncherBeam.DisplayName: 生命水晶发射器
+	LifeCrystalLauncherHoldout.DisplayName: 生命水晶发射器
+	LifeCrystalLauncherProjectile.DisplayName: 生命水晶
+	GlassCannonHoldout2.DisplayName: 玻璃巨炮
+	FutureSurpriseBeam.DisplayName: 未来惊喜
+	FutureSurpriseHoldout.DisplayName: 未来惊喜
+	FutureSurpriseProjectile.DisplayName: 未来惊喜
+	SkyProtectorEnergyProjectile.DisplayName: 天穹守护者
+	CursedPortalEnergyProjectile.DisplayName: 诅咒传送门能量体
+	DarkPortalEnergyProjectile.DisplayName: 黑暗传送门能量体
+	MeteorShortbowProjectile.DisplayName: 陨星箭矢
+	RuneCannonProjectile.DisplayName: 符文火箭
+	BouncyBlasterProjectile.DisplayName: 弹跳爆破器
+	BulletCannonProjectile.DisplayName: 弹丸炮
+	BloodfangProjectile.DisplayName: 血牙
+	MarbleGraniteDualsProjectile.DisplayName: 大理石花岗岩双持武器
+	MarbleGraniteDualsProjectile2.DisplayName: 大理石花岗岩双持武器
+	MushroomDualsProjectile.DisplayName: 蘑菇双持武器
+	MushroomDualsProjectile2.DisplayName: 蘑菇双持武器
+	BlockyCrossbowProjectile.DisplayName: 方块烟花
+	StrongWindsProjectile.DisplayName: 烈风
+	FlyshooterProjectile.DisplayName: 飞虫
+	StickyDollProjectile.DisplayName: 粘性箭矢
+	CupidsBowProjectile3.DisplayName: 丘比特之箭
+	ShadowflameArrowProjectile.DisplayName: 暗影烈焰箭
+	SeedlingProjectile2.DisplayName: 幼苗
+	StardustDollProjectile.DisplayName: 星尘箭矢
+	StardustDollProjectile2.DisplayName: 星尘箭矢
+	WeatherDualsProjectile.DisplayName: 气象双持武器
+	WeatherDualsProjectile2.DisplayName: 气象双持武器
+	YappinatorProjectile.DisplayName: 聒噪发射器
+	Magic8BallProjectile.DisplayName: 魔法8号球
+	Magic8BallProjectile2.DisplayName: 魔法8号球
+	Magic8BallProjectile3.DisplayName: 魔法8号球
+	Magic8BallProjectile4.DisplayName: 魔法8号球
+	Magic8BallProjectile5.DisplayName: 魔法8号球
+	Magic8BallProjectile6.DisplayName: 魔法8号球
+	InfernoWrathProjectile.DisplayName: 炼狱怒火火球
+	TeslaCannonBeam.DisplayName: 特斯拉炮
+	TeslaCannonHoldout.DisplayName: 特斯拉炮
+	TeslaCannonProjectile.DisplayName: 特斯拉箭弹
+	OtherworldlyScarProjectile.DisplayName: 异界伤痕
+	BattleBladeSwingProjectile2.DisplayName: 战刃挥击
+	SpiderScepterProjectile.DisplayName: 蜘蛛权杖
+	SpiderScepterProjectile2.DisplayName: 蜘蛛权杖
+	ExecutionerAxeSwingProjectile.DisplayName: 行刑斧挥击
+	ExecutionAxeSwingProjectile.DisplayName: 行刑斧挥击
+	HarvesterSwingProjectile.DisplayName: 收割者挥击
+	HellSerpentScepterProjectile.DisplayName: 地狱蛇权杖
+	HellSerpentScepterProjectile2.DisplayName: 地狱蛇权杖
+	IceCubeScepterProjectile.DisplayName: 冰方块权杖
+	IceCubeScepterProjectile2.DisplayName: 冰方块权杖
+	ToxicRifleProjectile.DisplayName: 毒素步枪
+	ToxicRifleProjectile2.DisplayName: 毒素步枪
+	DustDevilProjectile.DisplayName: 尘旋风暴
+	SnowyDollProjectile.DisplayName: 凛冬人偶
+	FungiSpellProjectile.DisplayName: 真菌法术
+	NaturesRevengeProjectile2.DisplayName: 自然之怒
+	CrystalWandProjectile.DisplayName: 水晶魔杖
+	CrystalWandProjectile2.DisplayName: 水晶魔杖
+	SunPowerStaffProjectile.DisplayName: 日耀权能法杖
+	VenomizedSpiderScepterProjectile.DisplayName: 剧毒蜘蛛权杖
+	VenomizedSpiderScepterProjectile2.DisplayName: 剧毒蜘蛛权杖
+	TrapArmorProjectile.DisplayName: 陷阱护甲投射物
+	HellBringerProjectile2.DisplayName: 地狱使者
+	ManaCrystalLauncherBeam.DisplayName: 魔力水晶发射器
+	ManaCrystalLauncherHoldout.DisplayName: 魔力水晶发射器
+	ManaCrystalLauncherProjectile.DisplayName: 魔力水晶
+	SoulWhipProjectile.DisplayName: 灵魂之鞭投射物
+	RetroGunProjectile.DisplayName: 复古枪械投射物
+	SiegeBowBeam.DisplayName: 攻城弓光束
+	SiegeBowHoldout.DisplayName: 攻城弓持握
+	SiegeBowProjectile.DisplayName: 攻城弓投射物
+	TrashCollectorProjectile7.DisplayName: 垃圾收集器
+	FingerGunProjectile.DisplayName: 手指枪投射物
+	ChargedTeslaCannonBeam.DisplayName: 充能特斯拉炮
+	ChargedTeslaCannonHoldout.DisplayName: 充能特斯拉炮
+	ChargedTeslaCannonProjectile.DisplayName: 充能特斯拉炮
+	BoneBladeProjectile.DisplayName: 骨刃投射物
+	CrowShooterProjectile.DisplayName: 乌鸦发射器
+	CrowShooterProjectile2.DisplayName: 乌鸦发射器
+	DreamDartProjectile.DisplayName: 幻梦飞镖
+	DreamDartProjectile2.DisplayName: 幻梦飞镖
+	FinalPartyBeam.DisplayName: 终末派对
+	FinalPartyHoldout.DisplayName: 终末派对
+	AdamantiteDartProjectile.DisplayName: 精金飞镖
+	TitaniumDartProjectile.DisplayName: 钛金飞镖
+	DeathsHandProjectile.DisplayName: 亡者之手
+	SlapperProjectile.DisplayName: 拍击器
+	WaterSprayerProjectile.DisplayName: 喷水器
+	ManaInfusedKeyboardProjectile.DisplayName: 魔力灌注键盘
+	ThornWhipProjectile.DisplayName: 荆棘之鞭
+	TheReaperProjectile.DisplayName: 死神
+	TheReaperProjectile2.DisplayName: 死神
+	HammerTimeProjectile.DisplayName: 锤击时刻
+	HammerTimeSwingProjectile.DisplayName: 锤击时刻
+	TheReaperProjectile3.DisplayName: 死神
+	LadyLuckProjectile.DisplayName: 幸运女神
+	ArchDemonsSlashProjectile.DisplayName: 大恶魔斩击
+	MoonChaserProjectile.DisplayName: 逐月者
+	BloodDollProjectile.DisplayName: 血人偶
+	MartianMicrophoneProjectile.DisplayName: 火星麦克风
+	JunkShooterProjectile.DisplayName: 废料发射器
+	JunkShooterProjectile2.DisplayName: 废料发射器
+	HellBringerProjectile3.DisplayName: 地狱使者
+	MetalPetelStaffProjectile.DisplayName: 金属花瓣法杖
+	MetalPetelStaffProjectile2.DisplayName: 金属花瓣法杖
+	MetalPetalStaffProjectile3.DisplayName: 金属花瓣法杖
+	ElementalResourceGathererSwingProjectile.DisplayName: 元素采集者挥击
+	JungleMacheteSwingProjectile.DisplayName: 丛林砍刀挥击
+	HolyCrossProjectile.DisplayName: 神圣十字投射物
+	LavaEelProjectile3.DisplayName: 熔岩鳗投射物3
+	GhostOrbProjectile.DisplayName: 幽灵光球投射物
+	PixieProjectile.DisplayName: 精灵投射物
+	MeteorShardsProjectile.DisplayName: 陨星碎片
+	MeteorBroadswordProjectile.DisplayName: 陨星巨剑
+	MeteorBroadswordProjectile2.DisplayName: 陨星巨剑
+	MeteorBroadswordProjectile3.DisplayName: 陨星巨剑
+	MeteorBroadswordProjectile4.DisplayName: 陨星巨剑
+	MeteorBroadswordProjectile5.DisplayName: 陨星巨剑
+	MeteorShardsProjectile2.DisplayName: 陨星碎片
+	SpiritStaffProjectile.DisplayName: 幽魂法杖
+	SpiritStaffProjectile2.DisplayName: 幽魂法杖
+	FuneralBeamExplosionProjectile.DisplayName: 葬仪爆炸
+	GhostGrabberProjectile.DisplayName: 幽灵抓取器
+	ValkyrieStaffProjectile.DisplayName: 女武神法杖投射物
+	OtherworldlyScarProjectile2.DisplayName: 异界伤痕投射物2
+	TheSidearmProjectile.DisplayName: 副武器投射物
+	TheSidearmProjectile2.DisplayName: 副武器投射物2
+	BoomTomeProjectile.DisplayName: 爆破典籍投射物
+	RoboSharkProjectile.DisplayName: 机械鲨鱼投射物
+	KingsGambitProjectile.DisplayName: 国王博弈投射物
+	EasterBarrageProjectile.DisplayName: 复活节弹幕
+	FlipCoinProjectile.DisplayName: 抛硬币投射物
+	CoinFlipProjectile.DisplayName: 硬币翻转投射物
+	SpecialGiftProjectile.DisplayName: 特殊礼物投射物
+	SparkleTomeProjectile.DisplayName: 闪耀典籍投射物
+	CrystalCleanserProjectile.DisplayName: 水晶净化者投射物
+	ThornWhipProjectile2.DisplayName: 荆棘之鞭投射物2
+	TrashCollectorProjectile8.DisplayName: 垃圾收集器
+	TrashCollectorProjectile9.DisplayName: 垃圾收集器
+	PartyAnimalProjectile.DisplayName: 派对狂徒投射物
+}
+
+Configs: {
+	BetterClassesConfig: {
+		DisplayName: Better Classes 配置
+
+		ExampleWingsToggle: {
+			Label: "{$Mods.BetterClasses.Config.ExampleWingsToggle.Label}"
+			Tooltip: "{$Mods.BetterClasses.Config.ExampleWingsToggle.Tooltip}"
+		}
+	}
+}
+
+DamageClasses: {
+	MultiClass.DisplayName: Multi Class
+	BreakfastDamageClass.DisplayName: breakfast damage
+	FireworkDamageClass.DisplayName: firework damage
+	WindDamageClass.DisplayName: wind damage
+	FlyDamageClass.DisplayName: fly damage
+	BewitchedSummonDamageClass.DisplayName: bewitched summon damage
+	BarbaricMeleeDamageClass.DisplayName: barbaric melee damage
+	EnchantedMagicDamageClass.DisplayName: enchanted magic damage
+	TacticalRangedDamageClass.DisplayName: tactical ranged damage
+	MeleeSpeedSummon2DamageClass.DisplayName: summon damage
+}
+
+NPCs: {
+	ExamplePerson: {
+		DisplayName: Example Person
+
+		TownNPCMood: {
+			Content: I am content.
+			NoHome: I hate not having a home.
+			FarFromHome: I am too far from home.
+			LoveSpace: I love having so much space.
+			DislikeCrowded: I dislike how crowded I am.
+			HateCrowded: I hate how crowded I am.
+			LoveBiome: I love {BiomeName}.
+			LikeBiome: I like {BiomeName}.
+			DislikeBiome: I dislike {BiomeName}.
+			LoveNPC: I love {NPCName}.
+			LikeNPC: I like {NPCName}.
+			DislikeNPC: I dislike {NPCName}.
+			HateNPC: I hate {NPCName}.
+			LikeNPC_Princess: I like {NPCName}.
+			Princess_LovesNPC: I like {NPCName}.
+		}
+
+		Census.SpawnCondition: Conditions unknown
+	}
+
+	ShadowThief: {
+		DisplayName: 暗影窃贼
+
+		TownNPCMood: {
+			Content: 我很满足。
+			NoHome: 我讨厌居无定所的日子。
+			FarFromHome: 这里离庇护所实在太远了。
+			LoveSpace: 我喜欢这片开阔天地，足以我肆意施展魔法。
+			DislikeCrowded: 我讨厌这里，拥挤不堪，毫无隐私。
+			HateCrowded: 这里人太多了，根本没法悄悄做事不被发现，真让人恼火。
+			LoveBiome: 我喜欢{BiomeName}这片区域
+			LikeBiome: 我喜欢{BiomeName}的安宁静谧。
+			DislikeBiome: 我不喜欢{BiomeName}的环境氛围。
+			HateBiome: 我讨厌{BiomeName}的格调。
+			LoveNPC: 我和 {NPCName}格外合拍，十分投缘。
+			LikeNPC: 我很喜欢{NPCName}，我们相识已久，情谊深厚。
+			DislikeNPC: 我不喜欢{NPCName}，实在看不惯它的行事风格。
+			HateNPC: 我烦死{NPCName}那聒噪的样子了。
+			LikeNPC_Princess: 我挺喜欢{NPCName}的。
+			Princess_LovesNPC: 我特别中意{NPCName}。
+		}
+
+		Census.SpawnCondition: Spawned by using a Corroded Dagger in the forest
+	}
+}
+
+Conditions.PlayerHasShadowbloodBufff: Mods.BetterClasses.Conditions.PlayerHasShadowbloodBufff
+
+Keybinds: {
+	"Self Destruct.DisplayName": 自我毁灭
+	"Instant Detonation.DisplayName": 即时引爆
+	"Cursed with Power.DisplayName": 诅咒之力
+}
+
+UI.SoulResource: Soul Charge
+
+GhostGrabber: {
+	Tooltip:
+		'''
+		按住左键蓄力，提高鞭子范围和伤害
+		命中敌人时恢复灵魂，施加幽灵虚弱减益，并赋予幽灵化增益
+		幽灵虚弱略微降低防御力，减慢移动速度，并造成快速持续伤害
+		幽灵化略微提高灵魂恢复速度和灵魂值
+		'''
+	DisplayName: 幽灵抓取者
+}
+
+ShroomExplorerCoat: {
+	Tooltip:
+		'''
+		使你的最大仆从数量增加2
+		召唤伤害提高13%
+		根据玩家所在位置提供额外加成
+		'传说这件外套属于一位被蘑菇腐蚀的蜥蜴人科学家'
+		[c/00fff7:贡献者物品]
+		'''
+	DisplayName: 蘑菇探索者外套
+}
+
+ShatteringStone: {
+	Tooltip:
+		'''
+		大幅提高最大灵魂值和灵魂恢复速度
+		所有收割武器的伤害提高75%
+		'''
+	DisplayName: 碎裂之石
+}
+
+WitchsElixir: {
+	Tooltip: 略微提高灵魂恢复速度和最大灵魂值
+	DisplayName: 女巫药剂
+}
+
+SpiritStaff: {
+	Tooltip:
+		'''
+		使用时造成33点伤害
+		生成一个幽灵炮塔，发射旋转的灵魂气体
+		灵魂气体在玩家接触时恢复灵魂
+		有15秒冷却时间
+		'''
+	DisplayName: 灵魂法杖
+}
+
+Notes39: {
+	Tooltip: 手持涌浪之刃时与暗影窃贼NPC对话可获得
+	DisplayName: 笔记
+}
+
+Notes38: {
+	Tooltip: 手持光束剑时与暗影窃贼NPC对话可获得
+	DisplayName: 笔记
+}
+
+Notes37: {
+	Tooltip: 手持圣诞树剑时与暗影窃贼NPC对话可获得
+	DisplayName: 笔记
+}
+
+Notes36: {
+	Tooltip: 手持暗影烈焰巫毒娃娃时与暗影窃贼NPC对话可获得
+	DisplayName: 笔记
+}
+
+PixieCone: {
+	Tooltip:
+		'''
+		附魔魔法伤害提高17%
+		最大魔力值提高60
+		持续生成围绕光标旋转的精灵
+		'''
+	DisplayName: 精灵锥
+}
+
+GhostEnergy: {
+	Tooltip: ""
+	DisplayName: 幽灵能量
+}
+
+ReaperLeggings: {
+	Tooltip:
+		'''
+		妖术召唤伤害提高7%
+		移动速度提高15%
+		'''
+	DisplayName: 收割者护腿
+}
+
+ReaperHood: {
+	Tooltip: 妖术召唤伤害提高9%
+	DisplayName: 收割者兜帽
+}
+
+ReaperBreastplate: {
+	Tooltip:
+		'''
+		使你的最大仆从数量增加1
+		妖术召唤伤害提高11%
+		'''
+	DisplayName: 收割者胸甲
+}
+
+CursedGrieves: {
+	Tooltip:
+		'''
+		神话武器伤害提高13%
+		移动速度提高15%
+		'''
+	DisplayName: 诅咒护腿
+}
+
+CursedChestplate: {
+	Tooltip: 神话武器伤害提高17%
+	DisplayName: 诅咒胸甲
+}
+
+HolyCross: {
+	UsesXSoul: Mods.BetterClasses.Items.HolyCross.UsesXSoul
+	Tooltip:
+		'''
+		消耗1点灵魂
+		5点召唤标签伤害
+		不可消耗
+		投掷一阵圣十字，可穿透敌人并施加圣咒减益，持续7秒
+		圣咒有几率施加一个随机选择的火焰减益
+		'''
+	DisplayName: 圣十字
+}
+
+JungleMachete: {
+	Tooltip:
+		'''
+		挥动砍刀，命中敌人时施加生长减益
+		生长使敌人快速受到持续伤害
+		生长使所有原版丛林敌人受到额外伤害
+		有33%几率赋予打击时刻增益
+		暴击时治疗玩家
+		'''
+	DisplayName: 丛林砍刀
+}
+
+ElementalResourceGatherer: {
+	Tooltip:
+		'''
+		命中敌人时恢复魔力、生命和灵魂，并施加强化色彩飞溅减益，持续7秒
+		强化色彩飞溅使敌人防御力降低1/3，提高持续伤害减益的效果，并造成极高的持续伤害
+		[c/a0a0a0:无职业物品]
+		'''
+	DisplayName: 元素资源收集者
+}
+
+MetalPetelStaff: {
+	Tooltip: 生成一个金属化的花蕾，在其周围生成附身之剑
+	DisplayName: 金属花瓣法杖
+}
+
+JunkShooter: {
+	Tooltip:
+		'''
+		使用黑曜石作为弹药
+		发射两枚追踪火箭，爆炸并施加地狱火和 electrified 减益
+		使用时施加少量击退
+		'''
+	DisplayName: 垃圾射手
+}
+
+MartianMicrophone: {
+	Tooltip: 向附近敌人发射音符，命中敌人时引发冲击爆炸
+	DisplayName: 火星麦克风
+}
+
+NecroCape: {
+	Tooltip:
+		'''
+		妖术召唤伤害提高11%
+		如果玩家手持巫毒娃娃，大幅提高灵魂恢复速度
+		'''
+	DisplayName: 死灵披风
+}
+
+SoulGenerator: {
+	Tooltip:
+		'''
+		左键点击抽取灵魂
+		右键点击获得灵魂
+		装备时提供无限灵魂
+		[c/871b28:作弊物品]
+		'''
+	DisplayName: 灵魂发生器
+}
+
+Notes35: {
+	Tooltip: 通过击杀鲜血僵尸或滴血怪获得
+	DisplayName: 笔记
+}
+
+Notes34: {
+	Tooltip: 通过击杀附身盔甲获得
+	DisplayName: 笔记
+}
+
+BloodDoll: {
+	Tooltip:
+		'''
+		消耗13点灵魂
+		以随机角度发射一阵鲜血弹幕
+		有3秒冷却时间
+		'它到处滴着血'
+		'''
+	DisplayName: 鲜血人偶
+	UsesXSoul: Mods.BetterClasses.Items.BloodDoll.UsesXSoul
+}
+
+MoonChaser: {
+	Tooltip: 在光标位置持续生成迷你月亮
+	DisplayName: 追月者
+}
+
+ArchDemonsSlash: {
+	Tooltip: 召唤静止地狱斩击者
+	DisplayName: 太古魔斩
+}
+
+SparklyWings: {
+	Tooltip: ""
+	DisplayName: 闪耀之翼
+}
+
+Sparkly: {
+	DisplayName: 闪耀者
+	Tooltip:
+		'''
+		50% 几率不消耗弹药
+		左键向敌人喷射由不同类型子弹和混乱射弹组成的风暴
+		右键向敌人喷射由不同类型箭矢和混乱射弹组成的风暴
+		将弹药转化为特殊子弹和箭矢
+		'''
+}
+
+Notes33: {
+	Tooltip: 击败任意邪恶Boss后可从商人处购买获得
+	DisplayName: 笔记
+}
+
+Wiesnbrau: {
+	Tooltip: 提供持续治疗，但伤害降低33%
+	DisplayName: 威森啤酒
+}
+
+LadyLuck: {
+	Tooltip:
+		'''
+		使用金币作为弹药
+		投掷一个金色聚宝盆，喷出大量金币
+		'''
+	DisplayName: 幸运女神
+}
+
+MagicCone: {
+	Tooltip: 附魔魔法伤害提高13%
+	DisplayName: 魔法锥
+}
+
+HammerTime: {
+	Tooltip:
+		'''
+		挥动玩具锤，产生微型冲击波
+		这些冲击波恢复魔力
+		'''
+	DisplayName: 锤子时间
+}
+
+TheReaper: {
+	Tooltip:
+		'''
+		发射一道强大的激光，施加厄运减益，持续7秒
+		厄运使敌人每5秒爆炸一次
+		'''
+	DisplayName: 收割者
+}
+
+ManaGatherer: {
+	Tooltip:
+		'''
+		在玩家周围生成一个魔力光环
+		光环范围内的敌人会恢复玩家的魔力
+		[c/00fff7:贡献者物品]
+		'''
+	DisplayName: 魔力收集者
+}
+
+Notes32: {
+	Tooltip: 击败任意机械Boss后可从巫师处购买获得
+	DisplayName: 笔记
+}
+
+ManaInfusedKeyboard: {
+	Tooltip:
+		'''
+		偶尔降下一颗巨大的魔力之星，分裂成多个迷你魔力之星
+		这些迷你魔力之星可穿透最多五个敌人，并有几率碎裂成魔力拾取物
+		'''
+	DisplayName: 魔力注入键盘
+}
+
+WaterSprayer: {
+	Tooltip:
+		'''
+		喷射水属性箭矢，施加风化减益，持续7秒
+		风化对以下减益附加额外效果：
+		生长降低敌人的速度
+		虚弱碎裂或碎裂降低敌人防御力
+		开膛或超级开膛增加受到的伤害
+		[c/a0a0a0:无职业物品]
+		'''
+	DisplayName: 喷水器
+}
+
+Slapper: {
+	Tooltip:
+		'''
+		附着在敌人身上并快速拍打，然后消失
+		命中敌人时施加超级开膛减益
+		超级开膛使敌人快速受到持续伤害
+		'''
+	DisplayName: 拍击者
+}
+
+DeathsHand: {
+	Tooltip:
+		'''
+		使敌人感染死亡印记减益
+		死亡印记提高对受影响敌人造成的伤害
+		[c/a0a0a0:无职业物品]
+		[c/6d006f:玩笑物品]
+		'''
+	DisplayName: 死亡之手
+}
+
+SharkRobe: {
+	Tooltip:
+		'''
+		在水下提供更高的机动性
+		随着Boss进度提高防御力和最大生命值
+		困难模式赋予玩家左右冲刺的能力
+		[c/2ea395:M][c/36a382:y][c/47a36c:t][c/5da056:h][c/749c40:i][c/8c972c:c][c/a58e1f:a][c/bd8420:l] [c/d4762d:I][c/e76542:t][c/f6535c:e][c/ff427b:m]
+		'''
+	DisplayName: 鲨鱼套装
+}
+
+GraveMask: {
+	Tooltip:
+		'''
+		使你的最大仆从数量增加1
+		乌鸦射手不再有冷却时间，但伤害降低50%
+		'''
+	DisplayName: 墓穴面具
+}
+
+AuraFarmer: {
+	Tooltip:
+		'''
+		在玩家周围生成一个不断变化的光环
+		[c/2ea395:M][c/36a382:y][c/47a36c:t][c/5da056:h][c/749c40:i][c/8c972c:c][c/a58e1f:a][c/bd8420:l] [c/d4762d:I][c/e76542:t][c/f6535c:e][c/ff427b:m]
+		'''
+	DisplayName: 灵气农夫
+}
+
+TitaniumDart: {
+	Tooltip: 可穿透最多三个敌人，偶尔发射一道白色箭矢
+	DisplayName: 钛金飞镖
+}
+
+AdamantiteDart: {
+	Tooltip: 可穿透最多四个敌人，偶尔发射一道红色箭矢
+	DisplayName: 精金飞镖
+}
+
+DreamDart: {
+	Tooltip:
+		'''
+		不可消耗
+		可穿透最多十个敌人，每15次射击会发射一阵梦之飞镖弹幕
+		命中敌人时引发彩虹爆炸，并施加强化色彩飞溅减益，持续7秒
+		强化色彩飞溅使敌人防御力降低1/3，并大幅提高持续伤害减益的效果
+		'拥有所有人的希望与梦想之力'
+		'''
+	DisplayName: 梦之飞镖
+}
+
+MasterClass: {
+	Tooltip:
+		'''
+		66%几率节省弹药
+		每次射击都会发射一阵随机箭矢，并使远程攻击速度提高8.75%
+		每13次射击会发射一阵10支箭矢的箭雨
+		远程攻击速度增益上限为11秒
+		'''
+	DisplayName: 大师级
+}
+
+CrowShooter: {
+	UsesXSoul: Mods.BetterClasses.Items.CrowShooter.UsesXSoul
+	Tooltip:
+		'''
+		消耗3点灵魂
+		有0.75秒冷却时间
+		发射一阵微弱的追踪乌鸦
+		'''
+	DisplayName: 乌鸦射手
+}
+
+GraniteEnergy: {
+	Tooltip: ""
+	DisplayName: 花岗岩能量
+}
+
+OnyxEngineMachineGun: {
+	Tooltip:
+		'''
+		33%几率节省弹药
+		每次射击提高远程攻击速度
+		远程攻击速度增益上限为3秒
+		'''
+	DisplayName: 缟玛瑙引擎机枪
+}
+
+Notes31: {
+	Tooltip: 可在派对期间从商人处购买获得
+	DisplayName: 笔记
+}
+
+FingerGun: {
+	Tooltip:
+		'''
+		使敌人受到标记减益
+		标记提高对受影响敌人造成的伤害
+		[c/a0a0a0:无职业物品]
+		[c/6d006f:玩笑物品]
+		'''
+	DisplayName: 手指枪
+}
+
+HeatDagger: {
+	Tooltip:
+		'''
+		手持匕首3秒不攻击时，为玩家提供充能增益
+		充能增益使野蛮近战伤害翻倍，暴击率提高8%，移动速度翻倍
+		获得充能增益时向光标方向射出附魔飞斧
+		射出1至3道热射线而非挥动匕首
+		在空中时攻击速度更快
+		'''
+	DisplayName: 热力匕首
+}
+
+SharpeningStone: {
+	Tooltip:
+		'''
+		略微提高最大灵魂值和灵魂恢复速度
+		所有收割武器的伤害提高50%
+		'''
+	DisplayName: 磨刀石
+}
+
+SiegeBow: {
+	Tooltip:
+		'''
+		冷却时间1.5秒
+		只能在地面时使用
+		蓄力射出强力射击，可粘附在敌人身上、眩晕敌人并施加弱碎裂效果
+		弱碎裂使敌人持续受到伤害
+		弱碎裂使所有原版Boss类敌人受到额外伤害
+		'''
+	DisplayName: 攻城弓
+}
+
+GlassHeart: {
+	Tooltip:
+		'''
+		最大生命值减半并大幅降低防御力
+		根据最大生命值提供生命恢复
+		'''
+	DisplayName: 玻璃之心
+}
+
+Notes30: {
+	Tooltip: 可通过将信号枪投入微光获得
+	DisplayName: 笔记
+}
+
+Notes3: {
+	DisplayName: 笔记
+	Tooltip: 可通过将代达罗斯风暴弓微光转化获得
+}
+
+RetroGun: {
+	Tooltip: ""
+	DisplayName: 复古枪
+}
+
+VoidHeart: {
+	Tooltip:
+		'''
+		伤害提高100%
+		受到任何伤害都会立即死亡
+		'''
+	DisplayName: 虚空之心
+}
+
+SoulWhip: {
+	Tooltip:
+		'''
+		按住左键蓄力以提高鞭子范围和伤害
+		击中敌人时恢复灵魂，施加灵魂虚弱减益并赋予活力增益
+		灵魂虚弱降低防御力、减缓移动速度并造成持续快速伤害
+		活力提高灵魂恢复速度和灵魂数量
+		'''
+	DisplayName: 灵魂窃取者
+}
+
+ManaCrystalLauncher: {
+	Tooltip:
+		'''
+		使用魔力水晶作为弹药
+		按住左键蓄力，发射强大的魔力恢复射击
+		蓄力达到3秒后即可发射
+		冷却时间15秒
+		[c/a0a0a0:无职业物品]
+		'''
+	DisplayName: 魔力水晶发射器
+}
+
+TrapPants: {
+	Tooltip:
+		'''
+		战术远程伤害提高12%
+		移动速度提高15%
+		'''
+	DisplayName: 陷阱裤
+}
+
+TrapMask: {
+	Tooltip:
+		'''
+		战术远程伤害提高21%
+		远程暴击率提高5%
+		'''
+	DisplayName: 陷阱面具
+}
+
+TrapBreastplate: {
+	Tooltip: 战术远程伤害和暴击率提高17%
+	DisplayName: 陷阱胸甲
+}
+
+VenomizedSpiderScepter: {
+	Tooltip:
+		'''
+		使用时造成37点伤害
+		生成一个毒化蜘蛛炮塔，向你的光标方向射出蛛网
+		蛛网可眩晕敌人并施加酸毒效果，玩家接触时恢复灵魂
+		冷却时间15秒
+		'''
+	DisplayName: 毒化蜘蛛权杖
+}
+
+SunPowerStaff: {
+	Tooltip:
+		'''
+		使用时造成50点伤害
+		生成一个巨大的太阳，对敌人造成接触伤害
+		巨大太阳在玩家接触时恢复灵魂
+		冷却时间15秒
+		'''
+	DisplayName: 太阳之力法杖
+}
+
+CrystalWand: {
+	Tooltip: 射出结晶球体，击中敌人时恢复魔力并爆裂成暗影火焰
+	DisplayName: 水晶魔杖
+}
+
+LihzahrdLeggings: {
+	Tooltip:
+		'''
+		野蛮近战伤害提高13%
+		移动速度提高20%
+		敌人更有可能以你为目标
+		'''
+	DisplayName: 丛林蜥蜴护腿
+}
+
+LihzahrdHelmet: {
+	Tooltip:
+		'''
+		野蛮近战伤害和攻击速度提高17%
+		敌人更有可能以你为目标
+		'''
+	DisplayName: 丛林蜥蜴头盔
+}
+
+LihzahrdChestplate: {
+	Tooltip:
+		'''
+		野蛮近战伤害和暴击率提高20%
+		敌人更有可能以你为目标
+		'''
+	DisplayName: 丛林蜥蜴胸甲
+}
+
+Notes29: {
+	Tooltip: 可在困难模式期间从树妖处购买获得
+	DisplayName: 笔记
+}
+
+DryadsArtifact: {
+	Tooltip:
+		'''
+		装备时赋予玩家树妖祝福
+		生成一个自然光环，使光环内的敌人受到树妖守护效果
+		'''
+	DisplayName: 树妖圣物
+}
+
+DiscoMask: {
+	Tooltip:
+		'''
+		野蛮近战、附魔魔法、战术远程和巫术召唤伤害提高13%
+		生成一个派对光环，使光环内的敌人受到强化色彩飞溅效果
+		派对光环内的敌人为玩家提供派对时光增益，提高生命值、跳跃速度并赋予击退免疫
+		强化色彩飞溅降低敌人1/3防御力，并大幅提高持续伤害减益的效果
+		[c/FF8C55:E][c/BA663E:x][c/85492C:o][c/754027:t][c/472718:i][c/331C11:c] [c/21120B:I][c/47000B:t][c/63000F:e][c/880015:m]
+		'''
+	DisplayName: 迪斯科面具
+}
+
+FungiSpell: {
+	Tooltip:
+		'''
+		射出孢子在飞行途中生成松露
+		有20%几率额外射出两个孢子
+		绝对不要吃它
+		'''
+	DisplayName: 真菌法术
+}
+
+HumbleTuxedoPants: {
+	Tooltip:
+		'''
+		最大生命值增加25
+		战术远程伤害提高11%
+		移动速度提高15%
+		'''
+	DisplayName: 谦逊燕尾裤
+}
+
+HumbleTuxedo: {
+	Tooltip:
+		'''
+		最大生命值增加50
+		战术远程伤害和暴击率提高13%
+		'''
+	DisplayName: 谦逊燕尾服
+}
+
+HumbleBandana: {
+	Tooltip:
+		'''
+		最大生命值增加25
+		战术远程伤害和攻击速度提高15%
+		'''
+	DisplayName: 谦逊头巾
+}
+
+NobleLeggings: {
+	Tooltip:
+		'''
+		最大生命值增加25
+		野蛮近战伤害提高11%
+		移动速度提高15%
+		'''
+	DisplayName: 贵族护腿
+}
+
+NobleHelmet: {
+	Tooltip:
+		'''
+		最大生命值增加25
+		野蛮近战伤害和攻击速度提高15%
+		'''
+	DisplayName: 贵族头盔
+}
+
+NobleBreastplate: {
+	Tooltip:
+		'''
+		最大生命值增加50
+		野蛮近战伤害和暴击率提高13%
+		'''
+	DisplayName: 贵族胸甲
+}
+
+Notes28: {
+	Tooltip:
+		'''
+		可从机器人处购买获得
+		必须在下雨时机器人才会出售该物品
+		'''
+	DisplayName: 笔记
+}
+
+AncestralEye: {
+	Tooltip:
+		'''
+		根据当前生命值提高野蛮近战和战术远程伤害
+		根据当前魔力值提高附魔魔法和巫术召唤伤害
+		'''
+	DisplayName: 先祖之眼
+}
+
+SnowyDoll: {
+	UsesXSoul: Mods.BetterClasses.Items.SnowyDoll.UsesXSoul
+	Tooltip:
+		'''
+		消耗7点灵魂
+		以随机角度射出大量雪球
+		雪球会在飞行一段时间后停在原地
+		冷却时间1.5秒
+		[c/b225e6:微光物品]
+		'''
+	DisplayName: 雪人玩偶
+}
+
+Notes27: {
+	Tooltip: 可通过将寒霜九头蛇法杖投入微光获得
+	DisplayName: 笔记
+}
+
+Notes26: {
+	Tooltip: 可通过将沙漠虎杖投入微光获得
+	DisplayName: 笔记
+}
+
+DustDevil: {
+	Tooltip:
+		'''
+		11点召唤标记伤害
+		击中敌人可叠加攻击速度、伤害和鞭子范围
+		增益叠加过多将重置进度
+		[c/b225e6:微光物品]
+		'''
+	DisplayName: 沙尘恶魔
+}
+
+WorldBiter: {
+	Tooltip:
+		'''
+		手持匕首3秒不攻击时，为玩家提供暗黑之力增益
+		暗黑之力增益使野蛮近战伤害翻倍，暴击率提高100%，近战速度提高，防御力增加16，移动速度翻倍
+		击中敌人时有几率生成小型吞噬者
+		[c/b225e6:微光物品]
+		'''
+	DisplayName: 噬界者
+}
+
+Notes25: {
+	Tooltip: 可通过将吸血鬼刀投入微光获得
+	DisplayName: 笔记
+}
+
+Notes24: {
+	Tooltip: 可通过将腐化灾兵投入微光获得
+	DisplayName: 笔记
+}
+
+BloodRipper: {
+	Tooltip:
+		'''
+		手持匕首3秒不攻击时，为玩家提供暗黑之力增益
+		暗黑之力增益使野蛮近战伤害翻倍，暴击率提高100%，近战速度提高，防御力增加16，移动速度翻倍
+		击中敌人时恢复生命值
+		[c/b225e6:微光物品]
+		'''
+	DisplayName: 鲜血撕裂者
+}
+
+Notes23: {
+	Tooltip: 可通过将食人鱼枪投入微光获得
+	DisplayName: 笔记
+}
+
+FloweringRepeater: {
+	Tooltip:
+		'''
+		射出随机种类的箭矢
+		[c/b225e6:微光物品]
+		'''
+	DisplayName: 开花连弩
+}
+
+MoonlightShirt: {
+	Tooltip:
+		'''
+		最大魔力值增加20
+		附魔魔法伤害提高17%
+		'''
+	DisplayName: 月光衬衫
+}
+
+MoonlightPants: {
+	Tooltip:
+		'''
+		最大魔力值增加20
+		附魔魔法伤害提高13%
+		移动速度提高20%
+		'''
+	DisplayName: 月光护腿
+}
+
+MoonlightMask: {
+	Tooltip:
+		'''
+		最大魔力值增加20
+		附魔魔法伤害提高15%
+		'''
+	DisplayName: 月光面具
+}
+
+Notes22: {
+	Tooltip: 可以通过将彩虹枪微光转化获得
+	DisplayName: 笔记
+}
+
+ColorfulFeather: {
+	Tooltip:
+		'''
+		施加缓慢坠落效果
+		在空中时，战术远程伤害提升25%
+		'''
+	DisplayName: 彩色羽毛
+}
+
+BlacksteelAnvil: {
+	Tooltip:
+		'''
+		坠落速度翻倍
+		在地面时，野蛮近战伤害提升25%
+		'''
+	DisplayName: 黑钢砧
+}
+
+MeteorHat: {
+	Tooltip:
+		'''
+		最大魔力值+20
+		提升7%附魔魔法伤害
+		'''
+	DisplayName: 陨星帽
+}
+
+IceCubeScepter: {
+	Tooltip:
+		'''
+		使用时造成43点伤害
+		生成一个冰块，向下发射冰柱
+		冰柱在玩家接触时恢复灵魂
+		拥有15秒冷却时间
+		'''
+	DisplayName: 冰块权杖
+}
+
+HellSerpentScepter: {
+	Tooltip:
+		'''
+		使用时造成37点伤害
+		生成一个地狱蛇炮塔，向你的光标方向喷射火焰
+		火焰在玩家接触时恢复灵魂
+		拥有15秒冷却时间
+		'''
+	DisplayName: 地狱蛇权杖
+}
+
+BoneJacket: {
+	Tooltip:
+		'''
+		最大仆从数量+1
+		提升7%妖术召唤伤害和鞭子范围
+		生命值低于一半时，将恢复至满生命值
+		此效果有1分钟冷却时间
+		'''
+	DisplayName: 骨制夹克
+}
+
+RustedKnightLeggings: {
+	Tooltip:
+		'''
+		最大仆从数量+1
+		提升13%妖术召唤伤害
+		移动速度提升20%
+		'''
+	DisplayName: 锈蚀骑士护腿
+}
+
+RustedKnightHood: {
+	Tooltip:
+		'''
+		最大仆从数量+1
+		提升15%妖术召唤伤害
+		'''
+	DisplayName: 锈蚀骑士兜帽
+}
+
+RustedKnightBreastplate: {
+	Tooltip:
+		'''
+		最大仆从数量+1
+		提升17%妖术召唤伤害
+		'''
+	DisplayName: 锈蚀骑士胸甲
+}
+
+ShadowflameMask: {
+	Tooltip:
+		'''
+		最大仆从数量+1
+		提升17%妖术召唤伤害
+		生成一个暗影焰光环，对光环内的敌人施加暗影焰减益
+		光环内的所有僵尸类敌人受到双倍伤害
+		'''
+	DisplayName: 暗影焰面具
+}
+
+Harvester: {
+	Tooltip:
+		'''
+		你的召唤物将集中攻击被命中的敌人
+		挥动镰刀，对所有原版僵尸类敌人造成额外伤害
+		允许从所有原版僵尸类敌人身上收集暗影焰
+		[c/96966F:收割者物品]
+		'''
+	DisplayName: 收割者
+}
+
+SpiderScepter: {
+	Tooltip:
+		'''
+		使用时造成33点伤害
+		生成一个蜘蛛炮塔，向你的光标方向发射蛛网
+		蛛网可以眩晕敌人，并在玩家接触时恢复灵魂
+		拥有15秒冷却时间
+		'''
+	DisplayName: 蜘蛛权杖
+}
+
+ExecutionAxe: {
+	Tooltip:
+		'''
+		你的召唤物将集中攻击被命中的敌人
+		挥动斧头，对所有原版僵尸类敌人造成额外伤害
+		允许从所有原版僵尸类敌人身上收集骨粉
+		[c/96966F:收割者物品]
+		'''
+	DisplayName: 处刑斧
+}
+
+BrawlerBadge: {
+	Tooltip:
+		'''
+		装备时，徽章提供+5%的大多数属性加成
+		徽章额外提供+3防御、生命恢复和魔力恢复
+		'''
+	DisplayName: 格斗家徽章
+}
+
+OtherworldlyScar: {
+	Tooltip:
+		'''
+		将普通子弹转化为高度易燃的穿透子弹
+		每射击30次，武器需要重新装填
+		“愚人节快乐！”
+		[c/6d006f:玩笑物品]
+		[c/ffa0bf:节日物品]
+		'''
+	DisplayName: 异界疤痕
+}
+
+ChargedTeslaCannon: {
+	Tooltip:
+		'''
+		使用15点纳米机器人作为弹药
+		充能发射一阵特斯拉闪电箭和一个电球，电球命中敌人时会分裂成特斯拉闪电箭
+		特斯拉闪电箭施加“致盲”和“ electrified ”减益，持续7秒
+		“致盲”使敌人防御减半
+		'''
+	DisplayName: 充能特斯拉加农炮
+}
+
+TeslaCannon: {
+	Tooltip:
+		'''
+		使用15点花岗岩能量作为弹药
+		充能发射一阵特斯拉闪电箭
+		特斯拉闪电箭施加“致盲”和“ electrified ”减益，持续7秒
+		“致盲”使敌人防御减半
+		'''
+	DisplayName: 特斯拉加农炮
+}
+
+Magic8Ball: {
+	Tooltip:
+		'''
+		不可消耗
+		投掷一个效果多变的魔法8号球
+		效果可能对敌人有害，也可能有益
+		“魔法8号球，我的敌人该面对我的怒火吗？”
+		[c/6d006f:玩笑物品]
+		'''
+	DisplayName: 魔法8号球
+}
+
+WeatherDuals: {
+	Tooltip:
+		'''
+		左键使用冰冻的冰霜匕首快速刺击
+		冰霜匕首提供“冰霜之力”增益，提升伤害和防御
+		右键使用禁忌的沙尘匕首缓慢刺击
+		沙尘匕首提供“禁忌之力”增益，提升攻击速度和生命恢复
+		'''
+	DisplayName: 天气双刃
+}
+
+CorruptedBlade: {
+	Tooltip: 每1.25秒向光标方向挥动一次刀刃
+	DisplayName: 腐化之刃
+}
+
+StardustDoll: {
+	UsesXSoul: Mods.BetterClasses.Items.StardustDoll.UsesXSoul
+	Tooltip:
+		'''
+		消耗10点灵魂
+		以随机角度发射大量星尘箭矢
+		星尘箭矢会分裂成额外的追踪星尘箭矢
+		拥有2.5秒冷却时间
+		“强大黑暗魔法的结晶”
+		'''
+	DisplayName: 星尘人偶
+}
+
+StickyDoll: {
+	UsesXSoul: Mods.BetterClasses.Items.StickyDoll.UsesXSoul
+	Tooltip:
+		'''
+		消耗7点灵魂
+		发射一阵箭矢，以随机角度粘附在敌人身上
+		拥有1.5秒冷却时间
+		“别担心，拿起来不粘手”
+		'''
+	DisplayName: 粘性人偶
+}
+
+BoneDust: {
+	Tooltip: 将骨头锯碎后制成的多功能材料
+	DisplayName: 骨粉
+}
+
+Flyshooter: {
+	UsesXSoul: Mods.BetterClasses.Items.Flyshooter.UsesXSoul
+	Tooltip:
+		'''
+		消耗2点灵魂
+		你的召唤物将集中攻击被命中的敌人
+		发射2至7只苍蝇，粘附在敌人身上
+		伤害和护甲穿透随Boss进度提升
+		[c/2ea395:M][c/36a382:y][c/47a36c:t][c/5da056:h][c/749c40:i][c/8c972c:c][c/a58e1f:a][c/bd8420:l] [c/d4762d:I][c/e76542:t][c/f6535c:e][c/ff427b:m]
+		'''
+	DisplayName: 苍蝇射手
+}
+
+StrongWinds: {
+	Tooltip:
+		'''
+		发射强大的气流，命中时眩晕敌人
+		伤害和眩晕持续时间随Boss进度提升
+		[c/2ea395:M][c/36a382:y][c/47a36c:t][c/5da056:h][c/749c40:i][c/8c972c:c][c/a58e1f:a][c/bd8420:l] [c/d4762d:I][c/e76542:t][c/f6535c:e][c/ff427b:m]
+		'''
+	DisplayName: 强风
+}
+
+MythicalMatter: {
+	Tooltip:
+		'''
+		一种罕见的、看似来自异界的物质
+		有1/1000的几率从大多数敌人身上掉落
+		[c/2ea395:M][c/36a382:y][c/47a36c:t][c/5da056:h][c/749c40:i][c/8c972c:c][c/a58e1f:a][c/bd8420:l] [c/d4762d:I][c/e76542:t][c/f6535c:e][c/ff427b:m]
+		'''
+	DisplayName: 神话物质
+}
+
+CrystalDagger: {
+	Tooltip:
+		'''
+		手持匕首攻击3秒后，给予玩家“水晶化”增益
+		“水晶化”增益提升50%近战速度和移动速度，并提升12%暴击率
+		获得“水晶化”增益时，向光标方向发射一片奥钢矿花瓣
+		发射3至5枚水晶而非挥动匕首
+		'''
+	DisplayName: 水晶匕首
+}
+
+MushroomDuals: {
+	Tooltip:
+		'''
+		左键使用带毒液的蘑菇矿匕首快速刺击
+		蘑菇矿匕首提供“蘑菇矿之力”增益，提升伤害和防御
+		右键使用有毒的蘑菇匕首缓慢刺击
+		蘑菇匕首提供“蘑菇之力”增益，提升攻击速度和生命恢复
+		'''
+	DisplayName: 蘑菇双刃
+}
+
+MarbleGraniteDuals: {
+	Tooltip:
+		'''
+		左键使用带电的花岗岩匕首快速刺击
+		花岗岩匕首提供“花岗岩之力”增益，提升伤害和防御
+		右键使用炽热的火成岩匕首缓慢刺击
+		大理石匕首提供“大理石之力”增益，提升攻击速度和生命恢复
+		'''
+	DisplayName: 大理石花岗岩双刃
+}
+
+Notes21: {
+	Tooltip: 在血月期间于洞穴层钓鱼获得
+	DisplayName: 笔记
+}
+
+Bloodfang: {
+	Tooltip:
+		'''
+		手持匕首时，给予玩家“嗜血”增益
+		“嗜血”增益大幅提升生命恢复速度，并根据玩家当前生命值提升野蛮近战伤害
+		命中敌人时施加“超级开膛”减益
+		“超级开膛”使敌人持续快速受到伤害
+		命中时恢复可观的生命值，暴击时恢复更多
+		拥有1.5秒冷却时间
+		[c/3F00FF:钓鱼物品]
+		[c/00fff7:贡献者物品]
+		'''
+	DisplayName: 血牙
+}
+
+BouncyBlaster: {
+	Tooltip:
+		'''
+		使用凝胶作为弹药
+		发射可眩晕敌人的弹跳凝胶
+		弹跳凝胶具有微弱的追踪能力
+		[c/ff9d00:传说物品]
+		'''
+	DisplayName: 弹跳爆破者
+}
+
+RuneCannon: {
+	Tooltip:
+		'''
+		攻击时在玩家周围生成灵液和诅咒光环
+		[c/00fff7:贡献者物品]
+		'''
+	DisplayName: 符文加农炮
+}
+
+MeteorShortbow: {
+	Tooltip:
+		'''
+		手持匕首且不攻击3秒后，给予玩家“快速拔枪”增益
+		“快速拔枪”增益使野蛮近战速度翻倍，并提升50%野蛮近战伤害
+		将普通箭矢转化为陨星箭矢，命中敌人死亡时从天空召唤星星
+		一次发射1至2支箭矢
+		'''
+	DisplayName: 陨星短弓
+}
+
+SkyProtector: {
+	Tooltip:
+		'''
+		手持匕首攻击3秒后，给予玩家“星辰之力”增益
+		“星辰之力”增益提升生命恢复、防御和移动速度
+		近战命中时，召唤陨星从天空坠落
+		'''
+	DisplayName: 天空守护者
+}
+
+FutureSurprise: {
+	Tooltip: 只要有足够的耐心，你的敌人就会得到一份特别的惊喜
+	DisplayName: 未来惊喜
+}
+
+CursedPointer: {
+	Tooltip:
+		'''
+		对所有冷却时间提供完全免疫
+		[c/871b28:作弊物品]
+		'''
+	DisplayName: 诅咒指针
+}
+
+LifeCrystalLauncher: {
+	Tooltip:
+		'''
+		使用生命水晶作为弹药
+		按住左键充能，释放强大的生命恢复射击
+		充能达到3秒后即可发射
+		拥有15秒冷却时间
+		[c/a0a0a0:无职业物品]
+		'''
+	DisplayName: 生命水晶发射器
+}
+
+HellBringer: {
+	Tooltip:
+		'''
+		使用黑曜石作为弹药
+		发射一枚爆炸火箭并施加“着火！”减益
+		使用时施加少量击退
+		'''
+	DisplayName: 地狱使者
+}
+
+GoldenAchievement: {
+	Tooltip:
+		'''
+		不可消耗
+		投掷一座几乎无视所有防御的黄金雕像
+		'''
+	DisplayName: 黄金成就
+}
+
+Yappinator: {
+	Tooltip:
+		'''
+		快速发射文字，使敌人生命值降低0.23%
+		[c/6d006f:玩笑物品]
+		[c/a0a0a0:无职业物品]
+		'''
+	DisplayName: 喋喋不休者
+}
+
+CoralShortbow: {
+	Tooltip:
+		'''
+		手持匕首3秒不攻击后赋予玩家“拔枪速射”增益
+		“拔枪速射”增益使野蛮近战速度翻倍，并使野蛮近战伤害提高50%
+		一次发射1至2支箭，并发射一枚穿透性气泡
+		'''
+	DisplayName: 珊瑚短弓
+}
+
+Notes20: {
+	Tooltip: 可通过将猴子飞镖微光转化获得
+	DisplayName: 笔记
+}
+
+Notes2: {
+	Tooltip: 可通过将十字项链微光转化获得
+	DisplayName: 笔记
+}
+
+WeaknessPolicy: {
+	Tooltip:
+		'''
+		暴击时施加100%伤害加成
+		效果激活期间无法再次暴击
+		'''
+	DisplayName: 弱点对策
+}
+
+ShimmerDart: {
+	Tooltip:
+		'''
+		飞行时重力不断变化
+		可穿透最多三个敌人
+		[c/b225e6:微光物品]
+		'''
+	DisplayName: 微光飞镖
+}
+
+Winterfish: {
+	UsesXSoul: Mods.BetterClasses.Items.Winterfish.UsesXSoul
+	Tooltip:
+		'''
+		消耗1点灵魂
+		3点召唤标记伤害
+		不可消耗
+		投掷一连串可穿透敌人的冬鱼
+		[c/3F00FF:钓鱼物品]
+		'''
+	DisplayName: 冬鱼
+}
+
+Notes19: {
+	Tooltip: 可通过在雪原生物群系钓鱼获得
+	DisplayName: 笔记
+}
+
+HandheldSnowballLauncher: {
+	Tooltip: 基础雪球发射器的手持版本
+	DisplayName: 手持雪球发射器
+}
+
+Thornfish: {
+	Tooltip:
+		'''
+		不可消耗
+		投掷一条会附着在敌人身上的鱼
+		[c/3F00FF:钓鱼物品]
+		'''
+	DisplayName: 荆棘鱼
+}
+
+Notes18: {
+	Tooltip: 可通过在沙漠钓鱼获得
+	DisplayName: 笔记
+}
+
+WorldBreaker: {
+	Tooltip:
+		'''
+		发射一道毁灭世界的光束
+		光束会蒸发方块、墙壁、液体、物品和宝箱
+		[c/871b28:作弊物品]
+		'''
+	DisplayName: 世界破坏者
+}
+
+Notes17: {
+	Tooltip: 可通过在太空钓鱼获得
+	DisplayName: 笔记
+}
+
+CloudStaff: {
+	Tooltip:
+		'''
+		发射一道巨型云束，施加“云蔽”减益7秒
+		“云蔽”提高持续伤害减益的效果
+		云束每命中5次还会短暂眩晕敌人
+		[c/a0a0a0:无职业物品]
+		[c/3F00FF:钓鱼物品]
+		'''
+	DisplayName: 云之法杖
+}
+
+Notes16: {
+	Tooltip: 可通过在森林钓鱼获得
+	DisplayName: 笔记
+}
+
+Fishgun: {
+	Tooltip:
+		'''
+		将普通子弹转换为水弹
+		水弹在消亡时引发水属性爆炸
+		右键旋转你的枪，提高远程伤害、攻击速度并赋予水下机动性
+		在水下时，右键还会进一步提高伤害和速度
+		[c/3F00FF:钓鱼物品]
+		'''
+	DisplayName: 鱼枪
+}
+
+Notes15: {
+	Tooltip: 可通过在困难模式花岗岩生物群系钓鱼获得
+	DisplayName: 笔记
+}
+
+GraniteEnergyfish: {
+	Tooltip:
+		'''
+		发射花岗岩岩石，命中敌人时会裂开并释放花岗岩闪电
+		花岗岩闪电在暴击命中敌人时恢复魔力
+		如果玩家在地面上，额外获得12%暴击率
+		“生活在花岗岩洞穴中的常见石鱼的一种奇异变种”
+		[c/3F00FF:钓鱼物品]
+		'''
+	DisplayName: 花岗岩能量鱼
+}
+
+TetheredRock: {
+	Tooltip: “‘从这里开始就没有更基础的了’”
+	DisplayName: 系绳岩石
+}
+
+Notes14: {
+	Tooltip: 可通过在困难模式海洋钓鱼获得
+	DisplayName: 笔记
+}
+
+ExplosiveSea: {
+	Tooltip:
+		'''
+		发射高爆水雷，靠近敌人时会停止移动
+		未击中方块或敌人的水雷可以暴击，并在消亡时爆裂成火焰
+		[c/3F00FF:钓鱼物品]
+		'''
+	DisplayName: 爆炸之海
+}
+
+Notes13: {
+	Tooltip: 可通过在困难模式雨天钓鱼获得
+	DisplayName: 笔记
+}
+
+Candiru: {
+	Tooltip:
+		'''
+		手持匕首攻击3秒后赋予玩家“酸性力量”增益
+		“酸性力量”增益使近战伤害和击退提高50%
+		获得“酸性力量”增益会伤害玩家
+		命中敌人时有几率引发剧毒爆炸，剧毒爆炸有几率暴击
+		[c/3F00FF:钓鱼物品]
+		'''
+	DisplayName: 坎迪鲁鱼
+}
+
+EnchantedTrident: {
+	Tooltip:
+		'''
+		每发射2次额外发射一枚附魔三叉戟投射物
+		持有时施加“三叉戟之力”增益
+		“三叉戟之力”在水下时使近战伤害提高15%
+		持有时提高在水中的机动性
+		按住“上”键可缓慢下落
+		'''
+	DisplayName: 附魔三叉戟
+}
+
+ThornWhip: {
+	Tooltip:
+		'''
+		9点召唤标记伤害
+		挥动一种毒化的海藻，可短暂眩晕敌人
+		鞭子会爆裂成追踪荆棘，并在使用时伤害玩家
+		[c/FF8C55:E][c/BA663E:x][c/85492C:o][c/754027:t][c/472718:i][c/331C11:c] [c/21120B:I][c/47000B:t][c/63000F:e][c/880015:m]
+		'''
+	DisplayName: 荆棘鞭
+}
+
+Seaweep: {
+	Tooltip:
+		'''
+		5点召唤标记伤害
+		挥动一种罕见的海藻，可短暂眩晕敌人
+		[c/3F00FF:钓鱼物品]
+		[c/00fff7:贡献者物品]
+		'''
+	DisplayName: 海藻鞭
+}
+
+Notes12: {
+	Tooltip: 可通过在海洋钓鱼获得
+	DisplayName: 笔记
+}
+
+Notes11: {
+	Tooltip: 可通过在困难模式大理石生物群系钓鱼获得
+	DisplayName: 笔记
+}
+
+Notes: {
+	DisplayName: 音符
+	Tooltip: 可通过在困难模式的丛林钓鱼获得
+}
+
+MarbleSpikefish: {
+	Tooltip:
+		'''
+		旋转一条奇异的石化鱼，赋予玩家“大理石皮肤”增益
+		“大理石皮肤”使防御提高5点，并免疫击退
+		将棘鱼扔向敌人会使其碎裂成大理石石块
+		投掷的棘鱼在暴击命中敌人时恢复生命值
+		如果玩家在空中，额外获得12%暴击率
+		“生活在大理石洞穴中的常见石鱼的一种奇异变种”
+		[c/3F00FF:钓鱼物品]
+		'''
+	DisplayName: 大理石棘鱼
+}
+
+ColorParty: {
+	Tooltip:
+		'''
+		发射旋转的彩虹激光，施加“色彩飞溅”减益7秒
+		“色彩飞溅”使敌人防御减半，并提高持续伤害减益的效果
+		[c/a0a0a0:无职业物品]
+		'''
+	DisplayName: 色彩派对
+}
+
+SuperCharger: {
+	Tooltip: ""
+	DisplayName: 超级充能器
+}
+
+ShamanTablet: {
+	Tooltip:
+		'''
+		5点召唤标记伤害
+		发射一枚追踪净化法术
+		净化法术命中时治疗5点灵魂，并有几率大幅降低敌人防御7秒
+		拥有0.5秒冷却时间
+		[c/ff9d00:传说物品]
+		'''
+	DisplayName: 萨满石板
+}
+
+UnstableBrick: {
+	Tooltip:
+		'''
+		投掷一块强力但缓慢的爆炸砖块
+		砖块爆炸时会碎裂成爆炸碎片
+		'''
+	DisplayName: 不稳定砖块
+}
+
+ChristmasCheer: {
+	Tooltip: 从圣诞树上发射松针和其他物品
+	DisplayName: 圣诞欢歌
+}
+
+BigClub: {
+	Tooltip:
+		'''
+		挥动一把强力但沉重的棍棒，造成“碎裂”减益
+		“碎裂”使敌人随时间快速受到伤害
+		“碎裂”使所有原版Boss类敌人受到额外伤害
+		暴击时赋予“致命时刻”增益
+		[c/ff9d00:传说物品]
+		'''
+	DisplayName: 大棒
+}
+
+RoseOfCourage: {
+	Tooltip:
+		'''
+		每个活跃的召唤仆从使非召唤伤害提高5%
+		[c/00fff7:贡献者物品]
+		'''
+	DisplayName: 勇气玫瑰
+}
+
+CursedPumpkin: {
+	Tooltip:
+		'''
+		放置范围增加3
+		施加闪耀增益
+		随着Boss进度提高伤害和挖掘速度
+		困难模式赋予死亡之环，提高对环内敌人造成的伤害
+		[c/ffa0bf:节日物品]
+		[c/2ea395:M][c/36a382:y][c/47a36c:t][c/5da056:h][c/749c40:i][c/8c972c:c][c/a58e1f:a][c/bd8420:l] [c/d4762d:I][c/e76542:t][c/f6535c:e][c/ff427b:m]
+		'''
+	DisplayName: 被诅咒的南瓜
+}
+
+MartianCore: {
+	Tooltip:
+		'''
+		伤害提高50%，但暴击率降低100%
+		[c/ff9d00:传说物品]
+		'''
+	DisplayName: 火星核心
+}
+
+FrostMachine: {
+	Tooltip:
+		'''
+		蓄力1.5秒以发射一颗缓慢移动的冰球
+		冰球在存活期间会定期生成微型雪花
+		[c/ff9d00:传说物品]
+		'''
+	DisplayName: 霜冻机器
+}
+
+FrozenMachine: {
+	Tooltip:
+		'''
+		蓄力1.5秒以发射一颗缓慢移动的冰球
+		冰球在飞行途中会定期生成微型雪花
+		'''
+	DisplayName: 冰冻机器
+}
+
+OrnamentsOfDoom: {
+	Tooltip:
+		'''
+		快速发射致命装饰，可在方块上弹跳
+		每发射25次触发3秒冷却
+		[c/ff9d00:传说物品]
+		'''
+	DisplayName: 厄运装饰
+}
+
+FlamingWoodKunai: {
+	Tooltip:
+		'''
+		快速发射烈焰木苦无，命中时产生炽热火花的特效
+		每发射25次触发3秒冷却
+		[c/ff9d00:传说物品]
+		'''
+	DisplayName: 烈焰木苦无
+}
+
+PumpkinCore2: {
+	Tooltip:
+		'''
+		一个小型悠悠球
+		旋转时会在悠悠球周围生成蝙蝠
+		右键点击物品以启用方块摧毁
+		[c/ff9d00:传说物品]
+		'''
+	DisplayName: 南瓜核心
+}
+
+PumpkinCore: {
+	Tooltip:
+		'''
+		一个小型悠悠球
+		可以摧毁除丛林蜥蜴砖、丛林蜥蜴祭坛、平台和火把以外的所有方块
+		旋转时会在悠悠球周围生成蝙蝠
+		右键点击物品以禁用方块摧毁
+		[c/ff9d00:传说物品]
+		'''
+	DisplayName: 南瓜核心（毁灭）
+}
+
+ExplosiveHoliday: {
+	Tooltip:
+		'''
+		发射一连串摧毁方块的导弹
+		“可能是许多不幸节日的罪魁祸首”
+		[c/a0a0a0:无职业物品]
+		[c/ff9d00:传说物品]
+		'''
+	DisplayName: 爆炸节日
+}
+
+ChlorophyteTranquilizer: {
+	Tooltip:
+		'''
+		冷却时间0.5秒
+		发射一支飞镖，短暂眩晕敌人，并有13%几率获得魔力应激
+		魔力应激使所有镇静剂的伤害翻倍
+		飞镖命中敌人时恢复50点魔力和25点生命值
+		'''
+	DisplayName: 叶绿镇静剂
+}
+
+ThornyMace: {
+	Tooltip:
+		'''
+		向附近的敌人发射荆棘
+		投掷链锤以发射弹射物
+		'''
+	DisplayName: 荆棘链锤
+}
+
+BattleCape: {
+	Tooltip:
+		'''
+		感谢下载我的模组，希望你喜欢！
+		[c/09ff00:开发者物品]
+		'''
+	DisplayName: 战斗披风
+}
+
+ShadowflameBullet: {
+	Tooltip: 在界域之间传送
+	DisplayName: 影焰子弹
+}
+
+TreeCannon: {
+	Tooltip:
+		'''
+		33%几率节省弹药
+		使用橡果作为弹药
+		发射三颗橡果，橡果死亡时生成树叶
+		橡果命中敌人时施加生长减益
+		生长使敌人快速受到持续伤害
+		生长使所有原版丛林敌人受到额外伤害
+		'''
+	DisplayName: 树木加农炮
+}
+
+NegativeDagger: {
+	Tooltip:
+		'''
+		手持匕首攻击3秒后给予玩家负极之力减益
+		负极之力减益使近战伤害降低300%，近战速度降低25%，暴击率降低10%
+		在鼠标位置生成追踪负极螺栓
+		每次使用随机化属性
+		'''
+	DisplayName: 负极匕首
+}
+
+Trash: {
+	Tooltip: 用作垃圾收集器的弹药
+	DisplayName: 垃圾
+}
+
+TrashCollector: {
+	Tooltip:
+		'''
+		使用垃圾作为弹药
+		每次使用随机化属性
+		[c/a0a0a0:无职业物品]
+		'''
+	DisplayName: 垃圾收集器
+}
+
+OnyxCannon: {
+	Tooltip:
+		'''
+		使用凝胶作为弹药
+		喷出影焰油液，使火焰减益造成更高的持续伤害
+		偶尔额外发射黑曜石爆弹
+		'''
+	DisplayName: 黑曜石加农炮
+}
+
+FallenJudgesCrown: {
+	Tooltip: "[c/00fff7:贡献者物品]"
+	DisplayName: 堕落审判官之冠
+}
+
+TotemOfLife: {
+	Tooltip:
+		'''
+		手持时若濒临死亡，图腾会治疗玩家
+		此治疗有2分钟的冷却时间
+		'''
+	DisplayName: 生命图腾
+}
+
+FieryDoom: {
+	Tooltip:
+		'''
+		玩家在空中时，剑必定造成暴击
+		命中时击退玩家，死亡时喷出火焰
+		'''
+	DisplayName: 烈焰末日
+}
+
+GhostBelcher: {
+	Tooltip:
+		'''
+		使用凝胶作为弹药
+		喷出幽灵寒气，寒气会发射追踪幽灵
+		这两种弹射物都能穿透墙壁
+		'你打算叫谁来？'
+		'''
+	DisplayName: 幽灵喷吐者
+}
+
+Waxer: {
+	Tooltip:
+		'''
+		使用凝胶作为弹药
+		喷出蜂蜜气体，手持时给予硬化蜂蜜增益
+		'''
+	DisplayName: 蜂蜡喷射器
+}
+
+SkullSpewer: {
+	Tooltip:
+		'''
+		使用凝胶作为弹药
+		喷出骨息，骨息会发射追踪骷髅
+		'''
+	DisplayName: 骷髅喷射器
+}
+
+MeteorSpewer: {
+	Tooltip:
+		'''
+		使用凝胶作为弹药
+		喷出命中敌人时爆炸的陨石气体
+		'''
+	DisplayName: 陨石喷射器
+}
+
+GasSpewer: {
+	Tooltip:
+		'''
+		使用凝胶作为弹药
+		喷出施加中毒的毒气
+		'''
+	DisplayName: 毒气喷射器
+}
+
+PeaceKeeper: {
+	Tooltip:
+		'''
+		玩家在空中时，剑必定造成暴击
+		命中时击退玩家，死亡时额外射出一把刀片
+		'''
+	DisplayName: 和平守护者
+}
+
+SeveredIchorSticker: {
+	Tooltip:
+		'''
+		使用凝胶作为弹药
+		喷出施加灵液的灵液火焰
+		每射击5次发射一颗灵液火球
+		'''
+	DisplayName: 断肢灵液黏附者
+}
+
+SeveredClinger: {
+	Tooltip:
+		'''
+		使用凝胶作为弹药
+		喷出施加诅咒地狱的诅咒火焰
+		每射击5次发射一颗诅咒火球
+		'''
+	DisplayName: 断肢攀附者
+}
+
+ShadowflameCandle: {
+	Tooltip:
+		'''
+		使用凝胶作为弹药
+		喷出多种火焰，施加多种减益
+		'''
+	DisplayName: 影焰蜡烛
+}
+
+Shadowflame: {
+	DisplayName: 暗影焰
+	Tooltip: “一种被哥布林术士用于魔法的魔法火焰”
+}
+
+BloodflameSpewer: {
+	Tooltip:
+		'''
+		使用凝胶作为弹药
+		喷出命中时治疗玩家的血焰
+		以不精准的散射方式额外喷出火焰
+		'''
+	DisplayName: 血焰喷射器
+}
+
+Oiler: {
+	Tooltip:
+		'''
+		使用凝胶作为弹药
+		喷出油液，使火焰减益造成更高的持续伤害
+		偶尔额外喷出火焰
+		'''
+	DisplayName: 喷油器
+}
+
+Railgun: {
+	Tooltip:
+		'''
+		发射一道强大的穿透激光束
+		光束会恢复魔力，并在数秒后消散
+		'''
+	DisplayName: 电磁炮
+}
+
+CataclysmicRay: {
+	Tooltip:
+		'''
+		施放恶魔触手，造成持续伤害
+		给予玩家书虫增益
+		书虫提高防御力、生命回复和魔力回复
+		[c/FF8C55:灾][c/BA663E:变][c/85492C:射][c/754027:线][c/472718:之][c/331C11:物] [c/21120B:恶][c/47000B:魔][c/63000F:之][c/880015:物]
+		'''
+	DisplayName: 灾变射线
+}
+
+SWATShield: {
+	Tooltip:
+		'''
+		召唤一支特警队，朝光标方向射击
+		特警队造成接触伤害和召唤伤害
+		'''
+	DisplayName: 特警盾
+}
+
+BulletShield: {
+	Tooltip: ""
+	DisplayName: 子弹盾
+}
+
+Tranquilizer: {
+	Tooltip:
+		'''
+		冷却时间0.5秒
+		发射一支飞镖，短暂眩晕敌人，并有13%几率获得魔力应激
+		魔力应激使所有镇静剂的伤害翻倍
+		飞镖命中敌人时恢复50点魔力
+		'''
+	DisplayName: 镇静剂
+}
+
+PotionMess: {
+	Tooltip:
+		'''
+		略微提高幸运值
+		随机给予一个增益或减益
+		增益/减益效果取决于给予所需的时间
+		[c/2ea395:神][c/36a382:秘][c/47a36c:混][c/5da056:乱][c/749c40:药][c/8c972c:水][c/a58e1f:物][c/bd8420:品]
+		'''
+	DisplayName: 药水混乱
+}
+
+NaturesRevenge: {
+	Tooltip:
+		'''
+		发射一阵复仇的树叶和种子风暴
+		复仇树叶施加自然诅咒减益，持续7秒
+		自然诅咒有几率施加酸液毒液，并提高中毒减益的效果
+		给予玩家德鲁伊之力，攻击时在玩家周围生成毒环
+		[c/a0a0a0:无职业物品]
+		[c/ff9d00:传说物品]
+		'''
+	DisplayName: 自然复仇
+}
+
+TuskSword: {
+	Tooltip:
+		'''
+		偶尔朝光标方向发射猪鲨鱼头
+		猪鲨鱼头会短暂附着在敌人身上
+		[c/ff9d00:传说物品]
+		'''
+	DisplayName: 獠牙剑
+}
+
+DroneRemote: {
+	Tooltip:
+		'''
+		手持遥控器时给予玩家火箭动力增益
+		火箭动力增益大幅提高移动速度
+		发射一架无人机，飞行途中持续发射子弹
+		无人机本身可穿透敌人，死亡时会爆炸
+		'''
+	DisplayName: 无人机遥控器
+}
+
+LunarticMask: {
+	Tooltip:
+		'''
+		发射闪烁的星星，星星会生成小型追踪星星
+		[c/ff9d00:传说物品]
+		'''
+	DisplayName: 月狂面具
+}
+
+SparkCell: {
+	Tooltip:
+		'''
+		有几率在目标周围生成8只恶灵
+		[c/ff9d00:传说物品]
+		'''
+	DisplayName: 火花电池
+}
+
+SinnersAmbition: {
+	Tooltip:
+		'''
+		以四连发模式发射三颗子弹
+		将普通子弹转化为命中时爆炸的弹射激光
+		右键旋转枪械，提升远程属性
+		'V2永远做不到'
+		[c/00fff7:贡献者物品]
+		[c/09ff00:开发者物品]
+		'''
+	DisplayName: 罪人野心
+}
+
+EtherealEmblem: {
+	Tooltip:
+		'''
+		暴击率提高10%
+		攻击伤害和速度提高15%
+		[c/ff9d00:传说物品]
+		'''
+	DisplayName: 虚灵徽章
+}
+
+BetsysCore: {
+	Tooltip:
+		'''
+		暴击率提高100%，但伤害降低50%
+		[c/ff9d00:传说物品]
+		'''
+	DisplayName: 双足翼龙核心
+}
+
+RoyalDevotion: {
+	Tooltip:
+		'''
+		最大哨兵和最大仆从数量各增加1
+		近战速度和远程伤害提高10%
+		最大魔力值增加20
+		[c/ff9d00:传说物品]
+		'''
+	DisplayName: 皇家奉献
+}
+
+LaserGun: {
+	Tooltip:
+		'''
+		发射穿透激光，施加电击减益，持续7秒
+		电击有几率施加感电效果，造成更高伤害并减速目标
+		[c/ff9d00:传说物品]
+		'''
+	DisplayName: 激光枪
+}
+
+PrimeSaw: {
+	Tooltip:
+		'''
+		用电锯击中敌人时会生成额外的刀片
+		此外，暴击命中敌人会治疗玩家并施加开膛破肚减益
+		开膛破肚会使敌人快速受到持续伤害
+		'砍倒敌人的绝佳利器'
+		[c/ff9d00:传说物品]
+		'''
+	DisplayName: 至尊电锯
+}
+
+RedDrone: {
+	Tooltip:
+		'''
+		30%几率节省弹药
+		将普通子弹转化为爆炸子弹
+		可右键点击切换为绿色无人机
+		'太——空——了——！'
+		[c/ff9d00:传说物品]
+		'''
+	DisplayName: 红色无人机
+}
+
+GreenDrone: {
+	Tooltip:
+		'''
+		30%几率节省弹药
+		将普通子弹转化为诅咒子弹
+		可右键点击切换为红色无人机
+		'太——空——了——！'
+		[c/ff9d00:传说物品]
+		'''
+	DisplayName: 绿色无人机
+}
+
+MeatShield: {
+	Tooltip:
+		'''
+		生成一个太阳耀斑光环，使光环内的敌人陷入破晓状态
+		光环内所有原版恶魔类敌人受到双倍伤害
+		允许玩家向所有方向冲刺
+		提高生命恢复速度，并赋予击退免疫
+		敌人更有可能以你为目标
+		[c/ff9d00:传奇物品]
+		'''
+	DisplayName: 血肉盾牌
+}
+
+CursedKey: {
+	UsesXSoul: Mods.BetterClasses.Items.CursedKey.UsesXSoul
+	Tooltip:
+		'''
+		消耗2点灵魂
+		5点召唤标记伤害
+		消耗骨粉作为弹药
+		你的召唤物将集火命中的敌人
+		召唤幽灵龙，追踪敌人并在命中时减速
+		[c/ff9d00:传奇物品]
+		'''
+	DisplayName: 诅咒钥匙
+}
+
+SlimeSpewer: {
+	Tooltip:
+		'''
+		消耗凝胶作为弹药
+		发射粘性凝胶，造成眩晕
+		粘性凝胶具有弱追踪能力
+		[c/ff9d00:传奇物品]
+		'''
+	DisplayName: 史莱姆喷吐者
+}
+
+HoneyDew: {
+	RestoreLifeText: "120"
+	Tooltip:
+		'''
+		不可消耗
+		[c/ff9d00:传奇物品]
+		'''
+	DisplayName: 蜜露
+}
+
+WormPike: {
+	Tooltip:
+		'''
+		发射追踪吞噬者
+		[c/ff9d00:传奇物品]
+		'''
+	DisplayName: 蠕虫长矛
+}
+
+BloodyKnives: {
+	Tooltip:
+		'''
+		以缓慢的连射方式发射偷取生命的小刀
+		[c/ff9d00:传奇物品]
+		'''
+	DisplayName: 血腥小刀
+}
+
+AllSeeingEye: {
+	Tooltip:
+		'''
+		召唤追踪眼球，有几率恢复生命
+		追踪眼球命中时使仆从集火敌人
+		[c/ff9d00:传奇物品]
+		'''
+	DisplayName: 全视之眼
+}
+
+LightBelt: {
+	Tooltip:
+		'''
+		敌人不太可能以你为目标
+		移动速度提高，近战速度提高10%
+		'''
+	DisplayName: 光明腰带
+}
+
+DarkenedLight: {
+	Tooltip:
+		'''
+		移动速度提高，近战速度提高15%
+		跳跃速度提高，近战伤害提高15%
+		'''
+	DisplayName: 暗化之光
+}
+
+BandOfDarkness: {
+	Tooltip:
+		'''
+		敌人更有可能以你为目标
+		跳跃速度提高，近战伤害提高10%
+		'''
+	DisplayName: 黑暗之环
+}
+
+ShadowSlap: {
+	Tooltip:
+		'''
+		手持匕首攻击3秒时，赋予玩家暗影打击增益
+		暗影打击增益使野蛮近战伤害翻倍，暴击率提高30%，近战速度略微提高，防御力提高10
+		近战命中时施加暗影焰
+		'''
+	DisplayName: 暗影拍击
+}
+
+SpikedDoll: {
+	UsesXSoul: Mods.BetterClasses.Items.SpikedDoll.UsesXSoul
+	Tooltip:
+		'''
+		消耗13点灵魂
+		以随机角度发射一阵弹射箭矢风暴
+		冷却时间3秒
+		“拥有足够的尖刺，足以给任何人带来一万倍的伤害”
+		'''
+	DisplayName: 尖刺人偶
+}
+
+LightShow: {
+	Tooltip:
+		'''
+		发射一道穿透物块并造成持续伤害的小型光束
+		手持匕首3秒不攻击时，赋予玩家棱彩之力增益
+		棱彩之力增益使野蛮近战伤害翻倍，生命恢复速度提高5，但防御力减半
+		近战命中使敌人掉落更多金币，并有几率生成追踪星星
+		'''
+	DisplayName: 光影秀
+}
+
+LihzahrdianDagger: {
+	Tooltip:
+		'''
+		手持匕首攻击3秒时，赋予玩家守护防御增益
+		守护防御增益使野蛮近战伤害提高50%，防御力翻倍，但生命恢复速度降为0
+		近战命中使敌人困惑，并有几率在敌人脚下发射巨石
+		'''
+	DisplayName: 丛林蜥蜴匕首
+}
+
+SpiritDoll: {
+	UsesXSoul: Mods.BetterClasses.Items.SpiritDoll.UsesXSoul
+	Tooltip:
+		'''
+		消耗10点灵魂
+		以随机角度发射一阵追踪幽魂箭
+		冷却时间2.25秒
+		“它散发出一种恐惧感”
+		'''
+	DisplayName: 幽灵人偶
+}
+
+WinterDagger: {
+	Tooltip:
+		'''
+		发射一根短距离冰锥
+		手持匕首3秒不攻击时，赋予玩家冰霜之力增益
+		冰霜之力增益使近战伤害提高五倍，暴击率提高20%，但失去所有防御力
+		获得冰霜之力增益时，在玩家周围发射北极矛
+		近战命中使敌人减速
+		'''
+	DisplayName: 寒冬匕首
+}
+
+SuspiciousDoll: {
+	UsesXSoul: Mods.BetterClasses.Items.SuspiciousDoll.UsesXSoul
+	Tooltip:
+		'''
+		消耗10点灵魂
+		以随机角度发射一阵追踪箭
+		冷却时间2.5秒
+		“看起来很眼熟...”
+		[c/00fff7:贡献者物品]
+		'''
+	DisplayName: 可疑人偶
+}
+
+CorrodedDagger: {
+	Tooltip:
+		'''
+		一把严重损坏且生锈的匕首
+		在白天使用时，召唤暗影盗贼NPC
+		'''
+	DisplayName: 腐蚀匕首
+}
+
+FrostbittenDagger: {
+	Tooltip:
+		'''
+		发射一根短距离冰锥
+		手持匕首3秒不攻击时，赋予玩家冰霜之力增益
+		冰霜之力增益使近战伤害提高五倍，暴击率提高20%，但失去所有防御力
+		近战命中使敌人减速
+		'''
+	DisplayName: 霜冻匕首
+}
+
+StrategyEmblem: {
+	DisplayName: 战术徽章
+	Tooltip:
+		'''
+		战术远程伤害提高30%
+		远程伤害降低15%
+		'''
+}
+
+AutomaticWhipCracker: {
+	DisplayName: 自动鞭击器
+	Tooltip:
+		'''
+		3点召唤标记伤害
+		使用物品时，会定期向光标方向额外挥动一条鞭子
+		鞭子范围随武器弹速提升
+		'''
+}
+
+AutomaticWhipCrackerMk2: {
+	DisplayName: 自动鞭击器Mk2
+	Tooltip:
+		'''
+		5点召唤标记伤害
+		使用物品时，会定期向光标方向额外挥动一条鞭子
+		鞭子范围随武器弹速提升
+		'''
+}
+
+AvengerCuffs: {
+	DisplayName: 复仇者护腕
+	Tooltip:
+		'''
+		增加魔力星的拾取范围
+		魔法伤害提高12%
+		魔法暴击率提高8%
+		'''
+}
+
+AxeOfTheAbyss: {
+	DisplayName: 深渊之斧
+	Tooltip:
+		'''
+		又名AOTA
+		发射可追踪敌人的旋转深渊之斧
+		可以击倒大多数Boss
+		[c/871b28:作弊物品]
+		[c/00fff7:贡献者物品]
+		'''
+}
+
+BasicBolt: {
+	DisplayName: 基础箭矢
+	Tooltip: 具有非常弱的穿透力
+}
+
+BattleBlade: {
+	DisplayName: 战斗之刃
+	Tooltip:
+		'''
+		挥动一把强大的旋转战斗之刃
+		击中敌人会生成追踪的绿色火球
+		[c/09ff00:开发者物品]
+		'''
+}
+
+BattleBoots: {
+	DisplayName: 战斗靴
+	Tooltip:
+		'''
+		感谢下载我的模组，希望你喜欢！
+		[c/09ff00:开发者物品]
+		'''
+}
+
+BattleChestplate: {
+	DisplayName: 战斗胸甲
+	Tooltip:
+		'''
+		感谢下载我的模组，希望你喜欢！
+		[c/09ff00:开发者物品]
+		'''
+}
+
+BattleGuy: {
+	DisplayName: 战斗者
+	Tooltip:
+		'''
+		感谢下载我的模组，希望你喜欢！
+		[c/09ff00:开发者物品]
+		'''
+}
+
+BattleMask: {
+	DisplayName: 战斗面具
+	Tooltip:
+		'''
+		感谢下载我的模组，希望你喜欢！
+		[c/09ff00:开发者物品]
+		'''
+}
+
+BattleGoggles: {
+	DisplayName: 战斗护目镜
+	Tooltip:
+		'''
+		感谢下载我的模组，希望你喜欢！
+		[c/09ff00:开发者物品]
+		'''
+}
+
+BeeArrow: {
+	DisplayName: 蜜蜂箭
+	Tooltip: “'不要蜜蜂！'”
+}
+
+BeeBolt: {
+	DisplayName: 蜜蜂箭矢
+	Tooltip:
+		'''
+		具有较弱的穿透力
+		击中敌人时生成一只巨型蜜蜂
+		'''
+}
+
+BiomeMorph: {
+	DisplayName: 生物群系变形者
+	Tooltip:
+		'''
+		发射各种与生物群系相关的悠悠球
+		借助泰拉瑞亚部分生物群系的力量为你而战
+		'''
+}
+
+BlazingSun: {
+	DisplayName: 炽烈太阳
+	Tooltip:
+		'''
+		击中敌人时生成一道火焰鞭
+		[c/ff9d00:传奇物品]
+		[c/00fff7:贡献者物品]
+		'''
+}
+
+BlockyCrossbow: {
+	DisplayName: 方块弩
+	Tooltip:
+		'''
+		发射爆炸后消失的烟花
+		伤害和生命恢复速度随Boss进度提升
+		'哎呀，老兄'
+		[c/2ea395:M][c/36a382:y][c/47a36c:t][c/5da056:h][c/749c40:i][c/8c972c:c][c/a58e1f:a][c/bd8420:l] [c/d4762d:I][c/e76542:t][c/f6535c:e][c/ff427b:m]
+		'''
+}
+
+BlueRomanCandle: {
+	DisplayName: 蓝色罗马焰火筒
+	Tooltip: 发射蓝色追踪火焰
+}
+
+BlueZapinator: {
+	DisplayName: 蓝色冲击枪
+	Tooltip: “'它可能坏了'”
+}
+
+BoneBreaker: {
+	DisplayName: 碎骨者
+	Tooltip: 挥出巨大的斩击，命中时有几率眩晕敌人
+}
+
+BoneBlade: {
+	DisplayName: 骨刃
+	Tooltip: 挥出小型斩击，命中时有几率眩晕敌人
+}
+
+BoneDart: {
+	DisplayName: 骨制飞镖
+	Tooltip:
+		'''
+		可穿透最多两个敌人，并在方块上弹跳
+		每发射两次，额外发射一根骨头
+		'''
+}
+
+BouncyBolt: {
+	DisplayName: 弹力箭矢
+	Tooltip:
+		'''
+		具有较弱的穿透力
+		可以在方块上弹跳
+		'''
+}
+
+Brick: {
+	DisplayName: 砖块
+	Tooltip: “'嘿，沃森，煤渣砖！'”
+}
+
+BrokenFlail: {
+	DisplayName: 破损连枷
+	Tooltip: 用作连枷的基础材料
+}
+
+BulletBlaster: {
+	DisplayName: 子弹爆破者
+	Tooltip:
+		'''
+		25%几率节省弹药
+		有10%几率发射一颗造成双倍伤害的大型子弹
+		'''
+}
+
+BulletCannon: {
+	DisplayName: 子弹加农炮
+	Tooltip:
+		'''
+		每次射击发射2至3发子弹，并使远程攻击速度提高5%
+		远程攻速增益上限为7秒
+		每射击25次，进入1.5秒冷却
+		'''
+}
+
+AssaultEmblem: {
+	DisplayName: 突击徽章
+	Tooltip:
+		'''
+		远程伤害提高30%
+		战术远程伤害降低15%
+		'''
+}
+
+PineNeedler: {
+	DisplayName: 松针发射器
+	Tooltip:
+		'''
+		以两发点射模式发射两颗子弹
+		将子弹转化为致命的圣诞树，在飞行途中发射锋利的松针
+		'你的敌人肯定会感受到痛苦！'
+		[c/ffa0bf:节日物品]
+		'''
+}
+
+CardOfCompanionship: {
+	DisplayName: 陪伴之卡
+	Tooltip:
+		'''
+		每个活跃的仆从使仆从伤害提高10%，但最大仆从数量减半
+		此效果对5个活跃仆从生效
+		右键点击此物品可切换为拥挤之卡
+		'有时少即是多'
+		'''
+}
+
+Catlauncher: {
+	DisplayName: 猫咪发射器
+	Tooltip:
+		'''
+		发射追踪敌人的Nyan猫，击中敌人时生成追踪的彩虹螺栓
+		Nyan猫击中敌人时有几率恢复魔力
+		'为什么我表哥会要求这个...'
+		[c/00fff7:贡献者物品]
+		[c/b225e6:微光物品]
+		'''
+}
+
+ChainedMimic: {
+	DisplayName: 锁链宝箱怪
+	Tooltip:
+		'''
+		手持时增加运气
+		缠住敌人并在命中时施加迈达斯效果
+		对所有原版稀有类敌人造成额外伤害
+		[c/FF8C55:E][c/BA663E:x][c/85492C:o][c/754027:t][c/472718:i][c/331C11:c] [c/21120B:I][c/47000B:t][c/63000F:e][c/880015:m]
+		'''
+}
+
+ChainedWhip: {
+	DisplayName: 锁链鞭
+	Tooltip:
+		'''
+		8点召唤标记伤害
+		在短距离内挥动3条锁链鞭
+		'''
+}
+
+ChaosFlail: {
+	DisplayName: 混沌连枷
+	Tooltip:
+		'''
+		在随机种类的连枷之间切换
+		投掷连枷以发射弹射物
+		每次使用随机化属性
+		'''
+}
+
+ChaosStorm: {
+	DisplayName: 混沌风暴
+	Tooltip:
+		'''
+		发射随机种类的箭矢或子弹
+		每次使用随机化属性
+		'所以，不管怎样，我开始扫射了！'
+		'''
+}
+
+ChaosWhip: {
+	DisplayName: 混沌鞭
+	Tooltip:
+		'''
+		???点召唤标记伤害
+		挥出随机种类的鞭子
+		有几率额外挥出鞭子
+		每次使用随机化属性
+		'啪，噼啪，砰！'
+		'''
+}
+
+ChargeShot: {
+	DisplayName: 蓝色蓄力射击
+	Tooltip:
+		'''
+		使用25纳米机器人作为弹药
+		蓄力发射一道造成巨大伤害的精准光束
+		完全充能后，光束将持续2秒后消失
+		'不，你不能用它来操纵物质'
+		'''
+}
+
+CoiledSerpent: {
+	DisplayName: 盘绕之蛇
+	Tooltip:
+		'''
+		13点召唤标记伤害
+		挥动2条盘绕之蛇
+		击中敌人时有几率发射自然弹射物
+		击中敌人时获得蛇之祝福增益
+		蛇之祝福提高鞭子速度、召唤伤害和移动速度
+		'据说这条蛇只祝福那些值得的人'
+		'''
+}
+
+CommanderEmblem: {
+	DisplayName: 指挥官徽章
+	Tooltip: 召唤伤害提高8%
+}
+
+CommandersMagic: {
+	DisplayName: 指挥官的魔法
+	Tooltip:
+		'''
+		右键点击进行冥想，获得无限魔力并略微提高魔法伤害
+		'我要发射我的激光了'
+		'''
+}
+
+CosmicWhip: {
+	DisplayName: 宇宙鞭
+	Tooltip:
+		'''
+		15点召唤标记伤害
+		在大范围内挥动10条宇宙鞭
+		鞭子抽响时向光标方向发射月之螺栓
+		击中敌人时获得宇宙之力增益
+		宇宙之力提升你的攻击和防御属性
+		'以宇宙生物的力量挥动'
+		'''
+}
+
+CrimtaneWhip: {
+	DisplayName: 猩红矿鞭
+	Tooltip:
+		'''
+		5点召唤标记伤害
+		击中敌人时恢复生命值
+		'''
+}
+
+CrystalGauntlet: {
+	DisplayName: 水晶护手
+	Tooltip:
+		'''
+		命中时施加火焰和霜冻
+		近战伤害和速度提高17%
+		'''
+}
+
+CrystalizedWandOfSparkle: {
+	DisplayName: 水晶化闪光魔杖
+	Tooltip:
+		'''
+		召唤迷你吞噬者、星星、水晶螺栓和流星雨来摧毁你的敌人！
+		相信我，它的伤害比看起来高得多！
+		'''
+}
+
+CrystalShield: {
+	DisplayName: 水晶盾
+	Tooltip:
+		'''
+		生成一道太阳耀斑环，使环内敌人陷入破晓状态
+		环内所有原版恶魔类敌人受到双倍伤害
+		免疫击退和火焰方块
+		提高生命恢复速度，并将治疗药水冷却时间缩短25%
+		免疫大多数减益效果
+		生命值上限提高50
+		敌人更有可能以你为目标
+		允许玩家向所有方向冲刺
+		所有盾牌力量的结合
+		[c/ff9d00:传奇物品]
+		'''
+}
+
+CupidsBow: {
+	DisplayName: 丘比特之弓
+	Tooltip:
+		'''
+		将木箭转化为丘比特之箭，命中时为你恢复生命/魔力
+		叠加远程攻击速度，每射击15次后进入1秒冷却
+		爱情之力提升生命恢复和远程攻击速度
+		[c/ffa0bf:节日物品]
+		'''
+}
+
+DeadlyCane: {
+	DisplayName: 致命手杖
+	Tooltip:
+		'''
+		发射糖果弩箭，命中敌人时有几率恢复魔力并获得糖果冲刺
+		糖果冲刺提升生命和魔力恢复
+		'节日快乐！'
+		[c/ffa0bf:节日物品]
+		'''
+}
+
+DeathsBreath: {
+	DisplayName: 死亡之息
+	Tooltip:
+		'''
+		不可消耗
+		投掷净化的死亡之息，死亡时为你恢复生命
+		瓶子还会在身后留下一串气泡轨迹
+		'好吧，你绝对需要一颗薄荷糖'
+		'''
+}
+
+DemoniteWhip: {
+	DisplayName: 魔矿鞭
+	Tooltip:
+		'''
+		5点召唤标记伤害
+		命中敌人时恢复魔力
+		'''
+}
+
+DiamondSword: {
+	DisplayName: 钻石剑
+	Tooltip:
+		'''
+		玩家在空中时剑始终造成暴击
+		命中时会将玩家向后击退
+		'它奇怪地带有异界气息'
+		[c/6d006f:玩笑物品]
+		'''
+}
+
+DoomCane: {
+	DisplayName: 末日手杖
+	Tooltip:
+		'''
+		发射糖果弩箭，命中敌人时有几率恢复魔力并获得末日冲刺
+		末日冲刺提升生命和魔力恢复
+		'节日快乐！'
+		[c/ffa0bf:节日物品]
+		'''
+}
+
+DoomCannon: {
+	DisplayName: 末日加农炮
+	Tooltip:
+		'''
+		将普通子弹转化为毒液子弹
+		'他们唯一恐惧的就是你……'
+		'''
+}
+
+DragonArrow: {
+	DisplayName: 龙箭
+	Tooltip: 命中敌人时生成更多箭矢
+}
+
+DragonBullet: {
+	DisplayName: 龙弹
+	Tooltip: 施加大量减益效果
+}
+
+DragonsBreath: {
+	DisplayName: 龙之吐息
+	Tooltip:
+		'''
+		不可消耗
+		投掷净化的龙之吐息，死亡时为你恢复生命
+		瓶子还会在身后留下一串气泡轨迹
+		'需要薄荷糖吗？'
+		'''
+}
+
+DrumShotgun: {
+	DisplayName: 鼓式霰弹枪
+	Tooltip:
+		'''
+		将普通子弹转化为爆炸子弹
+		每射击3次发射一枚手榴弹
+		'你的敌人将受到审判'
+		'''
+}
+
+DustBolt: {
+	DisplayName: 尘爆矢
+	Tooltip:
+		'''
+		拥有良好的穿透力
+		可以在方块上弹跳
+		命中敌人时生成骨叉
+		'''
+}
+
+Earthquake: {
+	DisplayName: 地震
+	Tooltip:
+		'''
+		左键挥动连枷组合，向敌人发射大量弹幕
+		发射不同类型的流星，每种流星为你和敌人提供不同的增益和减益
+		赋予玩家以下属性提升：伤害、生命和防御
+		相信我，它'完美平衡'
+		'''
+}
+
+ElectricEel: {
+	DisplayName: 电鳗
+	Tooltip:
+		'''
+		9点召唤标记伤害
+		有几率电击敌人
+		[c/3F00FF:钓鱼物品]
+		'''
+}
+
+ElementalYoyo: {
+	DisplayName: 元素悠悠球
+	Tooltip: 命中敌人时生成生物群系弹幕
+}
+
+EnergyYoyo: {
+	DisplayName: 能量悠悠球
+	Tooltip:
+		'''
+		发射所有元素悠悠球
+		'让泰拉瑞亚的全部能量为你所用'
+		'''
+}
+
+Evenpulse: {
+	DisplayName: 均衡脉冲
+	Tooltip:
+		'''
+		将木箭转化为均衡脉冲箭，命中敌人时分裂为三枚追踪闪光
+		均衡脉冲箭不受重力影响
+		额外发射3支暮光长枪
+		'''
+}
+
+ExplosiveBolt: {
+	DisplayName: 爆炸弩箭
+	Tooltip:
+		'''
+		拥有不错的穿透力
+		接触敌人时爆炸
+		'''
+}
+
+ExtendedCandle: {
+	DisplayName: 延长蜡烛
+	Tooltip:
+		'''
+		使用凝胶作为弹药
+		发射贝特西火球
+		'''
+}
+
+ExtraThornyWandOfSparkle: {
+	DisplayName: 超级多刺闪光魔杖
+	Tooltip:
+		'''
+		召唤腐化者、星星、水晶箭、流星、树叶和黄蜂来毁灭你的敌人！
+		相信我，它的伤害比看起来高得多！
+		'''
+}
+
+FlameBullet: {
+	DisplayName: 火焰弹
+	Tooltip: 施加着火效果
+}
+
+FlameMini: {
+	DisplayName: 火焰迷你枪
+	Tooltip:
+		'''
+		使用凝胶作为弹药
+		发射弹跳火球
+		'''
+}
+
+FlameMissile: {
+	DisplayName: 火焰导弹
+	Tooltip: 蕴含水与火的力量！
+}
+
+FlyingFish: {
+	DisplayName: 飞鱼
+	Tooltip:
+		'''
+		将箭矢转化为猪鲨箭
+		猪鲨箭命中敌人时生成成群追踪箭，并在方块上弹跳
+		'''
+}
+
+ForceEmblem: {
+	DisplayName: 力量徽章
+	Tooltip:
+		'''
+		魔力恢复减少3
+		最大魔力减少40
+		魔法伤害和魔力消耗增加30%
+		'''
+}
+
+FossilRod: {
+	DisplayName: 化石法杖
+	Tooltip: 发射闪电和化石箭
+}
+
+FrostBullet: {
+	DisplayName: 霜冻弹
+	Tooltip: 施加霜烧效果
+}
+
+FrostGauntlet: {
+	DisplayName: 霜冻拳套
+	Tooltip:
+		'''
+		命中时施加着火和霜烧效果
+		近战伤害和速度提升15%
+		'''
+}
+
+FrostStorm: {
+	DisplayName: 霜暴
+	Tooltip:
+		'''
+		有8%几率发射三枚冰箭
+		'它们超棒的！'
+		[c/ff9d00:传说物品]
+		'''
+}
+
+FrozenHeroShield: {
+	DisplayName: 冰冻英雄盾
+	Tooltip:
+		'''
+		免疫击退
+		赋予玩家荆棘效果，并将治疗药水冷却时间减少25%
+		敌人更倾向于攻击你
+		'''
+}
+
+FryingPan: {
+	DisplayName: 平底锅
+	Tooltip:
+		'''
+		随机发射培根或鸡蛋
+		用锅本身命中敌人时施加混乱效果
+		伤害和攻击速度随Boss进度提升
+		[c/2ea395:我][c/36a382:的][c/47a36c:混][c/5da056:合][c/749c40:物][c/8c972c:品][c/a58e1f:！]
+		'''
+}
+
+Funeral: {
+	DisplayName: 葬礼
+	Tooltip:
+		'''
+		左键使用近距爆炸性熔岩光束攻击
+		右键使用远距爆炸性流星攻击
+		'你的敌人必将迎来末日！'
+		[c/ff9d00:传说物品]
+		'''
+}
+
+FungalSpell: {
+	DisplayName: 真菌法术
+	Tooltip:
+		'''
+		有10%几率额外发射五颗蘑菇
+		'千万别吃它'
+		'''
+}
+
+FuryEmblem: {
+	DisplayName: 狂怒徽章
+	Tooltip:
+		'''
+		近战速度提升30%
+		近战伤害减少30%
+		'''
+}
+
+GlassCannon: {
+	DisplayName: 玻璃加农炮
+	Tooltip:
+		'''
+		按住左键蓄力强大的光束
+		蓄力达到5秒后准备发射
+		将最大生命设为200，防御设为0
+		'脆弱而致命'
+		'''
+}
+
+GoblinTome: {
+	DisplayName: 哥布林魔典
+	Tooltip:
+		'''
+		有20%几率在鼠标位置引发暗影焰爆炸
+		书中以未知语言书写……
+		'''
+}
+
+GoldDigger: {
+	DisplayName: 淘金者
+	Tooltip:
+		'''
+		快速发射金币
+		每射击7次发射一枚炮弹
+		'海盗最爱的便携武器'
+		[c/ff9d00:传说物品]
+		'''
+}
+
+GoldenEmblem: {
+	DisplayName: 黄金徽章
+	Tooltip:
+		'''
+		伤害提升50%
+		防御和最大生命减半
+		'''
+}
+
+GreenRomanCandle: {
+	DisplayName: 绿色罗马蜡烛
+	Tooltip: 发射绿色追踪火焰
+}
+
+HailStorm: {
+	DisplayName: 冰雹风暴
+	Tooltip:
+		'''
+		发射三枚巨型雪人核弹
+		有5秒冷却时间
+		命中敌人时引发大爆炸
+		'美国就是这样'
+		'''
+}
+
+Hamdrax: {
+	DisplayName: 锤钻斧
+	Tooltip: 测试
+}
+
+HandCannon: {
+	DisplayName: 手持加农炮
+	Tooltip:
+		'''
+		发射撞击时爆炸的炮弹
+		'舰载武器简化成了手持版本'
+		'''
+}
+
+HandheldBunnyCannon: {
+	DisplayName: 手持兔子加农炮
+	Tooltip:
+		'''
+		发射撞击时爆炸的兔子
+		'制造这把武器时伤害了许多兔子'
+		'''
+}
+
+HauntedHouse: {
+	DisplayName: 鬼屋
+	Tooltip:
+		'''
+		35%几率节省弹药
+		左键发射不消耗弹药的鬼屋光束
+		鬼屋光束命中敌人时在玩家身上引发惊悚爆炸
+		右键在幽灵吸血鬼蝙蝠和幽灵南瓜蝙蝠之间切换发射
+		右键使用玉米糖作为弹药
+		'你的敌人必将遭遇他们的噩梦！'
+		[c/09ff00:开发者物品]
+		[c/ffa0bf:节日物品]
+		[c/ff9d00:传说物品]
+		'''
+}
+
+HealingCharm: {
+	DisplayName: 治疗护符
+	Tooltip:
+		'''
+		最大生命减少100
+		当生命降至最大生命的1/6以下时，有几率恢复100点生命
+		'''
+}
+
+HeatSeekingShuriken: {
+	DisplayName: 追踪手里剑
+	Tooltip:
+		'''
+		投掷追踪手里剑
+		“根据所有已知的航空学定律，手里剑本不该能飞行”
+		'''
+}
+
+HellBatArrow: {
+	DisplayName: 地狱蝙蝠箭
+	Tooltip: “‘呐呐呐呐呐呐 蝙蝠箭！’”
+}
+
+HellBeeBow: {
+	DisplayName: 地狱蜜蜂弓
+	Tooltip:
+		'''
+		将木箭转化为毒刺
+		额外发射一支地狱蜜蜂箭，命中时爆炸并分裂出更多蜜蜂
+		“喜欢爵士乐吗？”
+		'''
+}
+
+HellCandle: {
+	DisplayName: 地狱蜡烛
+	Tooltip:
+		'''
+		使用凝胶作为弹药
+		发射炽热的爆裂火焰
+		'''
+}
+
+HunterEmblem: {
+	DisplayName: 猎手徽章
+	Tooltip: 远程伤害提高8%
+}
+
+IceArrow: {
+	DisplayName: 寒冰箭
+	Tooltip: 冻结！
+}
+
+InfernoWrath: {
+	DisplayName: 炼狱之怒
+	Tooltip:
+		'''
+		发射怒火火球，命中后爆炸形成炼狱火海
+		怒火火球施加贝琪的诅咒
+		'''
+}
+
+InstantDetonation: {
+	DisplayName: 瞬间引爆
+	Tooltip:
+		'''
+		按下对应按键时引发巨大爆炸
+		该爆炸有1分钟的冷却时间
+		“合法化的核弹！”
+		[c/a0a0a0:无职业物品]
+		'''
+}
+
+JumboJumbow: {
+	DisplayName: 巨型巨弓
+	Tooltip:
+		'''
+		发射一阵箭雨
+		有20%的几率射出巨型箭
+		“这才叫大家伙！”
+		'''
+}
+
+Jumbow: {
+	DisplayName: 巨弓
+	Tooltip:
+		'''
+		发射一阵箭雨
+		“这才叫大家伙！”
+		'''
+}
+
+JumpBoots: {
+	DisplayName: 跳跃之靴
+	Tooltip:
+		'''
+		大幅提高移动速度和跳跃速度
+		拥有熔岩靴、飞毯、蛙族装备和北极潜水装备的效果
+		'''
+}
+
+KingsBlade: {
+	DisplayName: 王者之刃
+	Tooltip: 每1.25秒朝光标方向挥出一道剑气
+}
+
+KingsRobe: {
+	DisplayName: 王者长袍
+	Tooltip:
+		'''
+		最大仆从数量增加2
+		最大魔力值增加20
+		伤害提高11%
+		'''
+}
+
+KingsShoes: {
+	DisplayName: 王者之靴
+	Tooltip:
+		'''
+		最大仆从数量增加1
+		伤害提高11%
+		近战攻击速度提高7%
+		移动速度提高15%
+		'''
+}
+
+KnockoutBag: {
+	DisplayName: 击飞袋
+	Tooltip:
+		'''
+		造成大量击退
+		命中敌人时引发小型爆炸
+		'''
+}
+
+LavaEel: {
+	DisplayName: 熔岩鳗
+	Tooltip:
+		'''
+		9点召唤标记伤害
+		在身前挥舞2个头，在身后挥舞1个头
+		命中敌人时有几率引发炽热的爆裂火焰
+		身后的头必定爆炸，但弹幕伤害较低
+		[c/ff9d00:传说物品]
+		'''
+}
+
+LifeArrow: {
+	DisplayName: 生命箭
+	Tooltip: 恢复生命值
+}
+
+LifeBolt: {
+	DisplayName: 生命弹
+	Tooltip:
+		'''
+		无穿透效果
+		命中敌人时恢复生命值
+		'''
+}
+
+LifeRing: {
+	DisplayName: 生命之戒
+	Tooltip:
+		'''
+		生命值上限提高100并提高生命恢复速度
+		周期性发射爆炸钉，当生命值低于最大生命值的1/3时恢复5点生命
+		[c/a0a0a0:无职业物品]
+		'''
+}
+
+LightningRod: {
+	DisplayName: 闪电棒
+	Tooltip:
+		'''
+		向附近的敌人快速发射电弧
+		“可能会让你有点触电的感觉”
+		'''
+}
+
+LongShot: {
+	DisplayName: 双向长枪
+	Tooltip:
+		'''
+		向两个方向射击
+		真是所有霰弹枪中最奇特的一把……
+		“有了这把枪的弹容量，你再也不需要换弹了！”
+		'''
+}
+
+LuminiteBolt: {
+	DisplayName: 夜明弹
+	Tooltip:
+		'''
+		无穿透效果
+		命中敌人时生成四颗月亮地雷
+		'''
+}
+
+LunarDart: {
+	DisplayName: 月亮飞镖
+	Tooltip:
+		'''
+		最多穿透七个敌人
+		命中敌人时引发月亮爆炸
+		'''
+}
+
+ManaBolt: {
+	DisplayName: 魔力弹
+	Tooltip:
+		'''
+		无穿透效果
+		命中敌人时恢复魔力
+		'''
+}
+
+ManaBullet: {
+	DisplayName: 魔力子弹
+	Tooltip: 恢复魔力
+}
+
+ManaEmblem: {
+	DisplayName: 魔力徽章
+	Tooltip:
+		'''
+		魔力恢复速度提高3
+		最大魔力值增加40
+		魔法伤害和魔力消耗降低30%
+		'''
+}
+
+MeltMini: {
+	DisplayName: 熔融迷你枪
+	Tooltip:
+		'''
+		使用凝胶作为弹药
+		发射寒冰弹
+		'''
+}
+
+MeteorBroadsword: {
+	DisplayName: 陨石阔剑
+	Tooltip: 命中敌人时引发陨石碎片从天而降
+}
+
+MinionEmblem: {
+	DisplayName: 仆从徽章
+	Tooltip:
+		'''
+		最大仆从数量增加3
+		仆从击退和仆从伤害提高30%
+		鞭子速度、鞭子范围、鞭子伤害和鞭子击退降低30%
+		'''
+}
+
+MoltenBlood: {
+	DisplayName: 熔融之血
+	Tooltip:
+		'''
+		将木箭转化为血肉箭，命中时燃烧并引发小型爆炸
+		向天空和光标方向发射箭矢，以两连发的方式射击
+		'''
+}
+
+MonkeyDart: {
+	DisplayName: 猴子飞镖
+	Tooltip: 最多穿透三个敌人
+}
+
+MostEnchantedMagicalEmperorSharkron: {
+	DisplayName: 至强附魔魔法帝王鲨鱼龙
+	Tooltip:
+		'''
+		简称M.E.M.E.S
+		左键让鲨鱼撕咬敌人并朝光标方向冲锋
+		右键投掷一只吸附在敌人身上的鲨鱼
+		[c/6d006f:玩笑物品]
+		'''
+}
+
+MutantDragonfish: {
+	DisplayName: 变异龙鱼
+	Tooltip:
+		'''
+		有33%的几率发射一阵炼狱爆裂
+		有20%的几率发射降低防御的火球
+		有10%的几率发射一群追踪火焰鞭
+		发射一团火焰
+		[c/09ff00:开发者物品]
+		'''
+}
+
+MutantSharkron: {
+	DisplayName: 变异鲨鱼龙
+	Tooltip:
+		'''
+		有33%的几率发射一阵有害气泡
+		有10%的几率发射追踪台风
+		发射一群鲨鱼龙
+		[c/09ff00:开发者物品]
+		'''
+}
+
+NightsCackle: {
+	DisplayName: 夜之狞笑
+	Tooltip:
+		'''
+		8点召唤标记伤害
+		命中敌人时额外生成暗影焰骷髅
+		'''
+}
+
+NightsFury: {
+	DisplayName: 夜之狂怒
+	Tooltip:
+		'''
+		向附近的敌人快速发射水晶碎石
+		投掷连枷以发射弹幕
+		'''
+}
+
+NukeCaller: {
+	DisplayName: 核弹召唤者
+	Tooltip:
+		'''
+		你的召唤物会集中攻击命中的敌人
+		降下一阵追踪炸弹
+		有10秒的冷却时间
+		“战术核弹来袭”
+		[c/00fff7:贡献者物品]
+		'''
+}
+
+OmegaStorm: {
+	DisplayName: 欧米伽风暴
+	Tooltip:
+		'''
+		命中敌人时生成星云秘法
+		“小心星辰”
+		[c/00fff7:贡献者物品]
+		[c/09ff00:开发者物品]
+		'''
+}
+
+Omeglageddon: {
+	DisplayName: 欧米伽末日
+	Tooltip:
+		'''
+		50%的几率节省弹药
+		向敌人喷射不同种类子弹的风暴
+		将普通子弹转化为命中时爆炸的欧米伽子弹
+		“混沌 混沌”
+		'''
+}
+
+OneShot: {
+	DisplayName: 一击必杀
+	Tooltip:
+		'''
+		发射三颗缓慢移动的子弹
+		[c/a0a0a0:无职业物品]
+		'''
+}
+
+Origin: {
+	DisplayName: 起源
+	Tooltip:
+		'''
+		155点召唤标记伤害
+		以所有鞭子的力量挥向你的敌人
+		'''
+}
+
+PaleRapier: {
+	DisplayName: 苍白细剑
+	Tooltip:
+		'''
+		发射一道短距离光束，对敌人造成持续伤害
+		光束只能持续一定时间后消失
+		“民主的开端”
+		'''
+}
+
+PanicPotion: {
+	DisplayName: 恐慌药水
+	Tooltip: 强化你的弩炮
+}
+
+PhantomShuriken: {
+	DisplayName: 幻影手里剑
+	Tooltip:
+		'''
+		投掷可穿透物块的追踪手里剑
+		飞行途中周期性生成追踪蝙蝠
+		'''
+}
+
+PhaseMonster: {
+	DisplayName: 相位怪物
+	Tooltip:
+		'''
+		向附近的敌人发射激光
+		“愿原力与你同在”
+		[c/00fff7:贡献者物品]
+		'''
+}
+
+PixelBlade: {
+	DisplayName: 像素之刃
+	Tooltip:
+		'''
+		发射一道中等大小的光束，对敌人造成稳定伤害
+		光束只能持续一定时间，之后便会消失
+		‘王者归来’
+		'''
+}
+
+PixelGun: {
+	DisplayName: 像素枪
+	Tooltip:
+		'''
+		投掷枪械，枪械会分裂成更多枪械
+		这些枪械会进入静止状态
+		然后分裂成大量子弹
+		'''
+}
+
+PixelZenith: {
+	DisplayName: 像素 Zenith
+	Tooltip:
+		'''
+		挥舞剑之力量
+		10% 几率额外发射具有不同效果的剑光
+		‘女王归来’
+		'''
+}
+
+PixieStaff: {
+	DisplayName: 精灵法杖
+	Tooltip: 发射三把黄金之剑
+}
+
+PocketWatch: {
+	DisplayName: 怀表
+	Tooltip:
+		'''
+		13% 几率不消耗弹药
+		左键发射子弹
+		右键发射箭矢
+		它闪烁着奇异钻石的光芒……
+		‘现在几点了？’
+		'''
+}
+
+PoisonBolt: {
+	DisplayName: 剧毒箭矢
+	Tooltip:
+		'''
+		具有较弱的穿透力
+		使敌人中毒
+		'''
+}
+
+PowerBoots: {
+	DisplayName: 力量之靴
+	Tooltip:
+		'''
+		生命值上限增加 100
+		钓鱼力增加 5
+		挖掘速度和放置速度增加 15%
+		放置范围增加 1
+		伤害、暴击率和击退增加 15%
+		最大仆从数量增加 2，最大哨兵数量增加 1
+		所有护腿的力量合而为一
+		'''
+}
+
+PowerCloak: {
+	DisplayName: 力量斗篷
+	Tooltip:
+		'''
+		生命值上限增加 200，魔力上限增加 100
+		钓鱼力增加 15
+		挖掘速度和放置速度增加 30%
+		放置范围增加 3
+		伤害、暴击率和击退增加 30%
+		最大仆从数量增加 3，最大哨兵数量增加 1
+		所有胸甲的力量合而为一
+		'''
+}
+
+PowerCrown: {
+	DisplayName: 力量皇冠
+	Tooltip:
+		'''
+		生命值上限增加 150
+		钓鱼力增加 10
+		挖掘速度和放置速度增加 20%
+		放置范围增加 2
+		伤害、暴击率和击退增加 15%
+		最大仆从数量增加 3
+		提供良好的生命恢复
+		所有头盔的力量合而为一
+		'''
+}
+
+PowerEmblem: {
+	DisplayName: 力量徽章
+	Tooltip:
+		'''
+		拥有多种饰品的综合效果
+		拥有近乎无限的飞行能力
+		防御力翻倍
+		免疫击退和火焰方块
+		免疫几乎所有减益效果
+		钓鱼力增加 15
+		挖掘速度和放置速度增加 30%
+		生命值上限增加 100
+		伤害、暴击率和击退增加 50%
+		最大仆从数量增加 5，最大哨兵数量增加 2
+		提供无限魔力
+		允许使用者冲刺
+		所有饰品的的力量合而为一
+		'''
+}
+
+PowerShot: {
+	DisplayName: 力量射击
+	Tooltip:
+		'''
+		发射随机种类的子弹
+		‘有了这把枪里的子弹数量，你再也不需要装填了！’
+		'''
+}
+
+PowerWings: {
+	DisplayName: 力量之翼
+	Tooltip:
+		'''
+		拥有近乎无限的飞行能力
+		所有翅膀的力量合而为一
+		'''
+}
+
+PrismaticKunai: {
+	DisplayName: 棱彩苦无
+	Tooltip:
+		'''
+		非消耗品
+		最多可穿透三个敌人
+		在消失时和击中敌人时生成粉色爆炸
+		[c/ff9d00:传说物品]
+		'''
+}
+
+PrismaticStaff: {
+	DisplayName: 棱彩法杖
+	Tooltip:
+		'''
+		发射一道缓慢移动的棱彩光束
+		击中敌人时生成追踪的能量宝石
+		‘集结我们所有的力量！’
+		[c/ff9d00:传说物品]
+		'''
+}
+
+Quip: {
+	DisplayName: 巧言鞭
+	Tooltip:
+		'''
+		7 点召唤标签伤害
+		向玩家周围发射 15 条短距离火星鞭
+		击中敌人时有几率引发电击
+		装备时，召唤伤害、击退降低 17%，鞭子范围降低 13%，但鞭子速度提高 30%
+		'''
+}
+
+RainbowMissile: {
+	DisplayName: 彩虹导弹
+	Tooltip: 蕴含着元素之力！
+}
+
+ReaperScythe: {
+	DisplayName: 死神镰刀
+	Tooltip: 快速向附近敌人投掷骨头
+}
+
+RedRomanCandle: {
+	DisplayName: 红色罗马蜡烛
+	Tooltip: 发射红色追踪火焰
+}
+
+RevolvingRevolver: {
+	DisplayName: 旋转左轮
+	Tooltip:
+		'''
+		使用骨头作为弹药
+		左键发射 3 个追踪骷髅头
+		右键旋转你的枪，在地面时增加远程伤害
+		右键旋转你的枪，在空中时增加远程攻击速度
+		'''
+}
+
+RustedDagger: {
+	DisplayName: 锈蚀之刃
+	Tooltip:
+		'''
+		发射一道非常小的光束，对敌人造成稳定伤害
+		光束只能持续一定时间，之后便会消失
+		‘帝国的开端’
+		'''
+}
+
+SawbladeTyphoon: {
+	DisplayName: 锯刃台风
+	Tooltip: 发射三把锯刃，命中时造成额外流血伤害
+}
+
+ShadowFlameArrow: {
+	DisplayName: 暗影火箭
+	Tooltip: 粘附在敌人身上并施加暗影火减益
+}
+
+ShadowPhoenix: {
+	DisplayName: 暗影凤凰
+	Tooltip:
+		'''
+		在光标位置周围发射 10 支箭矢
+		有 25% 几率在鼠标位置发射 5 个暗影火火球
+		暗影火火球无视方块，消失时爆炸成暗影火
+		'''
+}
+
+SharkShot: {
+	DisplayName: 鲨鱼射击
+	Tooltip:
+		'''
+		左键让鲨鱼咬住你的敌人并朝光标方向冲锋
+		右键投掷一条会粘附在敌人身上的鲨鱼
+		‘鲨————鱼！’
+		'''
+}
+
+ShroomerBoomer: {
+	DisplayName: 蘑菇爆破者
+	Tooltip:
+		'''
+		将普通子弹转化为爆炸蘑菇
+		爆炸蘑菇在飞行途中会生成额外的蘑菇
+		以三连发模式射击
+		'''
+}
+
+ShroomiteArrow: {
+	DisplayName: 蘑菇矿箭
+	Tooltip: 命中时生成一个静止的蘑菇
+}
+
+ShroomiteBlaster: {
+	DisplayName: 蘑菇矿爆破枪
+	Tooltip:
+		'''
+		以三连发模式发射三发子弹
+		右键旋转你的枪以增加远程属性
+		将普通子弹转化为蘑菇矿子弹
+		'''
+}
+
+ShroomiteBullet: {
+	DisplayName: 蘑菇矿子弹
+	Tooltip: 命中时生成一个静止的蘑菇
+}
+
+SkullArrow: {
+	DisplayName: 骷髅箭
+	Tooltip: 不包含死灵法术
+}
+
+SkullGun: {
+	DisplayName: 骷髅枪
+	Tooltip: 以高射速发射骷髅头
+}
+
+SmallCandle: {
+	DisplayName: 小蜡烛
+	Tooltip:
+		'''
+		使用凝胶作为弹药
+		发射小火花
+		'''
+}
+
+SnowStorm: {
+	DisplayName: 暴风雪
+	Tooltip:
+		'''
+		使用 10 个雪球作为弹药
+		‘加拿大就是这样’
+		[c/FF8C55:E][c/BA663E:x][c/85492C:o][c/754027:t][c/472718:i][c/331C11:c] [c/21120B:I][c/47000B:t][c/63000F:e][c/880015:m]
+		'''
+}
+
+SolarStorm: {
+	DisplayName: 太阳风暴
+	Tooltip:
+		'''
+		从天空发射破晓之光和射弹
+		有 33% 几率发射一群追踪的火焰鞭
+		有 20% 几率发射一阵凤凰风暴
+		‘小心天空’
+		[c/00fff7:贡献者物品]
+		'''
+}
+
+SpaceTomeOfSparkle: {
+	DisplayName: 太空闪耀之书
+	Tooltip:
+		'''
+		召唤腐化者、星星、水晶矢、陨石、树叶、巨型蜜蜂、蝙蝠和月亮耀斑来摧毁你的敌人！
+		相信我，它的伤害比看起来要高得多！
+		'''
+}
+
+SpectreArrow: {
+	DisplayName: 幽灵箭
+	Tooltip: 无视方块，穿透敌人并在命中时减速
+}
+
+SpectreBolt: {
+	DisplayName: 幽灵矢
+	Tooltip:
+		'''
+		具有非常弱的穿透力
+		无视方块
+		'''
+}
+
+SpectreBullet: {
+	DisplayName: 幽灵子弹
+	Tooltip: 无视方块，穿透敌人并在命中时减速
+}
+
+SpikeRing: {
+	DisplayName: 尖刺戒指
+	Tooltip:
+		'''
+		当生命值高于最大生命值的一半时，发射爆炸钉子
+		你会随时间持续受到伤害
+		[c/a0a0a0:无职业物品]
+		'''
+}
+
+SpiritFlail: {
+	DisplayName: 幽魂链枷
+	Tooltip:
+		'''
+		发射一个追踪射弹，挥动时可为玩家恢复生命
+		‘阴森恐怖的骷髅’
+		'''
+}
+
+SpiritWatch: {
+	DisplayName: 幽魂怀表
+	Tooltip:
+		'''
+		17% 几率不消耗弹药
+		左键发射幽灵子弹
+		右键发射幽灵箭矢
+		从天空降下射弹雨
+		它闪烁着奇异钻石的光芒……
+		‘现在几点了？’
+		'''
+}
+
+Spookzooka: {
+	DisplayName: 万圣火箭筒
+	Tooltip:
+		'''
+		25% 几率不消耗弹药
+		右键切换攻击方式
+		左键使用玉米糖，右键使用杰克南瓜灯
+		将玉米糖转化为蝙蝠
+		'''
+}
+
+SpookzookaMk2: {
+	DisplayName: 万圣火箭筒 Mk2
+	Tooltip:
+		'''
+		33% 几率不消耗弹药
+		使用玉米糖作为弹药
+		在幽灵吸血鬼蝙蝠和幽灵南瓜蝙蝠之间切换发射
+		幽灵吸血鬼蝙蝠可穿过方块，为你恢复生命并追踪敌人
+		幽灵南瓜蝙蝠可穿过方块，无限穿透并生成爆炸杰克南瓜灯和追踪蝙蝠
+		有几率发射爆炸杰克南瓜灯核弹
+		‘这就是万圣节’
+		[c/09ff00:开发者物品]
+		[c/ffa0bf:节日物品]
+		'''
+}
+
+SprayCandle: {
+	DisplayName: 喷涂蜡烛
+	Tooltip:
+		'''
+		使用凝胶作为弹药
+		喷出具有微弱追踪能力的粘滑液体流
+		'''
+}
+
+StrangeCase: {
+	DisplayName: 奇异匣子
+	Tooltip: 目前没有任何作用……
+}
+
+StrangeVial: {
+	DisplayName: 奇异药瓶
+	Tooltip:
+		'''
+		不可消耗
+		投掷净化奇异药瓶，玩家死亡时会被治愈
+		瓶子飞过时会留下一串气泡轨迹
+		'''
+}
+
+StrikerPotion: {
+	DisplayName: 打击者药水
+	Tooltip: 鞭类武器属性提高10%
+}
+
+SuperBlaster: {
+	DisplayName: 超级爆破枪
+	Tooltip:
+		'''
+		在地面上时攻击速度较慢但伤害更高
+		以较小的散射角度发射随机数量的子弹
+		'''
+}
+
+SuperMonkeyDart: {
+	DisplayName: 超级猴子飞镖
+	Tooltip:
+		'''
+		不可消耗
+		最多可穿透五个敌人
+		'''
+}
+
+SuperStormBeater: {
+	DisplayName: 超级风暴打击者
+	Tooltip: 发射追踪旋涡之星，命中后爆炸成旋涡火箭
+}
+
+SuspiciousKnife: {
+	DisplayName: 可疑小刀
+	Tooltip:
+		'''
+		最多可穿透三个敌人
+		命中敌人时生成血块
+		命中敌人时恢复少量生命值并施加开膛破肚减益
+		开膛破肚会使敌人快速受到持续伤害
+		'AMONG US'
+		[c/00fff7:贡献者物品]
+		[c/6d006f:玩笑物品]
+		'''
+}
+
+SweetTooth: {
+	DisplayName: 甜牙
+	Tooltip:
+		'''
+		以两发点射模式发射两颗子弹
+		将子弹转化为致命的玉米糖，飞行途中会生成爆炸性的杰克南瓜灯
+		'不给糖就捣蛋！'
+		[c/ffa0bf:节日物品]
+		'''
+}
+
+TerraFlail: {
+	DisplayName: 泰拉流星锤
+	Tooltip:
+		'''
+		左键点击将其绕身挥舞，发射会分裂成众多叶片的光球
+		右键点击投掷流星锤，可为你恢复生命
+		'''
+}
+
+TetheredRope: {
+	DisplayName: 系绳
+	Tooltip: “没有比这更基础的了”
+}
+
+TheColossus: {
+	DisplayName: 巨像
+	Tooltip:
+		'''
+		挥舞时快速连续打击敌人
+		投掷出去时造成四倍伤害
+		'''
+}
+
+TheDevice: {
+	DisplayName: 装置
+	Tooltip:
+		'''
+		不可消耗
+		投掷手柄，偶尔会投掷显示器
+		显示器命中敌人时为你施加愤怒增益
+		愤怒提高2.15%的攻击速度和伤害
+		愤怒增益持续时间上限为9秒
+		'闭嘴吧我在玩我的世界'
+		'''
+}
+
+EasterBarrage: {
+	DisplayName: 复活节弹幕
+	Tooltip:
+		'''
+		使用黑曜石作为弹药
+		发射色彩缤纷的复活节彩蛋，每种彩蛋具有不同效果
+		使用时施加少量击退
+		[c/00fff7:贡献者物品]
+		[c/ffa0bf:节日物品]
+		'''
+}
+
+ThornMace: {
+	DisplayName: 荆棘锤
+	Tooltip:
+		'''
+		吹出叶片攻击附近的敌人
+		投掷流星锤以发射弹射物
+		'小心荆棘'
+		'''
+}
+
+ThornyWandOfSparkle: {
+	DisplayName: 多刺闪光魔杖
+	Tooltip:
+		'''
+		从天空降下迷你吞噬者和星星来毁灭你的敌人！
+		相信我，它的伤害比看起来要高得多！
+		'''
+}
+
+ThunderFang: {
+	DisplayName: 雷霆獠牙
+	Tooltip: 命中敌人时有20%的几率召唤闪电
+}
+
+TimerRymer: {
+	DisplayName: 定时押韵者
+	Tooltip:
+		'''
+		以两发点射模式发射两颗子弹
+		将普通子弹转化为高速子弹
+		'''
+}
+
+ToxicRifle: {
+	DisplayName: 剧毒步枪
+	Tooltip:
+		'''
+		即使玩家法力值耗尽也可使用
+		法力值不足时提高魔法伤害，但会施加酸液剧毒
+		'2020年就是这样'
+		'''
+}
+
+TrainingEmblem: {
+	DisplayName: 训练徽章
+	Tooltip: 近战伤害提高8%
+}
+
+TrueBiomeMorph: {
+	DisplayName: 真·生物群系变形者
+	Tooltip:
+		'''
+		发射大量与生物群系相关的悠悠球
+		借助泰拉瑞亚所有生物群系的力量为你而战
+		'''
+}
+
+TrueDurendal: {
+	DisplayName: 真·杜兰达尔
+	Tooltip:
+		'''
+		11点召唤标记伤害
+		挥舞两把真·杜兰达尔
+		'''
+}
+
+TrueEyeOfCthulhu: {
+	DisplayName: 真·克苏鲁之眼
+	Tooltip:
+		'''
+		发射终局悠悠球来伤害你的敌人
+		'他们都叫我悠悠球大师！'
+		'''
+}
+
+TrueNightsCackle: {
+	DisplayName: 真·夜之狞笑
+	Tooltip:
+		'''
+		11点召唤标记伤害
+		命中敌人时额外生成暗影焰骷髅
+		'''
+}
+
+TrueNightsFury: {
+	DisplayName: 真·夜之狂怒
+	Tooltip:
+		'''
+		向附近的敌人快速发射水晶箭矢
+		投掷流星锤以发射弹射物
+		'''
+}
+
+TruePixieStaff: {
+	DisplayName: 真·小精灵法杖
+	Tooltip:
+		'''
+		发射五把真·圣剑
+		[c/00fff7:贡献者物品]
+		'''
+}
+
+VoidPurse: {
+	DisplayName: 虚空钱包
+	Tooltip:
+		'''
+		遗憾的是不能用作储物空间
+		投掷流星锤以发射弹射物
+		'''
+}
+
+VortexYoyo: {
+	DisplayName: 星旋悠悠球
+	Tooltip: 旋转时生成月亮弹
+}
+
+WandOfSparkle: {
+	DisplayName: 闪光魔杖
+	Tooltip:
+		'''
+		从天空降下星星来毁灭你的敌人！
+		相信我，它的伤害比看起来要高得多！
+		'''
+}
+
+WarEmblem: {
+	DisplayName: 战争徽章
+	Tooltip:
+		'''
+		近战伤害提高30%
+		近战速度降低30%
+		'''
+}
+
+WaspNest: {
+	DisplayName: 黄蜂巢
+	Tooltip: 旋转时生成黄蜂
+}
+
+WaterFlail: {
+	DisplayName: 水之流星锤
+	Tooltip:
+		'''
+		投掷流星锤以发射弹射物
+		'可能冰冷刺骨'
+		'''
+}
+
+WhipEmblem: {
+	DisplayName: 鞭类徽章
+	Tooltip:
+		'''
+		最大仆从数量减少3
+		鞭类速度、鞭类范围、鞭类伤害和鞭类击退提高30%
+		仆从击退和仆从伤害降低30%
+		'''
+}
+
+WhipExtender: {
+	DisplayName: 鞭类延长器
+	Tooltip: 鞭类范围提高12%
+}
+
+WhipMastersGlory: {
+	DisplayName: 鞭类大师的荣耀
+	Tooltip:
+		'''
+		5点召唤标记伤害
+		使用物品时周期性挥舞鞭子
+		鞭类范围随武器弹速提升而增加
+		最大仆从数量增加2
+		鞭类速度、鞭类范围、仆从击退和仆从伤害提高20%
+		敌人更有可能以你为目标
+		'''
+}
+
+WoodenRifle: {
+	DisplayName: 木制步枪
+	Tooltip:
+		'''
+		25%的几率节省弹药
+		使用橡果作为弹药
+		发射橡果，橡果消失时生成叶片
+		橡果命中敌人时施加生长减益
+		生长会使敌人快速受到持续伤害
+		生长会使所有原版丛林敌人受到额外伤害
+		'''
+}
+
+YoyoOfElements: {
+	DisplayName: 元素悠悠球
+	Tooltip:
+		'''
+		发射许多具有不同能力的悠悠球
+		'好。坏。我就是那个玩悠悠球的人！'
+		'''
+}
+
+AsteroidGreatsword: {
+	DisplayName: 小行星巨剑
+	Tooltip: 命中敌人时使陨石碎片从天空坠落
+}
+
+NuclearFallout: {
+	DisplayName: 核爆沉降
+	Tooltip:
+		'''
+		你的召唤物将集中攻击被命中的敌人
+		降下一阵追踪炸弹弹幕
+		拥有10秒冷却时间
+		'核弹来袭'
+		'''
+}
+
+CharmOfSynergy: {
+	DisplayName: 协同护符
+	Tooltip:
+		'''
+		受到伤害后提高造成的伤害
+		[c/b225e6:微光物品]
+		'''
+}
+
+HeavenlyStorm: {
+	DisplayName: 天堂风暴
+	Tooltip:
+		'''
+		将箭矢转化为微光箭矢
+		将圣箭转化为天堂之箭
+		天堂之箭向上坠落，命中时引发星空爆炸
+		也有几率发射圣箭
+		[c/b225e6:微光物品]
+		'''
+}
+
+Notes4: {
+	DisplayName: 笔记
+	Tooltip: 可通过将火枪子弹微光转化获得
+}
+
+ShimmerBullet: {
+	DisplayName: 微光子弹
+	Tooltip:
+		'''
+		受重力影响
+		[c/b225e6:微光物品]
+		'''
+}
+
+Shimmerstick: {
+	DisplayName: 微光棒
+	Tooltip:
+		'''
+		将子弹转化为微光子弹
+		将流星子弹转化为天堂子弹
+		天堂子弹可穿透、弹跳、受重力影响，并在弹跳或消失时碎裂成小碎片
+		[c/b225e6:微光物品]
+		'''
+}
+
+Notes5: {
+	DisplayName: 笔记
+	Tooltip: 可通过将火枪微光转化获得
+}
+
+Notes6: {
+	DisplayName: 笔记
+	Tooltip: 可通过 shimmer 一把棱晶法杖获得
+}
+
+SparklingStaff: {
+	DisplayName: 闪耀法杖
+	Tooltip:
+		'''
+		发射一连串宝石弹
+		额外发射一枚追踪的能量宝石
+		'一件遗失于时光中的古老武器'
+		[c/ff9d00:传说物品]
+		[c/b225e6:微光物品]
+		'''
+}
+
+VoidAxe: {
+	Tooltip:
+		'''
+		近战速度加成效果降低50%
+		发射强大的虚空斧，追踪敌人，窃取生命，并穿透物块
+		虚空斧在未追踪时会停在原地
+		真正的近战命中也会治疗玩家
+		[c/b225e6:微光物品]
+		'''
+	DisplayName: 虚空斧
+}
+
+Notes7: {
+	Tooltip: 可通过 shimmer 一把死亡镰刀获得
+	DisplayName: 笔记
+}
+
+Notes8: {
+	DisplayName: 笔记
+	Tooltip: 可通过 shimmer 一把一击必杀获得
+}
+
+WeakeningShot: {
+	DisplayName: 虚弱射击
+	Tooltip:
+		'''
+		发射三枚缓慢移动的虚弱子弹，造成多种减益效果
+		[c/a0a0a0:无职业物品]
+		[c/b225e6:微光物品]
+		'''
+}
+
+Notes9: {
+	DisplayName: 笔记
+	Tooltip:
+		'''
+		可从军火商处购买获得
+		军火商需要足够开心，且已击败任意邪恶 Boss
+		'''
+}
+
+IceBlizzard: {
+	DisplayName: 寒冰暴雪
+	Tooltip:
+		'''
+		快速发射两枚冰锥
+		有10%的几率发射五枚寒冰箭
+		[c/ff9d00:传说物品]
+		'''
+}
+
+IcicleBarrage: {
+	Tooltip:
+		'''
+		快速发射三枚冰锥
+		有12%的几率发射十枚寒冰箭
+		[c/ff9d00:传说物品]
+		'''
+	DisplayName: 冰锥弹幕
+}
+
+CreepyEyedol: {
+	DisplayName: 恐怖眼偶
+	Tooltip:
+		'''
+		你的召唤物会集中攻击被击中的敌人
+		以超凡的视力凝视敌人，对所有原版僵尸类敌人造成额外伤害
+		可从所有原版僵尸类敌人身上收集骨粉和暗影焰
+		被你击中的敌人会陷入恐惧，减速移动
+		'别眨眼！'
+		[c/96966F:收割者物品]
+		'''
+}
+
+Flashlight: {
+	Tooltip:
+		'''
+		发射一道强光，造成失明减益，持续7秒
+		失明使敌人防御力减半
+		'千万别对着自己的脸！'
+		[c/a0a0a0:无职业物品]
+		'''
+	DisplayName: 手电筒
+}
+
+PrismaticCrystalStaff: {
+	DisplayName: 棱晶水晶法杖
+	Tooltip:
+		'''
+		发射彩虹水晶，具有弱追踪能力，命中时减速
+		彩虹水晶命中时碎裂成碎片
+		[c/ff9d00:传说物品]
+		'''
+}
+
+FistsOfFury: {
+	DisplayName: 怒火之拳
+	Tooltip:
+		'''
+		以千拳之怒快速挥拳
+		持拳不攻击时获得超级增益
+		超级增益使野蛮近战伤害翻倍，暴击率提高25%，移动速度翻倍
+		暴击时眩晕敌人1秒
+		持有时免疫粘液、强风和扭曲减益
+		'我要做史上最棒的煎蛋卷'
+		[c/ff9d00:传说物品]
+		'''
+}
+
+Superflux: {
+	DisplayName: 超级流
+	Tooltip: ""
+}
+
+SwordOfLight: {
+	Tooltip: 有20%的几率发射五道光束
+	DisplayName: 光之剑
+}
+
+BlazingStaff: {
+	DisplayName: 烈焰法杖
+	Tooltip:
+		'''
+		按住左键三秒蓄力，释放炽热爆裂
+		右键点击物品切换为火焰模式
+		'可能会烫得握不住'
+		'''
+}
+
+BlazingStaff2: {
+	Tooltip:
+		'''
+		快速发射扇形散开的法力恢复火焰
+		右键点击物品切换为烈焰模式
+		'可能会烫得握不住'
+		'''
+	DisplayName: 火焰法杖
+}
+
+Notes10: {
+	DisplayName: 笔记
+	Tooltip: 可在困难模式中从派对女孩处购买获得
+}
+
+ClockworkArrow: {
+	Tooltip:
+		'''
+		将敌人冻结在时间中一秒
+		冻结结束后使敌人加速三秒
+		'''
+	DisplayName: 发条箭
+}
+
+ClockworkRepeater: {
+	DisplayName: 发条连弩
+	Tooltip:
+		'''
+		以七连发模式发射箭矢
+		将箭矢转化为蒸汽朋克箭
+		蒸汽朋克箭在消失时传送，并向光标方向发射一枚发条箭
+		'''
+}
+
+CogMachine: {
+	DisplayName: 齿轮机
+	Tooltip:
+		'''
+		快速发射齿轮，命中敌人后停留在原地
+		一段时间后机器进入1.5秒冷却
+		'''
+}
+
+OverloadedMagazine: {
+	DisplayName: 过载弹匣
+	Tooltip:
+		'''
+		子弹伤害提高10%
+		每5秒施加装填增益
+		'''
+}
+
+GearBreaker: {
+	DisplayName: 齿轮破坏者
+	Tooltip:
+		'''
+		挥舞巨型扳手，命中敌人时生成巨型齿轮
+		巨型齿轮伤害较低，飞行一段距离后停止
+		'''
+}
+
+GearGlove: {
+	DisplayName: 齿轮手套
+	Tooltip:
+		'''
+		消耗3点灵魂
+		在光标周围发射追踪齿轮
+		'''
+}
+
+TestBlade: {
+	DisplayName: 代码破坏者
+	Tooltip: 将敌人从存在中抹除
+}
+
+Test: {
+	DisplayName: 测试
+	Tooltip: ""
+}
+
+CodeBreaker: {
+	DisplayName: 代码破坏者
+	Tooltip:
+		'''
+		将敌人从存在中抹除
+		[c/871b28:作弊物品]
+		'''
+}
+
+TheEraser: {
+	DisplayName: 橡皮擦
+	Tooltip:
+		'''
+		命中时眩晕敌人
+		将敌人从存在中抹除
+		[c/871b28:作弊物品]
+		'''
+}
+
+CardOfCrowdedness: {
+	DisplayName: 拥挤之卡
+	Tooltip:
+		'''
+		每有一个活跃召唤物，召唤伤害降低10%，但最大召唤物数量翻倍
+		此效果上限为5个活跃召唤物
+		右键点击物品本身可切换为陪伴之卡
+		'有时候多即是少'
+		[c/00fff7:贡献者物品]
+		'''
+}
+
+StealthDagger: {
+	DisplayName: 潜行匕首
+	Tooltip:
+		'''
+		在地面持匕不攻击时获得潜行增益
+		潜行增益使野蛮近战伤害翻三倍，暴击率提高16%，但大幅降低移动速度
+		'''
+}
+
+HolyDagger: {
+	DisplayName: 神圣匕首
+	Tooltip:
+		'''
+		持匕3秒不攻击时获得焕然一新增益
+		焕然一新增益使野蛮近战伤害翻倍，近战速度提高15%，暴击率提高50%
+		获得焕然一新增益时触发神圣爆炸
+		命中时治疗玩家
+		'''
+}
+
+ShortbowDagger: {
+	DisplayName: 短弓匕首
+	Tooltip:
+		'''
+		持匕3秒不攻击时获得速射增益
+		速射增益使野蛮近战速度和野蛮近战伤害翻倍
+		向光标方向发射箭矢
+		'''
+}
+
+TheGenocide: {
+	DisplayName: 灭杀者
+	Tooltip:
+		'''
+		持匕3秒不攻击时获得速射增益
+		速射增益使野蛮近战速度和野蛮近战伤害翻倍
+		获得速射增益时向光标方向发射3枚血箭
+		一次发射2至4枚箭矢
+		将箭矢转化为血箭
+		'''
+}
+
+TheBattler: {
+	DisplayName: 战斗者
+	Tooltip:
+		'''
+		持匕3秒不攻击时获得速射增益
+		速射增益使野蛮近战速度和野蛮近战伤害翻倍
+		获得速射增益时向光标方向发射5枚叶绿箭
+		一次发射3至5枚箭矢
+		将箭矢转化为叶绿箭
+		[c/09ff00:开发者物品]
+		'''
+}
+
+PrehistoricDagger: {
+	DisplayName: 史前匕首
+	Tooltip:
+		'''
+		持匕攻击3秒时获得史前之力增益
+		史前之力增益使野蛮近战伤害提高50%，暴击率提高100%
+		'''
+}
+
+GrassDagger: {
+	DisplayName: 草之匕首
+	Tooltip:
+		'''
+		持匕3秒不攻击时获得自然之力增益
+		自然之力增益使野蛮近战伤害翻倍，暴击率提高100%，防御力提高12
+		向光标方向发射叶片
+		'''
+}
+
+WaterDagger: {
+	DisplayName: 水之匕首
+	Tooltip:
+		'''
+		发射一道短距离水流
+		持匕3秒不攻击时获得焕然一新增益
+		焕然一新增益使野蛮近战伤害翻倍，近战速度提高15%，暴击率提高50%
+		获得焕然一新增益时在玩家周围生成水弹
+		'''
+}
+
+InfernoHand: {
+	DisplayName: 地狱火之手
+	Tooltip:
+		'''
+		持匕3秒不攻击时获得地狱献祭增益
+		地狱献祭增益使野蛮近战伤害提高75%，近战速度提高30%，暴击率提高15%
+		近战命中时从敌人身上爆发火焰，向光标方向飞去
+		挥舞地狱火之手时对玩家施加着火了！减益
+		'''
+}
+
+BoltDagger: {
+	DisplayName: 闪电匕首
+	Tooltip:
+		'''
+		持匕3秒不攻击时获得充能增益
+		充能增益使野蛮近战伤害翻倍，暴击率提高8%，移动速度翻倍
+		获得充能增益时向光标方向发射一颗磁球
+		发射1至3枚闪电弹而非挥砍匕首
+		'''
+}
+
+SolarExplosion: {
+	DisplayName: 日耀爆炸
+	Tooltip:
+		'''
+		持匕3秒不攻击时获得充能增益
+		充能增益使野蛮近战伤害翻倍，暴击率提高8%，移动速度翻倍
+		获得充能增益时向光标方向发射一道日耀喷发
+		发射爆炸性的日耀火球
+		'''
+}
+
+CatsPaw: {
+	DisplayName: 猫爪
+	Tooltip:
+		'''
+		持匕3秒不攻击时获得疯狂猫咪增益
+		疯狂猫咪增益使野蛮近战伤害提高50%，暴击率提高12%，移动速度翻倍，并提高近战速度
+		获得疯狂猫咪增益时在玩家周围发射彩虹弹
+		发射锋利的追踪爪
+		'''
+}
+
+Seedling: {
+	DisplayName: 幼苗
+	Tooltip:
+		'''
+		持匕攻击3秒时获得自然之力增益
+		自然之力增益使野蛮近战伤害翻倍，暴击率提高100%，防御力提高12
+		获得自然之力增益时在玩家周围发射爆炸种子
+		命中敌人时在其周围生成孢子
+		'''
+}
+
+StormDagger: {
+	DisplayName: 风暴匕首
+	Tooltip:
+		'''
+		按住右键时获得风暴护盾增益
+		风暴护盾增益使防御力提高12，生命恢复提高6，并免疫击退
+		发射风暴冲击波，消失时分裂为风暴球
+		有10%的几率造成额外200%伤害
+		'''
+}
+
+DarkPortal: {
+	DisplayName: 暗影传送门
+	Tooltip:
+		'''
+		手持匕首3秒不攻击时，赋予玩家暗影打击增益
+		暗影打击增益使野蛮近战伤害翻倍，暴击率提高30%，近战速度提高15%，防御力提高10
+		获得暗影打击增益时，向光标方向发射死亡镰刀
+		发射暗影宝珠，宝珠死亡时向光标方向生成新的暗影宝珠
+		新生成的暗影宝珠在命中时失去速度
+		近战命中时有几率引发暗影焰爆炸
+		'''
+}
+
+CursedPortal: {
+	DisplayName: 诅咒传送门
+	Tooltip:
+		'''
+		手持匕首3秒不攻击时，赋予玩家暗影打击增益
+		暗影打击增益使野蛮近战伤害翻倍，暴击率提高30%，近战速度提高15%，防御力提高10
+		获得暗影打击增益时，向光标方向发射死亡镰刀
+		发射暗影宝珠，宝珠死亡时向光标方向生成新的暗影宝珠
+		新生成的暗影宝珠在命中时失去速度
+		近战命中时有几率引发暗影焰爆炸
+		'''
+}
+
+SacrificalDagger: {
+	DisplayName: 献祭匕首
+	Tooltip:
+		'''
+		手持匕首3秒不攻击时，赋予玩家神清气爽增益
+		神清气爽增益使野蛮近战伤害翻倍，近战速度提高15%，暴击率提高50%
+		获得神清气爽增益时，引发神圣爆炸
+		命中时治疗玩家
+		'''
+}
+
+SacrificialDagger: {
+	DisplayName: 牺牲匕首
+	Tooltip:
+		'''
+		手持匕首3秒不攻击时，赋予玩家神清气爽增益
+		神清气爽增益使野蛮近战伤害翻倍，近战速度提高15%，暴击率提高50%
+		获得神清气爽增益时，引发神圣爆炸
+		命中时治疗玩家
+		'''
+}
+
+TerraDagger: {
+	DisplayName: 泰拉匕首
+	Tooltip:
+		'''
+		手持匕首3秒不攻击时，赋予玩家泰拉之力增益
+		泰拉之力增益使野蛮近战伤害提高65%，暴击率提高30%，提高近战速度，防御力提高12
+		获得泰拉之力增益时，向光标方向发射泰拉光束
+		向光标方向发射剑形弹幕
+		近战命中时有几率引发叶绿爆炸
+		'''
+}
+
+ShockDagger: {
+	DisplayName: 电击匕首
+	Tooltip:
+		'''
+		手持匕首攻击3秒时，赋予玩家结晶化增益
+		结晶化增益使野蛮近战速度和移动速度提高50%，暴击率提高12%
+		获得充能增益时，向光标方向发射电浆飞弹
+		发射3至5道闪电箭而非挥动匕首
+		在地面上时攻击速度更快
+		'''
+}
+
+SpaceDagger: {
+	DisplayName: 太空匕首
+	Tooltip:
+		'''
+		手持匕首攻击3秒时，赋予玩家星辰之力增益
+		星辰之力增益提高生命恢复速度和防御力，并使移动速度翻倍
+		近战命中时引发一阵星辰从天而降
+		'''
+}
+
+CandyCornDagger: {
+	DisplayName: 玉米糖匕首
+	Tooltip:
+		'''
+		手持匕首3秒不攻击时，赋予玩家史前之力增益
+		史前之力增益使野蛮近战伤害提高50%，暴击率提高100%
+		获得史前之力增益时，向光标方向发射爆炸南瓜灯并治疗玩家
+		命中敌人时有几率引发火焰爆炸
+		'''
+}
+
+DarkestDagger: {
+	DisplayName: 至暗匕首
+	Tooltip:
+		'''
+		手持匕首3秒不攻击时，赋予玩家暗黑之力增益
+		暗黑之力增益使野蛮近战伤害翻倍，暴击率提高100%，提高近战速度，防御力提高16，并使移动速度翻倍
+		获得暗黑之力增益时治疗玩家
+		发射一道毁灭性的光束，造成暗影之痛并能抓住敌人
+		暗影之痛造成极高的持续伤害
+		'''
+}
+
+EnchantedDagger: {
+	DisplayName: 附魔匕首
+	Tooltip:
+		'''
+		手持匕首攻击3秒时，赋予玩家附魔增益
+		附魔增益使野蛮近战伤害翻倍，近战速度提高25%，暴击率提高10%
+		向光标方向发射附魔剑光束
+		'''
+}
+
+Bowulder: {
+	DisplayName: 弓石
+	Tooltip:
+		'''
+		手持匕首3秒不攻击时，赋予玩家速射增益
+		速射增益使野蛮近战速度翻倍，野蛮近战伤害提高50%
+		发射巨型巨石箭，命中时生成巨石
+		[c/6d006f:玩笑物品]
+		'''
+}
+
+Bowmama: {
+	DisplayName: 弓妈
+	Tooltip:
+		'''
+		发射一阵箭雨
+		将普通箭矢转化为夜明箭
+		有33%的几率发射一支巨型夜明箭
+		“弓妈太胖了...”
+		[c/00fff7:贡献者物品]
+		[c/6d006f:玩笑物品]
+		'''
+}
+
+ChargeShotGreen: {
+	DisplayName: 绿色蓄力射击
+	Tooltip:
+		'''
+		消耗25纳米机器人作为弹药
+		蓄力发射一道精准光束，造成巨大伤害
+		完全充能后，光束将持续2秒后消失
+		“不，你不能用它来操控物质”
+		'''
+}
+
+ChargeShotPurple: {
+	DisplayName: 紫色蓄力射击
+	Tooltip:
+		'''
+		消耗25纳米机器人作为弹药
+		蓄力发射一道精准光束，造成巨大伤害
+		完全充能后，光束将持续2秒后消失
+		“不，你不能用它来操控物质”
+		'''
+}
+
+ChargeShotRed: {
+	DisplayName: 红色蓄力射击
+	Tooltip:
+		'''
+		消耗25纳米机器人作为弹药
+		蓄力发射一道精准光束，造成巨大伤害
+		完全充能后，光束将持续2秒后消失
+		“不，你不能用它来操控物质”
+		'''
+}
+
+ShadowbloodPotion: {
+	DisplayName: 暗影血药剂
+	Tooltip:
+		'''
+		生命值提高50，但生命恢复速度降低2
+		“饮用时会有刺痛感”
+		'''
+}
+
+UndeadPerfume: {
+	DisplayName: 亡灵香水
+	Tooltip:
+		'''
+		召唤伤害和击退提高50%
+		使玩家沾染亡灵气息
+		使玩家移动速度略微降低且无法飞行
+		但玩家获得更多生命值、生命恢复速度，且所有亡灵生物变得友好
+		'''
+}

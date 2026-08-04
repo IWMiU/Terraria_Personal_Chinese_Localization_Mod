@@ -1,0 +1,6 @@
+displayName = 法师大修
+author = IWMiU
+version = 0.1
+modReferences = WizardMod
+translationMod = true
+side = NoSync

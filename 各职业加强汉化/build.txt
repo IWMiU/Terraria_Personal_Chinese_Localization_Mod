@@ -1,0 +1,6 @@
+displayName = Better Classes个人汉化
+author = IWMiU
+version = 0.1
+modReferences = BetterClasses
+translationMod = true
+side = NoSync

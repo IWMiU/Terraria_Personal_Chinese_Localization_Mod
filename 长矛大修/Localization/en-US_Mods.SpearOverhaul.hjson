@@ -1,0 +1,429 @@
+Buffs: {
+	BloodDebuff: {
+		DisplayName: 流血
+		Description: 降低敌人生命再生速度
+	}
+
+	BloodDebuff2: {
+		DisplayName: 流血Ⅱ
+		Description: 降低敌人生命再生速度
+	}
+
+	BloodDebuff3: {
+		DisplayName: 流血Ⅲ
+		Description: 降低敌人生命再生速度
+	}
+
+	GodArmorBuff: {
+		DisplayName: 泰坦庇佑
+		Description:
+			'''
+			防御力提升30点
+			近战伤害提升15%
+			'''
+	}
+
+	GodArmorDebuff: {
+		DisplayName: 泰坦庇佑冷却
+		Description: 泰坦庇佑效果正在冷却
+	}
+}
+
+Items: {
+	CrystalEmblem: {
+		DisplayName: 水晶徽章
+		Tooltip:
+			'''
+			近战伤害+12%
+			长矛飞行速度+20%
+			近战暴击率+8%
+			大幅提升生命恢复速度
+			'''
+	}
+
+	GodslayerGloves: {
+		DisplayName: 弑神护手
+		Tooltip:
+			'''
+			“克洛诺斯亲手锻造”
+			近战伤害+25%
+			长矛体型大幅增大
+			投掷长矛速度+50%
+			长矛穿透层数+3
+			'''
+	}
+
+	HellknightGlove: {
+		DisplayName: 狱骑士护手
+		Tooltip:
+			'''
+			近战伤害+15%
+			长矛体型大幅增大
+			提升投掷长矛飞行速度
+			长矛穿透层数+2
+			近战攻击可点燃敌人
+			'''
+	}
+
+	SawmillBox: {
+		DisplayName: 锯刃收纳盒
+		Tooltip:
+			'''
+			“我口袋怎么全是洞？”
+			近战伤害+5%
+			投掷长矛速度+10%
+			'''
+	}
+
+	SpearCrystal: {
+		DisplayName: 凯伯水晶
+		Tooltip:
+			'''
+			“蕴藏庞大潜藏能量”
+			近战伤害、长矛速度+12%
+			大幅提升生命恢复速度
+			'''
+	}
+
+	SpearEmblem: {
+		DisplayName: 长矛徽章
+		Tooltip: 长矛飞行速度+15%
+	}
+
+	TribalGlove: {
+		DisplayName: 部族护手
+		Tooltip:
+			'''
+			“里面暖暖的是怎么回事？”
+			近战伤害+7%
+			投掷长矛速度+12%
+			'''
+	}
+
+	WarriorGlove: {
+		DisplayName: 勇士护手
+		Tooltip:
+			'''
+			近战伤害+%
+			小幅增大长矛体型
+			长矛飞行速度+15%
+			长矛穿透层数+1
+			'''
+	}
+
+	CrystalChestplate: {
+		DisplayName: 晶化斗篷
+		Tooltip:
+			'''
+			长矛飞行速度+10%
+			近战伤害、暴击率各+5%
+			'''
+	}
+
+	CrystalHelmet: {
+		DisplayName: 晶化兜帽
+		Tooltip:
+			'''
+			近战伤害+15%
+			近战暴击率+5%
+			'''
+	}
+
+	CrystalLegs: {
+		DisplayName: 晶化长裤
+		Tooltip:
+			'''
+			近战伤害+10%
+			移动速度+20%
+			'''
+	}
+
+	GodslayerChestplate: {
+		DisplayName: 弑神胸甲
+		Tooltip:
+			'''
+			暴击率+12%
+			伤害+8%
+			生命上限提升20点
+			'''
+	}
+
+	GodslayerHelmet: {
+		DisplayName: 弑神头盔
+		Tooltip:
+			'''
+			近战伤害+18%
+			近战暴击率+12%
+			生命上限提升20点
+			'''
+	}
+
+	GodslayerPants: {
+		DisplayName: 弑神护腿
+		Tooltip:
+			'''
+			近战伤害+12%
+			大幅提升机动性
+			生命上限提升20点
+			'''
+	}
+
+	HellknightChestplate: {
+		DisplayName: 狱骑士胸甲
+		Tooltip:
+			'''
+			暴击率+7%
+			伤害+5%
+			'''
+	}
+
+	HellknightHelmet: {
+		DisplayName: 狱骑士头盔
+		Tooltip:
+			'''
+			近战伤害+12%
+			近战暴击率+5%
+			'''
+	}
+
+	HellknightLeggings: {
+		DisplayName: 狱骑士护腿
+		Tooltip:
+			'''
+			近战伤害+5%
+			移动速度+12%
+			'''
+	}
+
+	TribalChestplate: {
+		DisplayName: 部族胸甲
+		Tooltip:
+			'''
+			暴击率+5%
+			近战伤害+7%
+			'''
+	}
+
+	TribalHat: {
+		DisplayName: 部族头巾
+		Tooltip:
+			'''
+			防御力+5点
+			近战伤害+5%
+			'''
+	}
+
+	TribalPants: {
+		DisplayName: 部族长裤
+		Tooltip:
+			'''
+			近战伤害+3%
+			移动速度+7%
+			'''
+	}
+
+	BramblePartisan: {
+		DisplayName: 荆棘长矛
+		Tooltip:
+			'''
+			每三次攻击释放一根毒刺
+			击中敌人有概率使其中毒
+			'''
+	}
+
+	CactusSpike: {
+		DisplayName: 仙人掌尖刺
+		Tooltip: 击中敌人小幅概率造成中毒
+	}
+
+	CrimsonSpear: {
+		DisplayName: 猩红屠戮矛
+		Tooltip: 每次突刺释放血色冲击波
+	}
+
+	CrystalCrusher: {
+		DisplayName: 碎晶矛
+		Tooltip: 命中时迸出水晶碎片
+	}
+
+	DemonSpear: {
+		DisplayName: 恶魔裁决矛
+		Tooltip: 每次突刺释放恶魔能量冲击
+	}
+
+	ElementalSpear: {
+		DisplayName: 元素撕裂矛
+		Tooltip:
+			'''
+			突刺与投掷速度极快
+			每三下突射释放火球
+			每五下突射释放冰光束
+			可同时灼烧、冰冻敌人
+			'''
+	}
+
+	FrozenSpear: {
+		DisplayName: 寒霜长戟
+		Tooltip: 击中敌人有概率施加霜冻灼烧
+	}
+
+	GodslayerSpear: {
+		DisplayName: 弑神之矛
+		Tooltip:
+			'''
+			“蕴含诸神之力”
+			命中迸发金光爆炸
+			主矛向前投射副矛
+			可施加脓毒效果
+			'''
+	}
+
+	HunterSpear: {
+		DisplayName: 猎手长矛
+		Tooltip: ""
+	}
+
+	KingSpear: {
+		DisplayName: 迈达斯之矛
+		Tooltip:
+			'''
+			释放脓毒弹
+			投掷长矛无视重力、可反弹，穿透更多敌人
+			暴击概率极高，命中附带脓毒
+			'''
+	}
+
+	MarbleSpear: {
+		DisplayName: 凯旋矛
+		Tooltip: 击中生成大理石爆炸，造成范围伤害
+	}
+
+	MoltenJabber: {
+		DisplayName: 狱骑士突刺矛
+		Tooltip: 击中敌人有概率引燃目标
+	}
+
+	PaladinSpear: {
+		DisplayName: 圣武士薙刀
+		Tooltip:
+			'''
+			右键投掷可回收长矛
+			投掷矛能穿透物块
+			暴击时回复生命，附带脓毒
+			'''
+	}
+
+	ReinforcedPike: {
+		DisplayName: 强化长枪
+		Tooltip: ""
+	}
+
+	ShadowLance: {
+		DisplayName: 暗炎长枪
+		Tooltip:
+			'''
+			吞噬敌方生命力
+			挥出恶魔镰刀轨迹
+			投掷命中生成小型恶魔镰刀
+			'''
+	}
+
+	WoodenPike: {
+		DisplayName: 木长枪
+		Tooltip:
+			'''
+			投掷长矛会让敌人流血
+			流血目标受到投射伤害提升20%
+			'''
+	}
+
+	CrystalSpearHead: {
+		DisplayName: 水晶矛尖
+		Tooltip:
+			'''
+			明显灌注了魔力
+			用于打造强力长矛
+			'''
+	}
+
+	SpearHead: {
+		DisplayName: 矛尖
+		Tooltip:
+			'''
+			哎哟，真尖！
+			用来制作长矛
+			'''
+	}
+
+	Spear: {
+		DisplayName: 长矛
+		Tooltip: 尖尖的！
+	}
+
+	Leather: {
+		DisplayName: 皮革
+		Tooltip: 制作部族防具的材料
+	}
+}
+
+Projectiles: {
+	CrimsonEnergyBall.DisplayName: 血色能量球
+	DemonEnergyBall.DisplayName: 恶魔能量球
+	Explosion.DisplayName: 小型爆炸
+	ExplosionBig.DisplayName: 中型爆炸
+	ExplosionLarge.DisplayName: 大型爆炸
+	GodShield.DisplayName: 神之护盾
+	LightExplosion.DisplayName: 净化爆炸
+	MarbleRay.DisplayName: 大理石冲击弹
+	SporeCloud.DisplayName: 孢子云雾
+	BramblePartisanSpear.DisplayName: 荆棘矛投射物
+	CactusSpikeSpear.DisplayName: 仙人掌尖刺投射物
+	CrimsonSpearSpear.DisplayName: 猩红屠戮矛投射物
+	CrystalCrusherSpear.DisplayName: 碎晶矛投射物
+	DarkflameSpearSpear.DisplayName: 暗炎长枪投射物
+	DemonSpearSpear.DisplayName: 恶魔裁决矛投射物
+	ElementalSpearSpear.DisplayName: 元素撕裂矛投射物
+	FrozenSpearSpear.DisplayName: 寒霜长戟投射物
+	GodslayerSpearSpear.DisplayName: 弑神之矛投射物
+	HunterSpearSpear.DisplayName: 猎手长矛投射物
+	KingSpearSpear.DisplayName: 迈达斯之矛投射物
+	MarbleSpearSpear.DisplayName: 凯旋矛投射物
+	MoltenJabberSpear.DisplayName: 狱骑士突刺矛投射物
+	PaladinSpear.DisplayName: 圣武士薙刀投射物
+	ReinforcedPikeSpear.DisplayName: 强化长枪投射物
+	SpearSpear.DisplayName: 长矛近战弹
+	ThrownSpear.DisplayName: 投掷长矛通用弹
+	WoodenPikeSpear.DisplayName: 木长枪投射物
+	AdamantiteSpearThrown.DisplayName: 精金长戈投掷弹
+	BramblePartisanThrown.DisplayName: 荆棘投掷矛
+	CactusSpearThrown.DisplayName: 仙人掌尖刺投掷弹
+	ChlorophyteSpearThrown.DisplayName: 叶绿长矛投掷弹
+	CobaltSpearThrown.DisplayName: 钴薙刀投掷弹
+	CrimsonSpearThrown.DisplayName: 猩红屠戮投掷矛
+	CrystalSpearThrown.DisplayName: 碎晶投掷矛
+	DarkflameSpearThrown.DisplayName: 暗炎投掷长枪
+	DarkLanceSpearThrown.DisplayName: 暗影长枪投掷弹
+	DemonSpearThrown.DisplayName: 恶魔裁决投掷矛
+	ElementalSpearThrown.DisplayName: 元素撕裂投掷矛
+	FrozenSpearThrown.DisplayName: 寒霜长戟投掷弹
+	GodslayerSpearThrown.DisplayName: 弑神投掷矛
+	GungnirSpearThrown.DisplayName: 永恒之枪投掷弹
+	HunterSpearThrown.DisplayName: 猎手投掷矛
+	KingSpearThrown.DisplayName: 迈达斯投掷矛
+	MarbleSpearThrown.DisplayName: 凯旋投掷矛
+	MoltenSpearThrown.DisplayName: 狱骑士投掷矛
+	MushroomSpearThrown.DisplayName: 蘑菇长矛投掷弹
+	MythrilSpearThrown.DisplayName: 秘银长戟投掷弹
+	NorthPoleSpearThrown.DisplayName: 北极矛投掷弹
+	ObsidianSpearThrown.DisplayName: 黑曜石鱼叉投掷弹
+	OrichalcumSpearThrown.DisplayName: 山铜长戟投掷弹
+	PaladinSpearThrown.DisplayName: 圣武士投掷薙刀
+	PalladiumSpearThrown.DisplayName: 钯长枪投掷弹
+	ReinforcedSpearThrown.DisplayName: 强化投掷长枪
+	RottedSpearThrown.DisplayName: 腐朽鱼叉投掷弹
+	SpearThrown.DisplayName: 基础投掷长矛
+	TitaniumSpearThrown.DisplayName: 钛三叉戟投掷弹
+	TridentSpearThrown.DisplayName: 三叉戟投掷弹
+	WoodenSpearThrown.DisplayName: 木投掷长枪
+	PaladinSpearSpear.DisplayName: Paladin's Naginata
+}

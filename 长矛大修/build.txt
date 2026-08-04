@@ -1,0 +1,6 @@
+displayName = 长矛大修汉化
+author = IWMiU
+version = 0.1
+modReferences = SpearOverhaul
+translationMod = true
+side = NoSync

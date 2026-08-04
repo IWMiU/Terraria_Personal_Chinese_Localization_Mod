@@ -1,0 +1,6 @@
+displayName = 射手大修
+author = IW
+version = 0.1
+modReferences = ArcheryOverhaul
+translationMod = true
+side = NoSync

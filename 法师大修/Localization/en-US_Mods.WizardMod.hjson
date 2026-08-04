@@ -1,0 +1,1427 @@
+ActualSpellPower: （法术威力：{0}）
+
+Tiles: {
+	ArcaneTable.MapEntry: 奥术台
+	WizardTable.MapEntry: 秘法工坊
+}
+
+Buffs: {
+	ArcaneBuff: {
+		DisplayName: 奥术之力
+		Description: 大幅提升魔法与近战输出
+	}
+
+	ArcaneBuffCooldown: {
+		DisplayName: 奥术之力冷却
+		Description: 奥术之力处于冷却阶段
+	}
+
+	ArcaneShieldBuff: {
+		DisplayName: 魔法屏障
+		Description: 周身环绕一层魔法护盾
+	}
+
+	ArcaneShieldCooldown: {
+		DisplayName: 魔法屏障冷却
+		Description: 魔法屏障护盾冷却中
+	}
+
+	DarknessDebuff: {
+		DisplayName: 腐朽
+		Description: 黑暗能量不断侵蚀你的生命！
+	}
+
+	DarknessDebuff_2: {
+		DisplayName: 腐朽Ⅱ
+		Description: 黑暗不断蚕食生命力！
+	}
+
+	DarknessDebuff_3: {
+		DisplayName: 腐朽Ⅲ
+		Description: 黑暗正在吞噬你的躯体！
+	}
+
+	DeepslateBuff: {
+		DisplayName: 熔岩灼烧
+		Description: 灼热深岩碎片灼烧你的肉身！
+	}
+
+	ElectrifiedBuff: {
+		DisplayName: 触电
+		Description:
+			'''
+			身体充盈电流
+			电流会传导至附近敌人
+			'''
+	}
+
+	DrainingDebuff: {
+		DisplayName: 生命汲取
+		Description: 你的生命力正在被持续抽取！
+	}
+
+	LightDebuff: {
+		DisplayName: 净化Ⅰ
+		Description: 每秒释放治疗光球
+	}
+
+	LightDebuff2: {
+		DisplayName: 净化Ⅱ
+		Description: 每秒释放治疗光球
+	}
+
+	LightDebuff3: {
+		DisplayName: 净化Ⅲ
+		Description: 每秒释放治疗光球
+	}
+
+	LightDebuff4: {
+		DisplayName: 净化Ⅳ
+		Description: 每秒释放治疗光球
+	}
+
+	ManaBuff: {
+		DisplayName: 澄心
+		Description: 提升魔力上限
+	}
+
+	RadiationDebuff: {
+		DisplayName: 辐射病
+		Description: 辐射灼烧体内每一个细胞！
+	}
+
+	RottenDebuff: {
+		DisplayName: 溃烂
+		Description: 皮肤瘙痒，持续受到腐蚀伤害！
+	}
+
+	SlowBuff: {
+		DisplayName: 霜冻禁锢
+		Description: 全身冻僵，几乎无法移动！
+	}
+
+	HealingSpellJarDebuff: {
+		DisplayName: 治疗瓶冷却
+		Description: 暂时无法投掷治疗魔法瓶！
+	}
+
+	ManaSpellJarDebuff: {
+		DisplayName: 魔力瓶冷却
+		Description: 暂时无法投掷魔力魔法瓶！
+	}
+}
+
+Items: {
+	AetherAmulet: {
+		DisplayName: 以太护符
+		Tooltip:
+			'''
+			受伤后的无敌时间大幅延长
+			受到伤害时获得{$Buffs.ArcaneBuff}，提升魔法和近战伤害
+			该增益触发后拥有30秒冷却时间
+			'''
+	}
+
+	ArcaneOrb: {
+		DisplayName: 奥术宝珠
+		Tooltip:
+			'''
+			魔法伤害提升5%
+			魔法暴击率提升5%
+			法术威力+1
+			'''
+	}
+
+	ArcaneShield: {
+		DisplayName: 奥术护盾
+		Tooltip:
+			'''
+			防御力提升14%
+			受伤时生成{$Buffs.ArcaneShieldBuff}屏障，对近身敌人造成伤害
+			护盾强度随魔法暴击率提升
+			冷却10秒
+			免疫击退与岩浆灼烧
+			“魔法护佑着你”
+			'''
+	}
+
+	CelestialHoop: {
+		DisplayName: 星辰环饰
+		Tooltip:
+			'''
+			魔力上限+40
+			7%魔法伤害、7%魔法暴击率
+			受伤释放星尘镰刀（冷却2秒）
+			法术威力+1
+			'''
+	}
+
+	ChaosEnchantment: {
+		DisplayName: 混沌附魔
+		Tooltip:
+			'''
+			每秒有几率将身上减益扩散到周边敌人
+			扩散后的debuff持续时间大幅缩短
+			“让混沌肆虐四方！”
+			'''
+	}
+
+	ClearCrystal: {
+		DisplayName: 澄澈水晶
+		Tooltip:
+			'''
+			魔力上限+40
+			暴击魔力恢复+1
+			法术威力+1
+			'''
+	}
+
+	ConjurerCrystal: {
+		DisplayName: 召唤法师水晶
+		Tooltip:
+			'''
+			生命上限+40，魔力上限+40
+			缓慢恢复生命与魔力
+			暴击魔力恢复+2
+			法术威力+1
+			'''
+	}
+
+	CorruptRing: {
+		DisplayName: 腐化指环
+		Tooltip:
+			'''
+			魔法攻击有概率使敌人溃烂
+			累计造成250伤害后，释放小型追踪食腐弹丸
+			'''
+	}
+
+	EnchantedWard: {
+		DisplayName: 附魔屏障
+		Tooltip:
+			'''
+			魔力增幅防御能力
+			生命值越低，防御加成越高，最高12点防御
+			“魔法护佑着你”
+			'''
+	}
+
+	LifeCrystal: {
+		DisplayName: 生命水晶
+		Tooltip:
+			'''
+			生命上限+40
+			缓慢恢复生命值
+			'''
+	}
+
+	LunarLoop: {
+		DisplayName: 月环坠饰
+		Tooltip:
+			'''
+			魔力上限+20
+			7%魔法伤害
+			法术威力+1
+			'''
+	}
+
+	MoltenRing: {
+		DisplayName: 熔火之戒
+		Tooltip:
+			'''
+			战斗时偶尔召唤陨石轰击敌人
+			魔法攻击可附加{$Buffs.DeepslateBuff}灼烧debuff
+			'''
+	}
+
+	OvergrownPendant: {
+		DisplayName: 蔓生吊坠
+		Tooltip:
+			'''
+			击杀敌人有几率爆出藤蔓
+			魔法攻击附带中毒效果
+			'''
+	}
+
+	VampireRing: {
+		DisplayName: 吸血鬼指环
+		Tooltip:
+			'''
+			魔法攻击可吸取敌人生命值
+			累计300群体伤害后，释放追踪血色弹，冷却2秒
+			血色弹命中吸血
+			'''
+	}
+
+	Beard: {
+		DisplayName: 别致胡须
+		Tooltip: 弥补天生胡须稀疏的遗憾
+	}
+
+	DeepslateChestplate: {
+		DisplayName: 深岩胸甲
+		Tooltip:
+			'''
+			魔法伤害+6%
+			魔法暴击率+6%
+			'''
+	}
+
+	DeepslateHood: {
+		DisplayName: 深岩兜帽
+		Tooltip:
+			'''
+			魔法伤害+12%
+			魔力上限+80
+			'''
+		SetBonus:
+			'''
+			法术威力提升{0}
+			魔法攻击附加强力灼烧效果
+			'''
+	}
+
+	DeepslateLegs: {
+		DisplayName: 深岩护腿
+		Tooltip:
+			'''
+			移动速度+12%
+			暴击魔力恢复+2
+			'''
+	}
+
+	EnchantedHead: {
+		DisplayName: 附魔兜帽
+		Tooltip:
+			'''
+			魔法伤害+5%
+			魔力上限+40
+			'''
+		SetBonus:
+			'''
+			法术威力{0}
+			{$Items.EnchantedTome}、{$Items.EnchantedGauntlet}魔力消耗减半
+			暴击魔力恢复{1}
+			'''
+	}
+
+	EnchantedLegs: {
+		DisplayName: 附魔护腿
+		Tooltip:
+			'''
+			魔法伤害+5%
+			移动速度+7%
+			'''
+	}
+
+	EnchantedTunic: {
+		DisplayName: 附魔法袍
+		Tooltip:
+			'''
+			魔法伤害+3%，魔法暴击+3%
+			魔力消耗降低7%，魔力上限+20
+			暴击魔力恢复+1
+			'''
+	}
+
+	DeathEaterHat: {
+		DisplayName: 噬魂兜帽
+		Tooltip:
+			'''
+			魔法伤害+15%
+			魔力消耗-12%
+			'''
+		SetBonus:
+			'''
+			每三次魔法攻击释放火球
+			魔法命中有概率召唤雷击与暗影爆炸，附带溃烂debuff
+			'''
+	}
+
+	DeathEaterLegs: {
+		DisplayName: 噬魂护腿
+		Tooltip:
+			'''
+			暴击魔力恢复+4
+			法术威力+5
+			'''
+	}
+
+	DeathEaterRobe: {
+		DisplayName: 噬魂长袍
+		Tooltip:
+			'''
+			魔法伤害+7%，魔法暴击+7%
+			魔力上限+120
+			'''
+	}
+
+	LivingWoodLegs: {
+		DisplayName: 原生木护腿
+		Tooltip: 移动速度+5%
+	}
+
+	LivingWoodMask: {
+		DisplayName: 原生木面具
+		Tooltip: 魔法伤害+5%
+		SetBonus:
+			'''
+			周身环绕原生灵球
+			法术威力提升{0}
+			'''
+	}
+
+	LivingWoodRobe: {
+		DisplayName: 原生木法袍
+		Tooltip:
+			'''
+			魔力上限+20
+			魔力消耗-5%
+			'''
+	}
+
+	ArcaneTableItem: {
+		DisplayName: 奥术工作台
+		Tooltip:
+			'''
+			用于制作各类魔法装备
+			“你也是一名法师！”
+			'''
+	}
+
+	WizardTableItem: {
+		DisplayName: 秘法圣台
+		Tooltip: 锻造高阶星辰魔法装备专用工作台
+	}
+
+	EnchantedDagger: {
+		DisplayName: 附魔匕首
+		Tooltip: 如同小刀，却蕴含魔力
+	}
+
+	PocketFireball: {
+		DisplayName: 便携火球术
+		Tooltip:
+			'''
+			赶路法师的应急手段
+			短暂点燃目标敌人
+			'''
+	}
+
+	AmethystScepter: {
+		DisplayName: 紫水晶权杖
+		Tooltip: 发射紫水晶弹幕
+	}
+
+	IneptTome: {
+		DisplayName: 初学魔导书
+		Tooltip:
+			'''
+			发射微弱魔法弹
+			命中附加{$Buffs.LightDebuff}，生成治疗光球
+			治疗量随法术威力提升
+			'''
+		HealingInfoText: 光球回复生命：{0}（上限{1}）
+	}
+
+	AquaticFury: {
+		DisplayName: 怒涛术
+		Tooltip:
+			'''
+			发射强力水元素冲击
+			命中分裂小型水弹
+			'''
+	}
+
+	AshenStaff: {
+		DisplayName: 烬火法杖
+		Tooltip: 投掷熔岩岩块弹幕
+	}
+
+	AurorStaff: {
+		DisplayName: 极光法杖
+		Tooltip:
+			'''
+			自身充带静电
+			电击近身敌人，可连锁多个目标
+			'''
+	}
+
+	BatStaff: {
+		DisplayName: 蝙蝠法杖
+		Tooltip: 释放毒雾，召唤蝙蝠围攻敌人
+	}
+
+	BloodRippleStaff: {
+		DisplayName: 血澜法杖
+		Tooltip: 命中生成血色冲击波
+	}
+
+	BuriedTome: {
+		DisplayName: 地底魔导书
+		Tooltip: 投掷岩弹，命中混乱敌方
+	}
+
+	CelestialSky: {
+		DisplayName: 天穹法杖
+		Tooltip: 高速追踪星盘弹
+	}
+
+	ChainSpaceGun: {
+		DisplayName: 连锁激光枪
+		Tooltip:
+			'''
+			“咻咻！”
+			快速发射激光，弹道略有偏移
+			'''
+	}
+
+	CursedFlames: {
+		DisplayName: 诅咒烈焰
+		Tooltip:
+			'''
+			喷射水晶与诅咒火焰混合弹幕
+			弹道略微偏移
+			'''
+	}
+
+	Cyclone: {
+		DisplayName: 风暴法杖
+		Tooltip:
+			'''
+			左键释放多路闪电
+			右键降下毁灭雷霆，闪电可跳跃至周边敌人
+			'''
+	}
+
+	DarkTome: {
+		DisplayName: 暗影魔导书
+		Tooltip:
+			'''
+			发射暗影魔弹
+			命中附加{$Buffs.DarknessDebuff}腐朽debuff
+			“掌控暗影之力！”
+			'''
+	}
+
+	DeepslateHamaxe: {
+		DisplayName: 深岩锤斧
+		Tooltip: 树木的克星！
+	}
+
+	DeepslatePickaxe: {
+		DisplayName: 深岩镐
+		Tooltip: ""
+	}
+
+	AshenTome: {
+		DisplayName: 烬火魔导书
+		Tooltip: 从天降下熔岩攻击
+	}
+
+	DemonGauntlet: {
+		DisplayName: 邪魔护手【未完成】
+		Tooltip:
+			'''
+			左键突刺挥砍
+			右键大范围横斩
+			'''
+	}
+
+	DemonWaveStaff: {
+		DisplayName: 邪魔冲击波杖
+		Tooltip: 命中生成邪魔震荡波
+	}
+
+	DiamondScepter: {
+		DisplayName: 钻石权杖
+		Tooltip: 发射钻石弹丸
+	}
+
+	EbonwoodStaff: {
+		DisplayName: 乌木法杖
+		Tooltip: 释放暗影飞弹
+	}
+
+	EmeraldScepter: {
+		DisplayName: 翡翠权杖
+		Tooltip: 投掷翡翠碎片攻击敌人
+	}
+
+	EnchantedGauntlet: {
+		DisplayName: 附魔护手
+		Tooltip:
+			'''
+			左键发射拳头冲击
+			右键切换普通/蓄力模式
+			'''
+	}
+
+	EnchantedTome: {
+		DisplayName: 附魔魔导书
+		Tooltip: 快速释放纯粹魔法弹
+	}
+
+	Energizer: {
+		DisplayName: 能量爆破器
+		Tooltip: 发射绿色能量球，爆炸分裂追踪碎片
+	}
+
+	EnergyStaff: {
+		DisplayName: 远古法杖
+		Tooltip:
+			'''
+			光标生成固定符文，治疗友方、毒害敌人
+			治疗效果由法术威力决定
+			'''
+		HealingInfoText: 符文每2秒回复生命{0}（上限{1}）
+	}
+
+	Fiendfyre: {
+		DisplayName: 炼狱之火
+		Tooltip:
+			'''
+			长按凝聚巨型烈焰光束
+			“把一切烧成灰烬！”
+			'''
+	}
+
+	FireBolt: {
+		DisplayName: 熔岩弹
+		Tooltip: 慢速熔岩冲击波
+	}
+
+	FrostBolt: {
+		DisplayName: 寒霜弹
+		Tooltip: 快速冰碎片，有概率冻结弱小敌人
+	}
+
+	Glacier: {
+		DisplayName: 冰川法杖
+		Tooltip: 高速穿透冰弹，沿途散落冰碴
+	}
+
+	GoreDrinker: {
+		DisplayName: 噬血者
+		Tooltip:
+			'''
+			左键吸血弹，对溃烂目标大幅吸血
+			右键释放施加溃烂的血雾
+			'''
+		HealingInfoText: 吸血弹吸取生命值：{0}
+	}
+
+	GreenGauntlet: {
+		DisplayName: 荆棘护手
+		Tooltip:
+			'''
+			左键挥砍荆棘
+			右键喷射毒刺弹幕
+			'''
+	}
+
+	Hailstorm: {
+		DisplayName: 冰雹风暴
+		Tooltip: 从天降下冰冻炸弹
+	}
+
+	LavacoreStaff: {
+		DisplayName: 熔核法杖
+		Tooltip: 投掷冰火混合岩块
+	}
+
+	LeafTome: {
+		DisplayName: 树叶魔导书
+		Tooltip: 喷射叶片弹幕，弹道略散
+	}
+
+	LightningTome: {
+		DisplayName: 雷电魔导书
+		Tooltip: 光标生成静电，传导周边敌人
+	}
+
+	LivingStaff: {
+		DisplayName: 苔藓法杖
+		Tooltip:
+			'''
+			慢速自然能量球，电击附近敌人
+			可同时存在多个
+			'''
+	}
+
+	MagmaSphere: {
+		DisplayName: 熔火宝珠
+		Tooltip:
+			'''
+			慢速烈焰球体，电击周边敌人
+			可同时存在多个
+			'''
+	}
+
+	SorcererTome: {
+		DisplayName: 术士魔导书
+		Tooltip:
+			'''
+			发射追踪魔法束，附加净化debuff
+			治疗量随法术威力提升
+			'''
+		HealingInfoText: 回复友方生命{0}（上限{1}）
+	}
+
+	Molder: {
+		DisplayName: 腐坏者
+		Tooltip:
+			'''
+			左键穿刺腐牙，对溃烂增伤
+			右键释放感染粘液，附加溃烂debuff
+			'''
+	}
+
+	Monsoon: {
+		DisplayName: 季风雨杖
+		Tooltip: 强力水弹，落地生成小型台风
+	}
+
+	MotherEarth: {
+		DisplayName: 大地之母【未编写】
+		Tooltip: 蕴含大地毁灭之力
+	}
+
+	NecroticTome: {
+		DisplayName: 死灵魔导书
+		Tooltip: 弹跳暗影吸血弹
+	}
+
+	RadiationCannon: {
+		DisplayName: 辐射炮
+		Tooltip: 离子冲击波爆炸生成追踪弹，附加辐射debuff
+	}
+
+	RainbowStaff: {
+		DisplayName: 宝石闪光杖
+		Tooltip:
+			'''
+			集合所有宝石法杖效果
+			二击翡翠、三击黄玉、四击彩虹，可作长矛
+			'''
+	}
+
+	Reaper: {
+		DisplayName: 死神
+		Tooltip:
+			'''
+			暗影吞噬敌人
+			“看看我在禁书区找到了什么”
+			'''
+	}
+
+	Relic: {
+		DisplayName: 古遗物
+		Tooltip:
+			'''
+			投掷古化石，爆炸生成沙砾穿刺弹
+			残留石块持续伤害后自爆
+			'''
+	}
+
+	RubyScepter: {
+		DisplayName: 红宝石权杖
+		Tooltip: 红宝石光束，近战同步突刺
+	}
+
+	SapphireScepter: {
+		DisplayName: 蓝宝石权杖
+		Tooltip: 蓝宝石光束，四击释放宝石弹幕
+	}
+
+	ShadewoodStaff: {
+		DisplayName: 暗影木法杖
+		Tooltip: 血色飞弹
+	}
+
+	ShadowTome: {
+		DisplayName: 暗影魔导书
+		Tooltip:
+			'''
+			穿透暗影弹，命中附加腐朽
+			已有腐朽目标伤害更高
+			'''
+	}
+
+	ApprenticeTome: {
+		DisplayName: 学徒魔导书
+		Tooltip:
+			'''
+			反弹魔法弹，附加净化debuff
+			治疗量由法术威力决定
+			'''
+		HealingInfoText: 回复友方生命{0}（上限{1}）
+	}
+
+	SparkStaff: {
+		DisplayName: 火花法杖
+		Tooltip: 释放火花冲击波
+	}
+
+	DeathEaterWand: {
+		DisplayName: 噬魂魔杖
+		Tooltip:
+			'''
+			长按消耗蓝血，召唤追踪骷髅
+			可穿透墙体
+			'''
+	}
+
+	StardustStaff: {
+		DisplayName: 星尘切割杖
+		Tooltip: 穿透旋转星盘弹
+	}
+
+	StormSender: {
+		DisplayName: 风暴使者
+		Tooltip: 多道连锁雷电
+	}
+
+	Supernova: {
+		DisplayName: 超新星
+		Tooltip:
+			'''
+			左键追踪双星盘
+			右键消耗100魔力布置毁灭新星
+			'''
+	}
+
+	ThunderStaff: {
+		DisplayName: 雷霆法杖
+		Tooltip: 小型雷击光束
+	}
+
+	TopazScepter: {
+		DisplayName: 黄玉权杖
+		Tooltip: 黄光弹可反弹墙体
+	}
+
+	TumorTome: {
+		DisplayName: 畸变魔导书
+		Tooltip:
+			'''
+			畸变弹附着敌人，暴击吸血
+			同一时间仅存在一个畸变体
+			'''
+	}
+
+	WaterFront: {
+		DisplayName: 水岸法杖
+		Tooltip: 慢速深水弹，命中向上落雨弹
+	}
+
+	Weeper: {
+		DisplayName: 悲泣杖
+		Tooltip: 暗影冲击，叠加三层腐朽debuff
+	}
+
+	WildFire: {
+		DisplayName: 野火
+		Tooltip:
+			'''
+			长按凝聚烈焰冲击
+			“树人要来找你算账了”
+			'''
+	}
+
+	WizardTome: {
+		DisplayName: 法师魔导书
+		Tooltip: 追踪核心魔法束，附加净化debuff
+		HealingInfoText: 回复友方生命{0}（上限{1}）
+	}
+
+	XionTome: {
+		DisplayName: 幻梦魔导书
+		Tooltip: 环绕幻梦火焰，爆炸彩色冲击
+	}
+
+	DeepslateBar: {
+		DisplayName: 深岩锭
+		Tooltip: 自灰烬中重生
+	}
+
+	EnchantedBook: {
+		DisplayName: 魔法典籍
+		Tooltip: 制作各类魔法法杖素材
+	}
+
+	EnchantedShard: {
+		DisplayName: 附魔碎片
+		Tooltip: 锻造强力魔法装备
+	}
+
+	EnchantedSilk: {
+		DisplayName: 附魔丝绸
+		Tooltip:
+			'''
+			打造魔法防具
+			“现在变成蓝色了！”
+			'''
+	}
+
+	FrozenShard: {
+		DisplayName: 寒冰碎片
+		Tooltip: 灌注寒冰魔力
+	}
+
+	InfusedCrystal: {
+		DisplayName: 巫师水晶
+		Tooltip:
+			'''
+			永久提升魔力上限至200
+			仅可使用一次
+			'''
+	}
+
+	InfusedStar: {
+		DisplayName: 月之精华
+		Tooltip:
+			'''
+			制作星辰魔法武器
+			“只需信念、信任与星尘！”
+			'''
+	}
+
+	LivingShard: {
+		DisplayName: 原生碎片
+		Tooltip: 蕴含自然之力
+	}
+
+	LunarBar: {
+		DisplayName: 月晶锭
+		Tooltip:
+			'''
+			锻造致命武器
+			“蕴含远古能量”
+			'''
+	}
+
+	MagicSoul: {
+		DisplayName: 魔法精魂
+		Tooltip:
+			'''
+			制作魔法装备
+			可与学徒交易
+			'''
+	}
+
+	MetalBand: {
+		DisplayName: 金属环
+		Tooltip:
+			'''
+			打造魔法戒指
+			“双关梗预定”
+			'''
+	}
+
+	MoltenShard: {
+		DisplayName: 熔火碎片
+		Tooltip: 灌注烈焰魔力
+	}
+
+	Paper: {
+		DisplayName: 纸张
+		Tooltip: 制作卷轴、法术书
+	}
+
+	Scroll: {
+		DisplayName: 空白卷轴
+		Tooltip: 制作魔法卷轴与符文
+	}
+
+	SkyCrystal: {
+		DisplayName: 天穹碎片
+		Tooltip: 蕴含天空魔力
+	}
+
+	StarterBag: {
+		DisplayName: 巫师初始包
+		Tooltip:
+			'''
+			右键开启
+			内含各类魔法基础素材
+			'''
+	}
+
+	WizardCrystal: {
+		DisplayName: 巫师水晶
+		Tooltip: ""
+	}
+
+	XionTomeDamaged: {
+		DisplayName: 破损幻梦魔导书
+		Tooltip:
+			'''
+			能感受到远古共鸣
+			可以修复
+			'''
+	}
+
+	CharredScroll: {
+		DisplayName: 焦火卷轴
+		Tooltip: 使用时生成巨型火焰爆炸
+	}
+
+	IceScroll: {
+		DisplayName: 冻土卷轴
+		Tooltip: 释放大范围冰爆
+	}
+
+	LivingScroll: {
+		DisplayName: 自然卷轴
+		Tooltip: 纯粹原生态植物冲击
+	}
+
+	WaterScroll: {
+		DisplayName: 海啸卷轴
+		Tooltip: 召唤多种水系弹幕
+	}
+
+	GreaterHealingSpellJar: {
+		DisplayName: 大型治疗魔瓶
+		Tooltip: ""
+		HealingInfoText:
+			'''
+			溅射治疗{0}生命
+			残留治疗雾持续{1}秒，总治疗上限{2}
+			'''
+	}
+
+	HealingSpellJar: {
+		DisplayName: 中型治疗魔瓶
+		Tooltip: ""
+		HealingInfoText:
+			'''
+			溅射治疗{0}生命
+			残留治疗雾持续{1}秒，总治疗上限{2}
+			'''
+	}
+
+	LesserHealingSpellJar: {
+		DisplayName: 小型治疗魔瓶
+		Tooltip: ""
+		HealingInfoText:
+			'''
+			溅射治疗{0}生命
+			残留治疗雾持续{1}秒，总治疗上限{2}
+			'''
+	}
+
+	HoneySpellJar: {
+		DisplayName: 蜂蜜魔瓶
+		Tooltip: ""
+		HealingInfoText:
+			'''
+			溅射回复{0}生命
+			蜂蜜雾持续{1}秒，附带蜂蜜增益
+			'''
+	}
+
+	GreaterManaSpellJar: {
+		DisplayName: 大型魔力魔瓶
+		Tooltip: ""
+		ManaRestoreInfoText:
+			'''
+			溅射回复{0}魔力
+			魔力雾持续{1}秒，总回复上限{2}
+			'''
+	}
+
+	ManaSpellJar: {
+		DisplayName: 中型魔力魔瓶
+		Tooltip: ""
+		ManaRestoreInfoText:
+			'''
+			溅射回复{0}魔力
+			魔力雾持续{1}秒，总回复上限{2}
+			'''
+	}
+
+	LesserManaSpellJar: {
+		DisplayName: 小型魔力魔瓶
+		Tooltip: ""
+		ManaRestoreInfoText:
+			'''
+			溅射回复{0}魔力
+			魔力雾持续{1}秒，总回复上限{2}
+			'''
+	}
+
+	PoisonSpellJar: {
+		DisplayName: 剧毒魔瓶
+		Tooltip: ""
+		PoisonInfoText: 生成毒雾，持续{0}秒，每秒{1}伤害
+	}
+
+	GlassVial: {
+		DisplayName: 玻璃瓶
+		Tooltip: 可灌装各类药剂
+	}
+
+	WaterVial: {
+		DisplayName: 清水瓶
+		Tooltip: 酿造基础魔法药剂
+	}
+
+	HoneyVial: {
+		DisplayName: 蜂蜜瓶
+		Tooltip:
+			'''
+			酿造蜂蜜类药剂
+			“甜丝丝又带点咸？”
+			'''
+	}
+}
+
+ChangedVanillaItemTooltips: {
+	WizardHat_Line1: 似乎有哪里不一样
+	WizardHat_Line2: 魔法伤害提升12%
+	WizardHat_Line3: 魔法暴击提升5%
+	WizardHat_Line4: 法术威力+1
+	SorcererEmblem_Line1: 魔法伤害+15%
+	SorcererEmblem_Line2: 法术威力+2
+	BandofStarpower_Line1: 魔力上限+40
+	BandofStarpower_Line2: 法术威力+1
+	CelestialCuffs_Line1: 扩大魔力星拾取范围
+	CelestialCuffs_Line2: 受伤回复魔力
+	CelestialCuffs_Line3: 魔力上限+20
+	CelestialCuffs_Line4: 法术威力+1
+	Cauldron_Line1: 总觉得缺点盐！
+	Cauldron_Line2: 熬制魔法药剂专用
+	ManaFlower_Line1: 魔力消耗降低25%
+	ManaFlower_Line2: 魔法伤害-5%
+	ManaFlower_Line3: 暴击回蓝+3
+	ManaFlower_Line4: 魔力恢复大幅提升
+	ManaFlower_Line5: 不会自动使用魔力药水
+}
+
+NPCs: {
+	GemSlime.DisplayName: 宝石史莱姆
+	SpellSlime.DisplayName: 魔法史莱姆
+
+	Apprentice: {
+		DisplayName: 魔法学徒
+		TradeEssenceDialogButtonName: 兑换{$Items.MagicSoul}
+		Trade200EssenceDialogButtonName: 兑换200个{$Items.MagicSoul}
+		EssenceTradeTextNormal: 哇，魔法精魂！这是你的报酬。
+		EssenceTradeTextUncommon: 居然是稀有素材！
+		EssenceTradeTextRare: 罕见素材！
+		EssenceTradeTextXion:
+			'''
+			天呐，幻梦魔导书！
+			不过它已经损坏了。
+			'''
+		EssenceTradeEnd: 还要继续兑换精魂吗？
+		Dialogue1: 我之前尝试培育长胡子法术，结果招来了恶魔，那段日子可太糟了。
+		Dialogue2: 还记得第一次施法，师傅把法袍烧了，场面不忍直视。
+		Dialogue3: 你身上有魔法精魂的气息！快给我，我给你丰厚报酬。
+		Dialogue4: 最近我发现提升法术威力可以让魔法产生额外效果。
+		Dialogue5: 帽子越大代表经验越深，我刚学会膨胀法术，帽子直接大了一圈。
+		Dialogue6: 晚上再来吧，我或许有星尘素材，现在只能来回踱步显摆法杖。
+
+		TownNPCMood: {
+			Content: 我很满足
+			NoHome: 我没有家，很难受
+			FarFromHome: 离家太远了
+			LoveSpace: 喜欢宽敞的空间
+			DislikeCrowded: 人太多很压抑
+			HateCrowded: 拥挤环境让我烦躁
+			LikeNPC_Princess: 我喜欢{NPCName}
+			Princess_LovesNPC: 我喜欢{NPCName}
+			LikeBiome: 我喜欢{Biome}
+			LikeNPC: 我喜欢{NPCName}
+		}
+
+		Census.SpawnCondition: 玩家魔力≥50
+	}
+
+	ZombieSorcerer.DisplayName: 丧尸法师
+	DamageXionTomeHint.DisplayName: 找学徒兑换{$Items.MagicSoul}
+}
+
+Bestiary: {
+	Apprentice: 渴求魔法知识的年轻学徒，极度痴迷魔法精魂。
+	GemSlime: 宝石洞穴中诞生的史莱姆
+	SpellSlime: 被魔力浸染，会随机释放魔法弹攻击敌人
+	ZombieSorcerer: 曾经钻研法术的学徒，冒险途中不幸陨落
+}
+
+Prefixes: {
+	BewitchedPrefix.DisplayName: 妖异
+	BlessedPrefix.DisplayName: 祝福
+	CursedPrefix.DisplayName: 诅咒
+	DivinePrefix.DisplayName: 神圣
+	EnchantedPrefix.DisplayName: 附魔
+}
+
+Projectiles: {
+	EnchantedDaggerProjectile.DisplayName: 附魔匕首弹
+	AmethystBeam.DisplayName: 紫水晶光束
+	ApprenticeProj.DisplayName: 学徒魔导书弹
+	AquaticFuryProj1.DisplayName: 水冲击
+	AquaticFuryProj2.DisplayName: 水冲击
+	ArcaneShieldProj.DisplayName: 奥术护盾弹
+	ArcaneShieldProj2.DisplayName: 奥术护盾弹2
+	ArcaneShieldProj3.DisplayName: 奥术护盾弹3
+	ArcaneShieldProj4.DisplayName: 奥术护盾弹4
+	AshenProj.DisplayName: 烬火弹
+	AshenProj2.DisplayName: 烬火弹
+	AshenTomeProj.DisplayName: 烬火魔导书弹
+	AurorProj.DisplayName: 极光弹
+	BatOrbProj.DisplayName: 蝙蝠光球
+	BatSpawnProj.DisplayName: 蝙蝠生成弹
+	BatProj.DisplayName: 恶蝠
+	BloodyProj.DisplayName: 血色弹
+	BlueMagicProj.DisplayName: 蓝魔法弹
+	BunnyProj.DisplayName: 兔子弹
+	CactusProj.DisplayName: 仙人掌弹
+	CelestialSkyProj.DisplayName: 天穹星盘
+	ChainSpaceLaser.DisplayName: 连锁激光
+	CrimsonWave.DisplayName: 猩红冲击波
+	BloodRippleProj.DisplayName: 血澜冲击
+	CycloneLightning.DisplayName: 风暴闪电
+	CycloneLightningForked.DisplayName: 分叉闪电
+	DarkExplosion.DisplayName: 暗影爆炸
+	DarkProj.DisplayName: 暗影弹
+	DeathEaterProj.DisplayName: 噬魂弹
+	DeathEaterSkullPlayer.DisplayName: 噬魂骷髅
+	DeathProj.DisplayName: 死亡弹
+	DeepslateBolt.DisplayName: 深岩弹
+	DemonGauntletProjectile.DisplayName: 邪魔护手弹
+	DemonWave.DisplayName: 邪魔冲击波
+	DemonWaveProj.DisplayName: 邪魔冲击弹
+	DiamondBeam.DisplayName: 钻石光束
+	DreamProj.DisplayName: 幻梦弹
+	DreamProj2.DisplayName: 幻梦弹2
+	EbonwoodProj.DisplayName: 暗影木弹
+	EmeraldBeam.DisplayName: 翡翠光束
+	EmeraldBeamReal.DisplayName: 实体翡翠光束
+	EmeraldSnakeBody.DisplayName: 翡翠蛇身
+	EmeraldSnakeHead.DisplayName: 翡翠蛇头
+	EnchantedGauntletCharged.DisplayName: 蓄力附魔拳
+	EnchantedGauntletProjectile.DisplayName: 附魔拳弹
+	EnchantedGauntletShield.DisplayName: 附魔护盾弹
+	EnchantedProj.DisplayName: 附魔弹
+	EnergizerLaser.DisplayName: 能量激光
+	EnergizerLightning.DisplayName: 能量闪电
+	EnergyLightning.DisplayName: 能量电弧
+	EnergyProj.DisplayName: 能量弹
+	EnergyProjMiddle.DisplayName: 中型能量弹
+	ExampleLaser.DisplayName: 示例激光
+	Explosion.DisplayName: 爆炸
+	ExplosionDark.DisplayName: 暗影爆炸
+	ExplosionIce.DisplayName: 寒冰爆炸
+	ExplosionLarge.DisplayName: 大型爆炸
+	FiendfyreLaser.DisplayName: 炼狱火焰束
+	FireballDie.DisplayName: 火球残骸
+	FireballDieIce.DisplayName: 冰火球残骸
+	FireBoltHeld.DisplayName: 手持熔岩弹
+	FireBoltNormal.DisplayName: 普通熔岩弹
+	FireBoltProj.DisplayName: 熔岩弹
+	FlameProj.DisplayName: 火焰弹
+	FreezeFlameProj.DisplayName: 冻火弹
+	FreezeFlameProj2.DisplayName: 冻火弹2
+	FrostBoltProj.DisplayName: 寒霜弹
+	FrostProj.DisplayName: 冰霜弹
+	FrozenProj.DisplayName: 冰冻弹
+	FrozenProj2.DisplayName: 冰冻弹2
+	DeathEaterFireProj.DisplayName: 噬魂火焰弹
+	GlacierProj.DisplayName: 冰川冰弹
+	GreenGauntletHeld.DisplayName: 荆棘护手持击
+	HealingOrb.DisplayName: 治疗光球
+	HealingOrb2.DisplayName: 治疗光球2
+	HealingOrb3.DisplayName: 治疗光球3
+	HealingOrb4.DisplayName: 治疗光球4
+	HellFireBolt.DisplayName: 地狱火弹
+	HomingCrimson.DisplayName: 追踪猩红弹
+	IceBoltProj.DisplayName: 冰锥弹
+	IcicleProj.DisplayName: 冰碴弹
+	IneptProj.DisplayName: 学徒魔导书弹
+	DrainingProj.DisplayName: 汲取弹
+	LightExplosion.DisplayName: 净化爆炸
+	LightningDirection.DisplayName: 定向闪电
+	LightningProj.DisplayName: 闪电弹
+	LivingOrb.DisplayName: 自然灵球
+	LivingProj.DisplayName: 自然弹
+	MagicProjBasic.DisplayName: 基础魔法弹
+	MagicProjSmall.DisplayName: 小型魔法弹
+	MagicWandProj.DisplayName: 法杖弹
+	MagmaLightning.DisplayName: 熔火电弧
+	MoltenSphere.DisplayName: 熔火宝珠
+	MonsoonBlast.DisplayName: 季风雨冲击
+	NecroticTome.DisplayName: 死灵魔导书弹
+	NecroticOrb.DisplayName: 死灵光球
+	PocketFireballProjectile.DisplayName: 便携火球弹
+	RadiationLaser.DisplayName: 辐射激光
+	RadiationLightning.DisplayName: 辐射闪电
+	RadiationProjectile.DisplayName: 辐射弹
+	RainbowBeam.DisplayName: 彩虹光束
+	RainbowSpear.DisplayName: 彩虹长矛
+	ReaperProj.DisplayName: 死神弹
+	RelicRock.DisplayName: 古化石石块
+	RelicRockSmash.DisplayName: 石块碎裂弹
+	RockSmashPartProj.DisplayName: 碎石碎片
+	RockSmashProj.DisplayName: 碎石弹
+	RottenProj.DisplayName: 溃烂弹
+	RubyBeam.DisplayName: 红宝石光束
+	RubySpear.DisplayName: 红宝石矛
+	SapphireBeam.DisplayName: 蓝宝石光束
+	SapphireBeamMini.DisplayName: 小型蓝宝石光束
+	ShadewoodStaff.DisplayName: 暗影木法杖弹
+	ShadowTome.DisplayName: 暗影魔导书弹
+	SorcererTome.DisplayName: 术士魔导书弹
+	SparkStaff.DisplayName: 火花弹
+	DeathEaterWandProj.DisplayName: 噬魂魔杖弹
+	StardustStaff.DisplayName: 星尘切割弹
+	StormSender.DisplayName: 风暴使者弹
+	Supernova.DisplayName: 超新星本体
+	SuperNovaDisc.DisplayName: 新星星盘
+	SuperNovaSlice.DisplayName: 新星碎片
+	ThunderStaff.DisplayName: 雷霆弹
+	ThunderboltStrike.DisplayName: 雷击
+	ThunderDust.DisplayName: 雷霆粉尘
+	ThunderDustDamage.DisplayName: 粉尘伤害弹
+	ThunderProj.DisplayName: 雷电弹
+	ThunderStaffProj.DisplayName: 法杖雷击弹
+	ThunderStrikeProj.DisplayName: 雷击弹
+	TopazScepter.DisplayName: 黄玉光束
+	TopazBeamReal.DisplayName: 实体黄玉光束
+	TumorTome.DisplayName: 畸变弹
+	WaterFront.DisplayName: 水岸水弹
+	Weeper.DisplayName: 悲泣暗影弹
+	WizardTome.DisplayName: 法师魔导书弹
+	CharredScrollProj.DisplayName: 焦火卷轴爆炸弹
+	IceScrollProj.DisplayName: 冰卷轴弹
+	LivingScrollProj.DisplayName: 自然卷轴弹
+	WaterScrollProj.DisplayName: 海啸卷轴弹
+	GreaterHealingSpellJarLingerProj.DisplayName: 大型治疗残留雾
+	GreaterHealingSpellJarProj.DisplayName: 治疗溅射弹
+	GreaterManaSpellJarLingerProj.DisplayName: 大型魔力残留雾
+	GreaterManaSpellJarProj.DisplayName: 魔力溅射弹
+	HealingSpellJarLingerProj.DisplayName: 中型治疗雾
+	HealingSpellJarProj.DisplayName: 中型治疗溅射弹
+	LesserHealingSpellJarLingerProj.DisplayName: 小型治疗雾
+	LesserHealingSpellJarProj.DisplayName: 小型治疗溅射弹
+	LesserManaSpellJarLingerProj.DisplayName: 小型魔力残留雾
+	LesserManaSpellJarProj.DisplayName: 小型魔力溅射弹
+	ManaSpellJarLingerProj.DisplayName: 中型魔力残留雾
+	ManaSpellJarProj.DisplayName: 中型魔力溅射弹
+	PoisonSpellJarLingerProj.DisplayName: 剧毒残留毒雾
+	PoisonSpellJarProj.DisplayName: 剧毒溅射弹
+	EnergyProj_LivingScroll.DisplayName: 自然卷轴能量弹
+	EnergyProjMiddle_LivingScroll.DisplayName: 中型自然能量弹
+	XionTomeProj.DisplayName: 幻梦魔导书弹
+	Sharknado.DisplayName: 鲨鱼台风弹
+	NecroticExplosion.DisplayName: Necrotic Explosion
+	ShadewoodProj.DisplayName: Shadewood Proj
+	ShadowExplosion.DisplayName: Shadow Explosion
+	ShadowProj.DisplayName: Shadow Proj
+	SorcererProj.DisplayName: Sorcerer Tome Proj
+	SparkProj.DisplayName: Spark Proj
+	SpellSlimeProj.DisplayName: Spell Slime Proj
+	StardustProj.DisplayName: Stardust Proj
+	StardustProjMini.DisplayName: Stardust Proj Mini
+	StormSenderProj.DisplayName: Storm Sender Proj
+	SuperExplosion.DisplayName: Super Explosion
+	SuperNova.DisplayName: Super Nova
+	ThornProj.DisplayName: Thorn Proj
+	ToothProj.DisplayName: Tooth Proj
+	TopazBeam.DisplayName: Topaz Beam
+	TumorClump.DisplayName: Tumor Clump
+	UnicornPatronus.DisplayName: Unicorn Patronus
+	UnicornPatronusRight.DisplayName: Unicorn Patronus Right
+	WaterboltMini.DisplayName: Water blast
+	WaterExplosion.DisplayName: Water Explosion
+	WaterfrontProj.DisplayName: Water blast
+	WeeperProj.DisplayName: Weeper Proj
+	WizardProj.DisplayName: Wizard Proj
+	HoneySpellJarLingerProj.DisplayName: Honey Spell Jar Linger Proj
+	HoneySpellJarProj.DisplayName: Honey Spell Jar Proj
+}
+
+DropConditions.MagicSoulGlobal: 所有敌人低概率掉落魔法精魂
+
+Configs: {
+	LocalConfig: {
+		DisplayName: 本地设置
+		Headers.Adjustments: 法术大修本地配置
+
+		configEnableStartingBag: {
+			Label: 启用初始巫师包
+			Tooltip: 新建角色是否赠送{$Items.StarterBag}
+		}
+
+		configDisplayAetherAmuletCooldownDebuff: {
+			Label: 显示以太护符冷却debuff（{$Items.AetherAmulet}效果）
+			Tooltip: ""
+		}
+
+		ArcaneShieldBuffDisplayChoice: {
+			Label: 魔法护盾提示显示方式
+			Tooltip: 是否/如何显示护盾持续时间
+		}
+
+		configScreenshake: {
+			Label: 模组武器屏幕震动
+			Tooltip: 本模组武器是否触发画面抖动
+		}
+	}
+
+	ServerConfig: {
+		DisplayName: 服务器设置
+		Headers.Adjustments: 法术大修服务器配置
+
+		configMagicWeaponsAutoReuse: {
+			Label: 魔法武器自动连发
+			Tooltip: 所有魔法武器自动持续释放，其他模组武器同样生效
+		}
+
+		configEnablePrefixes: {
+			Label: 启用全新附魔词缀
+			Tooltip: 是否开启本模组专属前缀
+		}
+
+		configEnableVanillaRecipes: {
+			Label: 原版装备新增配方
+			Tooltip: 是否添加原版物品新合成方式
+		}
+
+		configEnableManaFlowerRework: {
+			Label: 魔力花重做
+			Tooltip:
+				'''
+				开启后魔力花大幅降低耗蓝、持续回蓝、暴击回蓝提升，
+				但魔法伤害降低，且不会自动喝魔力药水
+				'''
+		}
+
+		configEnableManaFlowerReworkNoManaPotions: {
+			Label: 魔力花：禁用自动魔力药水
+			Tooltip: 装备魔力花时，低蓝不会自动消耗魔力药剂
+		}
+	}
+
+	BuffDisplayChoices: {
+		Tooltip: ""
+
+		None: {
+			Label: 不显示
+			Tooltip: ""
+		}
+
+		OnlyCooldown: {
+			Label: 仅显示冷却
+			Tooltip: ""
+		}
+
+		ActiveAndCooldown: {
+			Label: 增益+冷却全部显示
+			Tooltip: ""
+		}
+	}
+}
